@@ -120,7 +120,7 @@ http://premimum.online:80/live/jen12345/jen54321/136501.ts
 http://premimum.online:80/live/jen12345/jen54321/136502.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/fb/81/ea/fb81ea77d70e3e57ce09ef50bd91710a.jpg" group-title="Indian Bangla",Star Jalsha HD
-http://103.229.254.25:7001/play/a0c0/index.m3u8
+http:\\103.229.254.25:7001\play\a075\index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla HD
 http://premimum.online:80/live/jen12345/jen54321/98881.ts
