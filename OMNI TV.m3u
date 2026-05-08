@@ -120,10 +120,10 @@ http://premimum.online:80/live/jen12345/jen54321/136501.ts
 http://premimum.online:80/live/jen12345/jen54321/136502.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/fb/81/ea/fb81ea77d70e3e57ce09ef50bd91710a.jpg" group-title="Indian Bangla",Star Jalsha HD
-http://sabado04abrilasdfghjkl.mysynology.net:80/marzouk2bar/2RQ3NvqpgP/67173
+http:\\103.179.25.147:8181\STAR_JALSHA\index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla HD
-http://premimum.online:80/live/jen12345/jen54321/98881.ts
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20240324143250" group-title="Indian Bangla",Sun Bangla
 http://premimum.online:80/live/jen12345/jen54321/3753.ts
@@ -141,13 +141,13 @@ http://premimum.online:80/live/jen12345/jen54321/271038.ts
 http://premimum.online:80/live/jen12345/jen54321/49615.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9_ykbUvqkgB4Kb3Y2dhllHzuFIFnYISxGxg&s" group-title="Indian Bangla",Enterr10 Bangla
-http://premimum.online:80/live/jen12345/jen54321/3801.ts
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhiA9P3vRCZCh5vAeynpC5z7krztgeQ1n3A&s" group-title="Indian Bangla",Sony AATH
 http://premimum.online:80/live/jen12345/jen54321/4083.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg/250px-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Indian Bangla",Akash AATH
-http://premimum.online:80/live/jen12345/jen54321/396.ts
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 
 #EXTINF:-1 group-title="Hindi Entertainment",MTV HD+
 http://103.229.254.25:7001/play/a02s/index.m3u8
@@ -363,7 +363,7 @@ http://103.229.254.25:7001/play/a0et/index.m3u8
 http://198.195.239.50:8095/Tsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",A SportsHD
-http://103.229.254.25:7001/play/a087/index.m3u8
+http://198.195.239.50:8095/Eurosport/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlhUsWIn5P5_pQ_XAdtbOvBEY9eRpwXySN1A&s" group-title="Sports",Cricbuzz
 http://premimum.online:80/live/jen12345/jen54321/2494.ts
@@ -452,11 +452,23 @@ http://103.229.254.25:7001/play/a0dw/index.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Star Sports SELECT 1 HD
+#EXTINF:-1 group-title="Sports",Star Sports 2 HD Tamil
+http://103.229.254.25:7001/play/a0d1/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Star Sports 1 Select HD
 http://103.229.254.25:7001/play/a0bz/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Star Sports SELECT 2 HD
+#EXTINF:-1 group-title="Sports",Star Sports 2 Select HD
 http://103.229.254.25:7001/play/a0c1/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Sony Sports 2
+http://103.229.254.25:7001/play/a0ef/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Sony Sports 3
+http://103.175.73.12:8080/live/77/77_0.m3u8
+
+#EXTINF:-1 group-title="Sports",Sony Sports 5
+http://103.175.73.12:8080/live/80/80_0.m3u8
 
 #EXTINF:-1 group-title="Sports",Eurosport HD
 http://103.229.254.25:7001/play/a03b/index.m3u8
