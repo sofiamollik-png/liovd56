@@ -174,10 +174,10 @@ http://premimum.online:80/live/jen12345/jen54321/6627.ts
 http://103.175.73.12:8080/live/258/258_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/3840px-Nick_logo_2009.svg.png" group-title="Kids",Nick
-http://103.229.254.25:7001/play/a0cq/index.m3u8
+http://110.39.27.47:8001/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSst-xqAQYGc6sJfQLeVu0bRiPPPCccD7qsVg&s" group-title="Kids",Nick Jr
-http://103.229.254.25:7001/play/a0di/index.m3u8
+http://110.39.27.47:8001/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtvdYAWHYssc7CIOBM9UZybr9QBXNaFdiCMg&s" group-title="Kids",Sonic
 http://103.229.254.25:7001/play/a0dl/index.m3u8
@@ -243,7 +243,7 @@ http://103.229.254.25:7001/play/a0dr/index.m3u8
 http://103.229.254.25:7001/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCXRkXwwAHhfGzLPxFRuz9IMBiaPTQA4z7w&s" group-title="Hindi Movies",Sony Max
-http://103.229.254.25:7001/play/a0co/index.m3u8
+http://110.39.27.47:8001/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCXRkXwwAHhfGzLPxFRuz9IMBiaPTQA4z7w&s" group-title="Hindi Movies",Sony Max
 http://premimum.online:80/live/jen12345/jen54321/24582.ts
