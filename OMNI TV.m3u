@@ -76,8 +76,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Channel_1_Logo_Bangladesh.png" group-title="Bangladeshi",Channel 1
-https://pub-c48f3bfcf6dd4e05a0c937bc88afc4a6.r2.dev/CINEFREAK.TOP%20-%20Dhumketu%20%282025%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/1280px-Logo_of_Channel_24_%28Bangladesh%29.svg.png" group-title="Bangladeshi",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Bangladeshi",DBC NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
@@ -118,17 +117,17 @@ http://premimum.online:80/live/jen12345/jen54321/136501.ts
 #EXTINF:-1 group-title="Bangladeshi",Cinema 8
 http://premimum.online:80/live/jen12345/jen54321/136502.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2046593171568918528/LUVSkA8Z.jpg" group-title="Indian Bangla",Star Jalsha HD
-https://tvsen3.aynascope.net/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1dwjBKORbwmaWJ1fsHTY-QQtaTHJZkXFwD2V86s9q-PIFcpFLuSBnWh9TbYPbF4dDJGkOsCDQA=s160-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Star Jalsha
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starjalsha_live_https/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2046593171568918528/LUVSkA8Z.jpg" group-title="Indian Bangla",STAR JALSHA
-http://103.229.254.25:7001/play/a075/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png/revision/latest?cb=20210420232042" group-title="Indian Bangla",Star Jalsha HD
+http://premimum.online/live/jen12345/jen54321/198.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla HD
-https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+http://premimum.online/live/jen12345/jen54321/435.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla SD
-https://allinonereborn.online/opplex/live128.php?id=245893
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla
+http://103.159.180.34:5001/live/625.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20240324143250" group-title="Indian Bangla",Sun Bangla
 http://premimum.online:80/live/jen12345/jen54321/3753.ts
@@ -257,7 +256,7 @@ http://110.39.27.47:8001/play/a01l/index.m3u8
 http://premimum.online:80/live/jen12345/jen54321/24582.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYEN4LgVjotgVdmlLuNvbGMxW4_W2fIEPFHg&s" group-title="Hindi Movies",Sony Max HD
-http://premimum.online:80/live/jen12345/jen54321/98857.ts
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgbbRBD3qJzlZHWeRSAcbfOmOIy63kMVqHQw&s" group-title="Hindi Movies",Sony Max 2
 http://premimum.online:80/live/jen12345/jen54321/973.ts
@@ -305,7 +304,7 @@ http://103.175.73.12:8080/live/257/257_0.m3u8
 http://premimum.online:80/live/jen12345/jen54321/967.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Zee_Caf%C3%A9_logo.png" group-title="Hindi Movies",Zee Cafe HD
-http://103.229.254.25:7001/play/a0cx/index.m3u8
+http://103.159.180.34:5001/live/1319.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkeTybvsyva0QZ51KG97ddD95eBpqpluZlg&s" group-title="Hindi Movies",Zee Classic
 http://103.229.254.25:7001/play/a09w/index.m3u8
@@ -458,16 +457,22 @@ http://103.229.254.25:7001/play/a0ef/index.m3u8
 http://103.229.254.25:7001/play/a0dw/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
-http://103.229.254.25:7001/play/a0a0/index.m3u8
+http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",Star Sports 2 HD Tamil
 http://103.229.254.25:7001/play/a0d1/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Star Sports 1 Select HD
-http://103.229.254.25:7001/play/a0bz/index.m3u8
+http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",Star Sports 2 Select HD
 http://103.229.254.25:7001/play/a0c1/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Star Sports 2 HD
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD&uid=999&pass=999
+
+#EXTINF:-1 group-title="Sports",Star Sports 3
+http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_3&uid=999&pass=999
 
 #EXTINF:-1 group-title="Sports",Sony Sports 2
 http://103.229.254.25:7001/play/a0ef/index.m3u8
