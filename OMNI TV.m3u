@@ -130,7 +130,7 @@ http://premimum.online/live/jen12345/jen54321/435.ts
 http://103.159.180.34:5001/live/625.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20240324143250" group-title="Indian Bangla",Sun Bangla
-http://premimum.online:80/live/jen12345/jen54321/3753.ts
+http://103.159.180.34:5001/live/1669.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2046593171568918528/LUVSkA8Z.jpg" group-title="Indian Bangla",Colors Bangla HD
 http://premimum.online:80/live/jen12345/jen54321/98882.ts
@@ -223,7 +223,7 @@ http://premimum.online:80/live/jen12345/jen54321/117177.ts
 http://premimum.online:80/live/jen12345/jen54321/1918.ts
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/288/60/png-clipart-bangladesh-bengali-discovery-channel-television-channel-bangla-television-blue.png" group-title="Documentary",Discovery Bangla
-http://premimum.online:80/live/jen12345/jen54321/156.ts
+http://103.159.180.34:5001/live/3428.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/213/748/png-transparent-discovery-channel-hd-logo.png" group-title="Documentary",Discovery HD
 http://103.229.254.25:7001/play/a03g/index.m3u8
@@ -235,7 +235,7 @@ http://103.229.254.25:7001/play/a03h/index.m3u8
 http://premimum.online:80/live/jen12345/jen54321/23790.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6iBxYrgSU0ZgOUwWf_2NnY6sJ0YwNJ_XVA&s" group-title="Documentary",National Geographic HD
-http://103.229.254.25:7001/play/a038/index.m3u8
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Nat_Geo_Wild/Nat_Geo_Wild-Logo.wine.png" group-title="Documentary",NatGeo Wild HD
 http://premimum.online:80/live/jen12345/jen54321/7344.ts
@@ -459,8 +459,8 @@ http://103.229.254.25:7001/play/a0dw/index.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
 http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports",Star Sports 2 HD Tamil
-http://103.229.254.25:7001/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 2 HD 
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276732.ts
 
 #EXTINF:-1 group-title="Sports",Star Sports 1 Select HD
 http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
