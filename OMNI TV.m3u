@@ -394,20 +394,14 @@ http://premimum.online:80/live/jen12345/jen54321/5040.ts
 #EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624647%27&EntityType=%27Item%27&EntityId=%27572422%27&Width=1920&Height=1080" group-title="Sports",Hub Sports 4
 http://premimum.online:80/live/jen12345/jen54321/196347.ts
 
-#EXTINF:-1 group-title="Sports",Star Sports 1
-https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=LqL0S3d159KJjzN4HIXrgA&expires=1779120018
-
-#EXTINF:-1 group-title="Sports",Star Sports 1 Hindi
-https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=3Havml5DBHIVCwK64BUOmQ&expires=1779120018
-
 #EXTINF:-1 group-title="Sports",PTV Sports
-https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=vYYTOFNfXQbBLEHo93ud_A&expires=1779120018
+https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779106263&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4437b39cea1efdfe7672d60870c8ef8f
 
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
-http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
+http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHuVlGRAaKYcIN0heTvETivU/m3u8
 
 #EXTINF:-1 group-title="Sports",Star Sports 2 HD 
-http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276732.ts
+http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHohKF4H7nKD0n_EenyefoTE/m3u8
 
 #EXTINF:-1 group-title="Sports",Star Sports 1 Select HD
 http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
