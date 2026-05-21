@@ -346,12 +346,13 @@ http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp"group-title="Sports" group-title="Sports",Star Sports 2 HD
-http://103.157.248.140:8000/play/a01m/index.m3u8
+https://go.skym3u.top/j2wz.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359"group-title="Sports" ,Star Sports 2 HD 
+http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyuR77dlpZCijjKgosVRRujCqKsRMaV7V8A&s"group-title="Sports" group-title="Sports",Star Sports 3
 http://103.157.248.140:8000/play/a078/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359"group-title="Sports" ,Star Sports 2 HD 
-http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest/scale-to-width-down/200?cb=20230128174436"group-title="Sports" group-title="Sports",Star Sports 1 Select HD
 http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
