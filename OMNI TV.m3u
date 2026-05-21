@@ -118,7 +118,7 @@ http://premimum.online:80/live/jen12345/jen54321/136501.ts
 http://premimum.online:80/live/jen12345/jen54321/136502.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1dwjBKORbwmaWJ1fsHTY-QQtaTHJZkXFwD2V86s9q-PIFcpFLuSBnWh9TbYPbF4dDJGkOsCDQA=s160-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Star Jalsha
-http://103.59.176.72:8083/live2/tracks-v1a1/mono.m3u8
+https://tvsen3.aynaott.com/n64PH4YL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png/revision/latest?cb=20210420232042" group-title="Indian Bangla",Star Jalsha HD
 http://premimum.online/live/jen12345/jen54321/198.ts
@@ -167,6 +167,9 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment",Colours HD
 http://149.71.34.166:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Hindi Entertainment",STAR PLUS
+https://padmaonline.duckdns.org:8088/StarPlusHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_Dbxafh3tvuoa-9T55mAUIjs38x159OJTtJ-2-UbL6dRVkbJlu6YeyMazWpHyG8rPJtd" group-title="Hindi Entertainment",STAR PLUS HD
 http://198.195.239.50:8095/StarPlus/index.m3u8
