@@ -10,14 +10,13 @@ http://premimum.online/live/jen12345/jen54321/998.ts
 http://premimum.online/live/jen12345/jen54321/3818.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ATN_Bangla_Logo_without_slogan.svg/1280px-ATN_Bangla_Logo_without_slogan.svg.png" group-title="Bangladeshi",ATN Bangla
-https://bdix.sm-monirulislam-exp.workers.dev/1722/output/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/ATN_News_Logo_without_slogan.svg/1280px-ATN_News_Logo_without_slogan.svg.png" group-title="Bangladeshi",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOs5DaHNZUBudMN07ZPFiHJPWv2cVSjSpgKQ&s" group-title="Bangladeshi",BanglaVision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1280px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladeshi",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
@@ -181,6 +180,9 @@ http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Hindi Entertainment",Sony Pal
 http://premimum.online:80/live/jen12345/jen54321/6627.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%26TV_2025.svg/1280px-%26TV_2025.svg.png" group-title="Hindi Entertainment",&tv HD
+http://103.157.248.140:8000/play/a01e/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Shemaroo_TV.svg/revision/latest/scale-to-width-down/275?cb=20200430025535" group-title="Hindi Entertainment",Shemaroo
 http://103.175.73.12:8080/live/258/258_0.m3u8
 
@@ -203,7 +205,7 @@ http://premimum.online:80/live/jen12345/jen54321/973.ts
 http://103.180.212.191:3500/live/1393.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="Movies",&Picture HD
-http://103.229.254.25:7001/play/a033/index.m3u8
+http://103.157.248.140:8000/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHXALK-FokPDYFRa0MsrO5pqjVgTAnUrycg&s" group-title="Movies",&explore HD
 http://premimum.online:80/live/jen12345/jen54321/4082.ts
@@ -254,7 +256,7 @@ http://premimum.online:80/live/jen12345/jen54321/966.ts
 http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg" group-title="Movies",Star Gold 2
-http://103.229.254.25:7001/play/a0df/index.m3u8
+http://103.253.18.58:8000/play/a00r
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Movies",Star Gold 2 HD
 http://103.229.254.25:7001/play/a0d0/index.m3u8
@@ -296,7 +298,7 @@ http://103.229.254.25:7001/play/a0es/index.m3u8
 http://103.175.73.12:8080/live/43/43_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="Movies",Sony Pix HD
-http://103.229.254.25:7001/play/a02u/index.m3u8
+http://103.157.248.140:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReASMVUSxHm7weId4uWZ0Er3tSTaPzyrINPw&s" group-title="Movies",STAR Movies HD
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
@@ -334,40 +336,45 @@ http://premimum.online:80/live/jen12345/jen54321/5040.ts
 #EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624647%27&EntityType=%27Item%27&EntityId=%27572422%27&Width=1920&Height=1080" group-title="Sports",Hub Sports 4
 http://premimum.online:80/live/jen12345/jen54321/196347.ts
 
-#EXTINF:-1 group-title="Sports",PTV Sports
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s" group-title="Sports",PTV Sports
 https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779106263&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4437b39cea1efdfe7672d60870c8ef8f
 
-#EXTINF:-1 group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1ap8OAmKXlkBZ5VYiUstIstLiCYHmAtlcA&s" group-title="Sports",Star Sports 1 HD
 http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Star Sports 1 Hindii
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTMpUWHiwXrJ6Lo8sueMwEidd-ny_BkCWsCQ&s"  group-title="Sports",Star Sports 1 Hindii
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Star Sports 2 HD 
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp"group-title="Sports" group-title="Sports",Star Sports 2 HD
+http://103.157.248.140:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyuR77dlpZCijjKgosVRRujCqKsRMaV7V8A&s"group-title="Sports" group-title="Sports",Star Sports 3
+http://103.157.248.140:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359"group-title="Sports" ,Star Sports 2 HD 
 http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Star Sports 1 Select HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest/scale-to-width-down/200?cb=20230128174436"group-title="Sports" group-title="Sports",Star Sports 1 Select HD
 http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports",Star Sports 2 Select HD
-http://103.229.254.25:7001/play/a0c1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Star-sports-select-2-hd.png/revision/latest?cb=20230128175317"group-title="Sports" group-title="Sports",Star Sports 2 Select HD
+http://103.157.248.140:8000/play/a00p/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Star Sports 2 HD
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD&uid=999&pass=999
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png"group-title="Sports" group-title="Sports",Sony Sports 1 HD
+http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
 
-#EXTINF:-1 group-title="Sports",Star Sports 3
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_3&uid=999&pass=999
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png"group-title="Sports" group-title="Sports",Sony Sports 2 HD
+http://198.195.239.50:8095/SonyTenSports2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports",Ten Sports
-https://cdn9.zohanayaan.com:1686/hls/tenspk.m3u8?md5=ypNtlyNcBFwfRvzfv_5QAw&expires=1779120019
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png"group-title="Sports" group-title="Sports",Sony Sports 3 HD
+http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
 
-#EXTINF:-1 group-title="Sports",A Sports HD
-https://cdn4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=0RhSD-4u6JZnahQKRDYkUA&expires=1779120019
+#EXTINF:-1tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png"group-title="Sports"  group-title="Sports",Sony Sports 5 HD
+http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh86yxhL4xhClh3GgCfyG8I8lGUO_LgdlaTA&s" group-title="Sports",Sky Sports Cricket
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Sky-sports-main-cricket.jpg"group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh86yxhL4xhClh3GgCfyG8I8lGUO_LgdlaTA&s" group-title="Sports",Sky Sports Cricket
 http://premimum.online:80/live/jen12345/jen54321/12.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCIBu1p9vJonBdnY_HJxN50uw-XoRI6IYbQA&s" group-title="Sports",Sky Sports Main Event
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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"group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCIBu1p9vJonBdnY_HJxN50uw-XoRI6IYbQA&s" group-title="Sports",Sky Sports Main Event
 http://premimum.online:80/live/jen12345/jen54321/186597.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAkizbKpXkWiDgL6ppkhmoovep7n_4dNVvOQ&s" group-title="Sports",Sky Sports Premier League
@@ -429,18 +436,6 @@ http://premimum.online:80/live/jen12345/jen54321/98.ts
 
 #EXTINF:-1 group-title="Sports",Ten Cricket HD
 http://103.229.254.25:7001/play/a0ep/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Sony Sports 1 HD
-http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
-
-#EXTINF:-1 group-title="Sports",Sony Sports 2 HD
-http://198.195.239.50:8095/SonyTenSports2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",Sony Sports 3 HD
-http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
-
-#EXTINF:-1 group-title="Sports",Sony Sports 5 HD
-http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
 
 #EXTINF:-1 group-title="Sports",Eurosport HD
 http://103.229.254.25:7001/play/a03b/index.m3u8
