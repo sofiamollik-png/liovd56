@@ -351,7 +351,7 @@ https://go.skym3u.top/joh3.m3u8
 https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8?e=1779178079&token=14dc3f04ef5f0057c16df8ae84e40649&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlhUsWIn5P5_pQ_XAdtbOvBEY9eRpwXySN1A&s" group-title="Sports",Cricbuzz
-http://premimum.online:80/live/jen12345/jen54321/2494.ts
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163988.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" group-title="Sports",Willow
 http://premimum.online:80/live/jen12345/jen54321/23943.ts
@@ -671,6 +671,203 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQllLA5gWrnqW8mq8yfLMbHpq7C1idABZELhw&s" group-title="Documentary",History TV18
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C202/master.m3u8
 
+#EXTINF:-2 group-title="FIFA World Cup",ESTUDIO CALIENTE TV PO
+#EXTVLCOPT:network-caching=1000
+http://45.172.92.111:8000/play/a02d/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup", FOXONE
+#EXTVLCOPT:network-caching=1000
+http://45.5.119.43:4000/play/a02v/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup", FOX CR
+#EXTVLCOPT:network-caching=1000
+http://8.243.126.131:8000/play/a0oq/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup", FOXONE
+#EXTVLCOPT:network-caching=1000
+http://8.243.126.131:8000/play/a0ih/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup", FOXONE
+#EXTVLCOPT:network-caching=1000
+http://45.228.234.62:8000/play/a05i/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup", FOXONE
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.210:9999/play/a0as/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup", FOXONE
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a03i/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup", FOXONE
+#EXTVLCOPT:network-caching=1000
+http://187.245.231.226:8000/play/a0og/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup", FOXONE
+#EXTVLCOPT:network-caching=1000
+http://181.119.108.27:7292/play/a02v/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup", FOXONE
+#EXTVLCOPT:network-caching=1000
+http://170.244.209.30:8000/play/a0y3/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup", FOXONE
+#EXTVLCOPT:network-caching=1000
+http://186.33.25.234:8125/play/a04p/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup", FOXONE
+#EXTVLCOPT:network-caching=1000
+http://181.119.111.25:4000/play/a0f1/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",DSPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://74.208.30.121/a176/mono.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",DSPORTS HD
+#EXTVLCOPT:network-caching=1000
+https://futbol9865.ultratv13.workers.dev/deportivo111/94.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Directv sport
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.64:8090/play/a0je/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Directv sport
+#EXTVLCOPT:network-caching=1000
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Directv sport
+#EXTVLCOPT:network-caching=1000
+http://201.240.104.137:8000/play/a0aa/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Directv sport
+#EXTVLCOPT:network-caching=1000
+http://200.60.124.20:29000/play/a081/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Directv sport
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0s8/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",DSPORTS2 HD
+#EXTVLCOPT:network-caching=1000
+http://74.208.30.121/a177/mono.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",DSPORTS2 HD
+#EXTVLCOPT:network-caching=1000
+https://futbol9865.ultratv13.workers.dev/deportivo111/95.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",dtv2
+#EXTVLCOPT:network-caching=1000
+https://gist.githubusercontent.com/rajarong/57c9bd40908c51fcf722bbe32a2bb140/raw/becaea9c137013aad035c447f99d1d110d88460a/dtv2
+#EXTVLCOPT:network-caching=1000
+http://200.59.188.3:8000/play/a0xe
+#EXTINF:-2 group-title="FIFA World Cup",DSPORTS+ HD
+#EXTVLCOPT:network-caching=1000
+http://74.208.30.121/a178/mono.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",DSPORTS+ HD
+#EXTVLCOPT:network-caching=1000
+https://futbol9865.ultratv13.workers.dev/deportivo111/96.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TUDN HD
+#EXTVLCOPT:network-caching=1000
+http://74.208.30.121/a192/mono.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TUDN HD
+#EXTVLCOPT:network-caching=1000
+https://futbol9865.ultratv13.workers.dev/deportivo111/68.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TUDN HD OP2
+#EXTVLCOPT:network-caching=1000
+https://futbol9865.ultratv13.workers.dev/deportivo111/106.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TUDN HD OP3
+#EXTVLCOPT:network-caching=1000
+https://futbol9865.ultratv13.workers.dev/deportivo111/107.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TUDN 
+#EXTVLCOPT:network-caching=1000
+http://45.5.119.43:4000/play/a05q/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",37) TUDN
+#EXTVLCOPT:network-caching=1000
+http://45.228.234.62:8000/play/a00a/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TUDN
+#EXTVLCOPT:network-caching=1000
+http://45.186.106.207:8000/play/a099/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TUDN
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.214:8000/play/a05r/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TUDN
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a096/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TUDN
+#EXTVLCOPT:network-caching=1000
+http://24.152.53.3:8090/play/a012/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TUDN
+#EXTVLCOPT:network-caching=1000
+http://187.245.231.226:8000/play/a0ut/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TUDN 4K
+#EXTVLCOPT:network-caching=1000
+http://177.10.184.60:8002/play/a013/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TUDN 4K
+#EXTVLCOPT:network-caching=1000
+http://190.83.9.222:8000/play/ca040/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TUDN
+#EXTVLCOPT:network-caching=1000
+http://190.83.9.222:8000/play/ca099/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TUD SD
+#EXTVLCOPT:network-caching=1000
+http://45.171.64.30:8800/play/a07e
+#EXTINF:-2 group-title="FIFA World Cup",TUD SD
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.210:9999/play/a01v/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TD+ HD
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.210:9999/play/a00g/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TD+ HD
+#EXTVLCOPT:network-caching=1000
+http://177.10.184.60:8002/play/a013/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TD+ HD
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00d/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TD+ HD
+#EXTVLCOPT:network-caching=1000
+http://200.115.96.66:4000/play/a02i/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TD+ HD
+#EXTVLCOPT:network-caching=1000
+http://170.244.209.30:8000/play/a00h/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",37) TUDN
+#EXTVLCOPT:network-caching=1000
+http://181.119.111.25:4000/play/a04f/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TD+2 HD
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.210:9999/play/a00h/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TD+2 HD
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a00e/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TD+2 HD
+#EXTVLCOPT:network-caching=1000
+http://200.115.96.66:4000/play/a02h/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",TD+2 HD
+#EXTVLCOPT:network-caching=1000
+http://170.244.209.30:8000/play/a00i/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Deportes TVC - HND
+#EXTVLCOPT:network-caching=1000
+http://181.119.111.25:4000/play/a0ky/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Deportes tvc
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a04k/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Deportes tvc
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.142:8000/play/a05g/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Deportes tvc
+#EXTVLCOPT:network-caching=1000
+http://200.115.96.66:4000/play/a005/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Deportes tvc
+#EXTVLCOPT:network-caching=1000
+http://200.115.96.66:4000/play/a001/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Deportes tvc
+#EXTVLCOPT:network-caching=1000
+http://200.115.96.66:4000/play/a0dn/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Win Sports
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Win Sports
+#EXTVLCOPT:network-caching=1000
+http://181.78.211.244:8005/play/a0am/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Win Sports
+#EXTVLCOPT:network-caching=1000
+http://181.78.21.46:8009/play/a02s
+#EXTINF:-2 group-title="FIFA World Cup",Win Sports+
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a06v/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Win Sports+
+#EXTVLCOPT:network-caching=1000
+http://181.205.205.173:8888/play/a0ul/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Tigo Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.152:8000/play/a08x/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup", Tigo Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.228.234.62:8000/play/a00h/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup", Tigo Sports+ HD
+#EXTVLCOPT:network-caching=1000
+http://45.171.64.30:2000/play/a08e/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup", Tigo Sports HD lento
+#EXTVLCOPT:network-caching=1000
+http://45.5.119.43:4000/play/a05t/index.m3u8
 
 
 
