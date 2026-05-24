@@ -137,7 +137,7 @@ http://sabado04abrilasdfghjkl.mysynology.net:80/marzouk2bar/2RQ3NvqpgP/67254
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3_f350mZQuocm7Lx2eASxHJHG5s5ynrrD0cQaIMeUMpDSYyz29J5FCHqnl14AXsV19D71qDUdg=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Zee Bangla Sonar
-https://edge2.roarzone.net:8447/roarzone/edge3/zee_bangla_cinema/index.m3u8?token=5db8875532b50490b8ed9d9fea69db1395f5130b-15e383b98b3cbb75b80a94725729d6fc-1779480934-1779470134
+http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9_ykbUvqkgB4Kb3Y2dhllHzuFIFnYISxGxg&s" group-title="Indian Bangla",Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -188,7 +188,7 @@ http://198.195.239.50:8095/StarPlus/index.m3u8
 https://edge2.roarzone.net:8447/roarzone/edge3/zing_sd/index.m3u8?token=174f2052e4fc3c982d3d78e2efa0f7894fcf4f33-1445863ba65f8f178549da7d720663fb-1779480934-1779470134
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment",Colours HD
-http://149.71.34.166:8000/play/a00c/index.m3u8
+http://main.light-ott.net:80/live/3K7U42/XMSJKL/1646809.ts
 
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Zee_TV_HD_2025.svg" group-title="Hindi Entertainment",ZEE TV HD
 http://198.195.239.50:8095/ZeeTV/index.m3u8
@@ -416,7 +416,21 @@ https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1779315746&u=78be6644-0a65-48ec-81a
 https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1779315731&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8dc841f283551e27c6c0343e45538fef
 
 #EXTINF:-1 tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork3.png"group-title="Sports" group-title="Sports",TSN 3
-https://tvsen7.aynaott.com/tsn3/index.m3u8?e=1779315747&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9b1dc579a3e36a992b67894ae1a67900
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png"group-title="Sports" group-title="Sports",HUB SPORTS 1
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/280822.m3u8
+
+#EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279524508%27&EntityType=%27Item%27&EntityId=%27569510%27&Width=1920&Height=1080"group-title="Sports" group-title="Sports",HUB SPORTS 2
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/280823.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVyg6pUbpunggiRtL90-sot9tw5AAbC_7pWQ&s"group-title="Sports" group-title="Sports",HUB SPORTS 3 
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/280824.m3u8
+
+#EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624647%27&EntityType=%27Item%27&EntityId=%27572422%27&Width=1920&Height=1080"group-title="Sports" group-title="Sports",HUB SPORTS 4
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/280825.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSelfMKC_ERlnBSzxWbvOjYOmdFkx__wo_lUA&s"group-title="Sports" group-title="Sports",HUB SPORTS 5
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/280826.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/3840px-Nick_logo_2009.svg.png" group-title="Kids",Nick
 http://202.70.146.135:8000/play/a04c/index.m3u8
