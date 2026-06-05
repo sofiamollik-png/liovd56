@@ -341,10 +341,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzV2mfuaWiI0HdxWZlS5_Q4i7ZOfZnpoy3Gw&s" group-title="Sports",T Sports HD 2
-https://edge2.roarzone.net:8447/roarzone/edge2/tsports/tracks-a1/mono.m3u8?token=901e5408e80f398a1fcf7531d3ebf76e5fcc9287-e2c9d2f9acfda1f327d6ac91d8338bc8-1780697146-1780686346
+https://edge2.roarzone.net:8447/roarzone/edge2/tsports/tracks-a1/mono.m3u8?token=7ae5ede6b8fd9cad51556578bef784a6d05d11f4-7d127d320c9eabc253b1bef3720dd70d-1780697624-1780686824
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzV2mfuaWiI0HdxWZlS5_Q4i7ZOfZnpoy3Gw&s" group-title="Sports",T Sports BDIX
-https://edge2.roarzone.net:8447/roarzone/edge2/tsports/tracks-a1/mono.m3u8?token=e262330f0d1492e6ce06107a6d945da76762f6ca-a9e5d58cec6d4bf38224eb0814a51382-1780696606-1780685806
+https://edge2.roarzone.net:8447/roarzone/edge2/tsports/tracks-a1/mono.m3u8?token=2b6d542bb9034a999ed5ea4d20f3e75c28259fc4-4bfa1f521589adb77961ab704329d1c4-1780697673-1780686873
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",A SportsHD
 https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8?e=1779178079&token=14dc3f04ef5f0057c16df8ae84e40649&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a
