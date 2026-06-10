@@ -1,38 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGXKgsjH6JhmRbz8Pd_gJVNHtDwFi6Oby4Hg&s" group-title="LIVE EVENT",IPL LIVE
-https://edge2.roarzone.net:8447/roarzone/edge5/willow-tv/tracks-v1a1/mono.m3u8?token=0c05fdd2ebedf84ac021b3fd36017e55578b27c6-0930c15f629d5ed5e608da45edfe67e7-1780697352-1780686552
+https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/2026_FIFA_World_Cup_emblem.svg" group-title="LIVE EVENT",FIFA World Cup LIVE
-https://edge2.roarzone.net:8447/roarzone/edge5/t-sports-hd/tracks-v1a1/mono.m3u8?token=5f3a556f451f4bf9a78e32c6d7a67f50bb46e231-15c15a0df738765896308e01125f8553-1780697514-1780686714
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://wx1.sinaimg.cn/middle/005GBa1lly1idzbx5nq3wj30oq0u0dl9.jpg" group-title="LIVE EVENT",International FIFA Friendly
-https://white-meadow-5b0f.sksuruj345.workers.dev/?url=https%3A%2F%2Flivecdn-tc-iptv.rumsport10.live%2Flive_abr%2F274839%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1781142392-Kv4cPTAAP5YTi-ad318adbdedcc1001546f9708c7edc6b1e80781c-285a532a8eff7874d952e81dece64764&referer=https%3A%2F%2Fiframe.rumsport10.live%2F&ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
-
-#EXTINF:-1 tvg-logo="https://wx1.sinaimg.cn/middle/005GBa1lly1idzbx5nq3wj30oq0u0dl9.jpg" group-title="LIVE EVENT",International FIFA Friendly
-https://white-meadow-5b0f.sksuruj345.workers.dev/?url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fstream%2F6%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1781142393-Kv4cPTAAP5YTi-ad318adbdedcc1001546f9708c7edc6b1e80781c-074d828221edbb9cfa5156e2d2727923&referer=https%3A%2F%2Fiframe.rumsport10.live%2F&ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
-
-#EXTINF:-1 tvg-logo="https://wx1.sinaimg.cn/middle/005GBa1lly1idzbx5nq3wj30oq0u0dl9.jpg" group-title="LIVE EVENT",International FIFA Friendly
-https://wgvivxytyokhvcglgaeh.supabase.co/functions/v1/stream-proxy?url=https%3A%2F%2Fin-mc-fblive.fancode.com%2Fmumbai%2F143344_english_hls_8095ea56fc50401_1ta-di_h264%2F720p.m3u8&referer=https%3A%2F%2Fin-mc-fblive.fancode.com%2F&origin=https%3A%2F%2Fin-mc-fblive.fancode.com
-
-#EXTINF:-1 tvg-logo="https://wx1.sinaimg.cn/middle/005GBa1lly1idzbx5nq3wj30oq0u0dl9.jpg" group-title="LIVE EVENT",International FIFA Friendly
-https://daffodil.sandhost.qzz.io/dep.m3u8
-
-#EXTINF:-1 tvg-logo="https://wx1.sinaimg.cn/middle/005GBa1lly1idzbx5nq3wj30oq0u0dl9.jpg" group-title="LIVE EVENT",International FIFA Friendly
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781006662-0-0-6a1f8d410591272105b01fbf3d89f314
-
-#EXTINF:-1 tvg-logo="https://wx1.sinaimg.cn/middle/005GBa1lly1idzbx5nq3wj30oq0u0dl9.jpg" group-title="LIVE EVENT",International FIFA Friendly
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781059340-0-0-4c855bc7f683a8949f01cc528458b5c4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangladeshi",BTV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSy9vaz-72fDRbtQ-hD_0uPp6oV-Q1iPL0_A&s" group-title="Bangladeshi",BTV News HD
-https://edge2.roarzone.net:8447/roarzone/edge5/btv-news/tracks-v1a1/mono.m3u8?token=708eb18867a3d32083eedc7111f32025bf06dbb8-6e0519e4b53e20e4b72fc8e7cc4ac973-1780696816-1780686016
+https://tvsen6.aynaott.com/BTVNews/index.m3u8?e=1780236741&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=23b2b0c257c541d245a78ab0a74e0691
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSy9vaz-72fDRbtQ-hD_0uPp6oV-Q1iPL0_A&s" group-title="Bangladeshi",BTV Chattogram
 https://tvsen6.aynaott.com/btvctg/index.m3u8?e=1779358080&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4e93f3cf53b83cea508727007804dc02
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ATN_Bangla_Logo_without_slogan.svg/1280px-ATN_Bangla_Logo_without_slogan.svg.png" group-title="Bangladeshi",ATN Bangla
-https://edge2.roarzone.net:8447/roarzone/edge5/atn-bangla/tracks-v1a1/mono.m3u8?token=b3b643695be44395c267dc233191e8ddcaa5bbd9-20d2466bd9c9c91c092c64f4509887b1-1780697280-1780686480
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/ATN_News_Logo_without_slogan.svg/1280px-ATN_News_Logo_without_slogan.svg.png" group-title="Bangladeshi",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
@@ -69,6 +52,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAZSWGOkjYLDWHCPdrR8st3j3u1yhDvPdw1A&s" group-title="Bangladeshi",BijoyTV
 https://tvsen6.aynaott.com/bijoytv/index.m3u8?e=1779106239&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1903961f905e5d6106995a6764b066ae
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/c/c7/20260131144943%21Boishakhi_TV_logo.svg" group-title="Bangladeshi",Boishakhi TV
 https://tvsen6.aynaott.com/boishakhitv/index.m3u8?e=1779106233&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a54238e5c6be32065550d2bdaef7f085
 
@@ -130,10 +114,10 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://tvsen3.aynaott.com/n64PH4YL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png/revision/latest?cb=20210420232042" group-title="Indian Bangla",Star Jalsha HD
-http://premimum.online/live/jen12345/jen54321/198.ts
+https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla HD
-https://edge2.roarzone.net:8447/roarzone/edge3/zee_bangla/index.m3u8?token=376f607b55c4af48bca75ee74ee940a8d716e8a8-2a054fbfccb5b2f39ddff233fceccae1-1779480935-1779470135
+https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla
 http://103.159.180.34:5001/live/625.m3u8
@@ -160,7 +144,7 @@ http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhiA9P3vRCZCh5vAeynpC5z7krztgeQ1n3A&s" group-title="Indian Bangla",Sony AATH HD
-https://edge2.roarzone.net:8447/roarzone/edge5/sony-atth/tracks-v1a1/mono.m3u8?token=2ce93c76527a69af98c0c62ef22500b06815b893-d1f7e190b32c1b052ddf3dd3e9d5b8b0-1780696772-1780685972
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhiA9P3vRCZCh5vAeynpC5z7krztgeQ1n3A&s" group-title="Indian Bangla",Sony AATH
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_480/chunks.m3u8
@@ -358,10 +342,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzV2mfuaWiI0HdxWZlS5_Q4i7ZOfZnpoy3Gw&s" group-title="Sports",T Sports HD 2
-https://edge2.roarzone.net:8447/roarzone/edge2/tsports/tracks-a1/mono.m3u8?token=7ae5ede6b8fd9cad51556578bef784a6d05d11f4-7d127d320c9eabc253b1bef3720dd70d-1780697624-1780686824
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzV2mfuaWiI0HdxWZlS5_Q4i7ZOfZnpoy3Gw&s" group-title="Sports",T Sports BDIX
-https://edge2.roarzone.net:8447/roarzone/edge2/tsports/tracks-a1/mono.m3u8?token=2b6d542bb9034a999ed5ea4d20f3e75c28259fc4-4bfa1f521589adb77961ab704329d1c4-1780697673-1780686873
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",A SportsHD
 https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8?e=1779178079&token=14dc3f04ef5f0057c16df8ae84e40649&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a
@@ -370,7 +354,7 @@ https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8?e=1779178079&token=1
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163988.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" group-title="Sports",Willow
-https://edge2.roarzone.net:8447/roarzone/edge5/willow-tv/tracks-v1a1/mono.m3u8?token=d7d926051bea3dedcbe32edb6975eaf05b47b9c7-97d62221c8d096c5535f9d06e7228c6e-1780696673-1780685873
+https:\\tvsen5.aynaott.com\willowhd\tracks-v1a1\mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-_dsc4qZOlUUatbEB93mCqEO3s-FYHRWN6w&s" group-title="Sports",Willow 2
 https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779315743&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7016d03a4e4161345526f20962305860
@@ -391,7 +375,7 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 https://go.skym3u.top/j2wz.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359"group-title="Sports" ,Star Sports 2 HD 
-http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyuR77dlpZCijjKgosVRRujCqKsRMaV7V8A&s"group-title="Sports" group-title="Sports",Star Sports 3
 http://103.157.248.140:8000/play/a078/index.m3u8
@@ -406,13 +390,13 @@ http://103.157.248.140:8000/play/a00p/index.m3u8
 https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_1_hd/index.m3u8?token=7a4074c755f5ee4cff24fe8c7745f9f336e2f8f5-f2e5c03b810b142e117775e7bbbdd11b-1779480931-1779470131
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png"group-title="Sports" group-title="Sports",Sony Sports 2 HD
-https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_2_hd/index.m3u8?token=2ab892796b918c28436e70b43bbcebbf3299eacb-a46a9f12d33ae0c237512583a17c6ddd-1779480933-1779470133
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/513.ts
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png"group-title="Sports" group-title="Sports",Sony Sports 3 HD
 http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
 
 #EXTINF:-1tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png"group-title="Sports"  group-title="Sports",Sony Sports 5 HD
-https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_5_hd/index.m3u8?token=e78695162b504d3809174c65abf0a22c0a1d2086-dccf2a81fbd560ba9ca74742aa6c9a35-1779480935-1779470135
+http://103.157.248.140:8000/play/a05x/index.m3u8
 
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ten_Cricket.png?_=20250709151702"group-title="Sports"  group-title="Sports",SONY TEN CRICKET
 https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/index.m3u8?token=39cefe40fa6027aba08afec6ae451014cb25f568-178ce4d0abf2744b08bd67195998ea70-1779662604-1779651804
@@ -533,9 +517,91 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPtOR18EGnxepZdsQ0AONjGcWiVnYpqdnUQ&s" group-title="Documentary",TLC HD
 http://103.180.212.191:3500/live/3458.m3u8
 
-#EXTINF:-2 group-title="FIFA World Cup",ESTUDIO CALIENTE TV PO
+#EXTINF:-2 group-title="FIFA World Cup"24,T Sports
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",T Sports
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+#EXTINF:-2 group-title="FIFA World Cup"0,T Sports
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",T Sports
+http://27.124.71.27/T-Sports/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Somoy TV
 #EXTVLCOPT:network-caching=1000
-http://45.172.92.111:8000/play/a02d/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Somoy TV
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/somoytv/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Somoy TV
+#EXTVLCOPT:network-caching=1000
+https://sm-monirul.top/toffee/play/somoy_tv.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026
+#EXTVLCOPT:network-caching=1000
+http://103.179.25.147:8181/T-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026
+#EXTVLCOPT:network-caching=1000
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026
+#EXTVLCOPT:network-caching=1000
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026
+#EXTVLCOPT:network-caching=1000
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026
+#EXTVLCOPT:network-caching=1000
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026
+#EXTVLCOPT:network-caching=1000
+http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026
+#EXTVLCOPT:network-caching=1000
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026
+#EXTVLCOPT:network-caching=1000
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026
+#EXTVLCOPT:network-caching=1000
+https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026
+#EXTVLCOPT:network-caching=1000
+https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238
+#EXTINF:-2 group-title="FIFA World Cup",BTV
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",BTV
+#EXTVLCOPT:network-caching=1000
+https://streams.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026 (T SPORTS)
+#EXTVLCOPT:network-caching=1000
+http://103.158.133.62:8080/live/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026 FS 1
+#EXTVLCOPT:network-caching=1000
+http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/7323/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026 FS 2
+#EXTVLCOPT:network-caching=1000
+http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/7322/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026
+#EXTVLCOPT:network-caching=1000
+https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026
+#EXTVLCOPT:network-caching=1000
+http://66.102.126.10:8000/play/a022/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026 (BTV NATIONAL)
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026 (SOMOY TV)
+#EXTVLCOPT:network-caching=1000
+https://livecdn-bostahls.global.ssl.fastly.net/rongo/rongo-somoy/index.m3u8
+#EXTINF:-2 group-title="FIFA World Cup",Football World Cup 2026
+#EXTVLCOPT:network-caching=1000
+https://live.elheddaftv.com:8081/elheddaf/index.mpd
+#EXTINF:-2 group-title="FIFA World Cup", El Heddaf Tv  #EXTVLCOPT:network-caching=1000
+https://live.elheddaftv.com:8081/elheddaf/index.mpd
 #EXTINF:-2 group-title="FIFA World Cup", FOXONE
 #EXTVLCOPT:network-caching=1000
 http://45.5.119.43:4000/play/a02v/index.m3u8
