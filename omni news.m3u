@@ -180,7 +180,7 @@ https://tvsen6.aynaott.com/zee24/index.m3u8?e=1779649547&u=78be6644-0a65-48ec-81
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Hindi Entertainment",STAR PLUS
-https://padmaonline.duckdns.org:8088/StarPlusHD/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/StarPlus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_Dbxafh3tvuoa-9T55mAUIjs38x159OJTtJ-2-UbL6dRVkbJlu6YeyMazWpHyG8rPJtd" group-title="Hindi Entertainment",STAR PLUS HD
 http://198.195.239.50:8095/StarPlus/index.m3u8
@@ -195,7 +195,7 @@ http://main.light-ott.net:80/live/3K7U42/XMSJKL/1646809.ts
 http://198.195.239.50:8095/ZeeTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Hindi Entertainment",Sony TV
-https://edge2.roarzone.net:8447/roarzone/edge3/sonyentertainmnt_hd/index.m3u8?token=1ec60d8fbf6fd70e9601201d5cf42f103cff987d-423a6a8f595060426b1315dc7c62067a-1779480933-1779470133
+http://198.195.239.50:8095/SonyTv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Hindi Entertainment",Sony HD
 http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
@@ -210,7 +210,7 @@ http://103.157.248.140:8000/play/a01e/index.m3u8
 https://edge2.roarzone.net:8447/roarzone/edge3/sonysab_hd/index.m3u8?token=dd976ddd576369098a0858f6252333b464262f86-d6e5aa7f94b44722889ce0c96d5062b7-1779480932-1779470132
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Shemaroo_TV.svg/revision/latest/scale-to-width-down/275?cb=20200430025535" group-title="Hindi Entertainment",Shemaroo
-http://103.175.73.12:8080/live/258/258_0.m3u8
+https://cdn-3.pishow.tv/live/230/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/480/274/png-clipart-television-channel-dangal-tv-television-show-zee-tv-televisi-oacute-n-purple-television-thumbnail.png" group-title="Hindi Entertainment",Dangal
 https://tvsen6.aynaott.com/Dangal/index.m3u8?e=1779315857&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cbca1ee1f0bc7845451a0bbfa7f60456
