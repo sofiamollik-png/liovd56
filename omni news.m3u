@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="LIVE EVENT",FIFA World Cup LIVE 
+#EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE 
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE FHD
-https://lb11.strmd.st/secure/IsFrZEsmvWwPOgEcYOxEyTcHPAbxTIBA/rtmp/stream/t_JYgOEQRPl2OygqfpoeCU0z73qy5Rr7ZKfjVCSV8Q9ITCUY8T62lYUoW1xGPN28iCc2XdkshscuUbY/1/high/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE FHD
-https://lb2.strmd.st/secure/ZRaNliFkjuRdJhYYXEgxRqaFXxbtGXoL/rtmp/stream/70g4Ftlms5XIggLyrGBJgg3T9GDtf1PASB33ChcR-l4uHv1rhpQ1DmaEn3OS_HCXDjdEunVO/1/high/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
