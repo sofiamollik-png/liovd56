@@ -3,6 +3,9 @@
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" group-title="LIVE EVENT",FIFA World Cup LIVE
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://futbol9865.ultratv13.workers.dev/deportivo111/94.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" group-title="LIVE EVENT",FIFA World Cup LIVE
@@ -365,14 +368,14 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",A SportsHD
 https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8?e=1779178079&token=14dc3f04ef5f0057c16df8ae84e40649&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlhUsWIn5P5_pQ_XAdtbOvBEY9eRpwXySN1A&s" group-title="Sports",Cricbuzz
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163988.m3u8
+#EXTINF:-1 tvg-logo="https://static-resources.redbull.tv/images/smarttv/rbtv/logos/logo.svg" group-title="Sports", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" group-title="Sports",Willow
 https:\\tvsen5.aynaott.com\willowhd\tracks-v1a1\mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-_dsc4qZOlUUatbEB93mCqEO3s-FYHRWN6w&s" group-title="Sports",Willow 2
-https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779315743&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7016d03a4e4161345526f20962305860
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Willow_Xtra_2023_stacked.svg/revision/latest?cb=20240927132403" group-title="Sports",Willow Extra
+http://27.124.71.27/Willow_Extra/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/wHhztDDZrU.png", PTV Sports (FIFA)
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
@@ -402,16 +405,16 @@ http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
 http://103.157.248.140:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png"group-title="Sports" group-title="Sports",Sony Sports 1 HD
-https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_1_hd/index.m3u8?token=7a4074c755f5ee4cff24fe8c7745f9f336e2f8f5-f2e5c03b810b142e117775e7bbbdd11b-1779480931-1779470131
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png"group-title="Sports" group-title="Sports",Sony Sports 2 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/513.ts
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png"group-title="Sports" group-title="Sports",Sony Sports 3 HD
 http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
 
 #EXTINF:-1tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png"group-title="Sports"  group-title="Sports",Sony Sports 5 HD
-http://103.157.248.140:8000/play/a05x/index.m3u8
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
 
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ten_Cricket.png?_=20250709151702"group-title="Sports"  group-title="Sports",SONY TEN CRICKET
 https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/index.m3u8?token=39cefe40fa6027aba08afec6ae451014cb25f568-178ce4d0abf2744b08bd67195998ea70-1779662604-1779651804
@@ -419,8 +422,8 @@ https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/index.m3u8?token=39ce
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Ls8VYlBaCZIctR68jvCG6Xy_0Mg_Tf-wzg&s"group-title="Sports" group-title="Sports",EUROSPORT HD
 http://103.180.212.191:3500/live/875.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh4I51-oF_J3JRJ6yIjsDhhKFnBbMKgjlGTw&s"group-title="Sports" group-title="Sports",DD Sports 2.0
-https://edge2.roarzone.net:8447/roarzone/edge5/dd-sports/tracks-v1/mono.m3u8?token=9c250e4f8d629ea93f0458e4dc28562fb7cd3b83-2f9805d105171114fb2df61c45da7790-1780697187-1780686387
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh4I51-oF_J3JRJ6yIjsDhhKFnBbMKgjlGTw&s"group-title="Sports" group-title="Sports",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"group-title="Sports" group-title="Sports",Espn
 https://tvsen5.aynaott.com/espn/index.m3u8?e=1779315730&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b47f4503ffbe1297ffbb80ee9b9f5320
