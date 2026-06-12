@@ -1,23 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="LIVE EVENT",FIFA World Cup LIVE
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" group-title="LIVE EVENT",FIFA World Cup LIVE
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://futbol9865.ultratv13.workers.dev/deportivo111/94.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="LIVE EVENT",FIFA World Cup LIVE
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://starhub.pro/live/farhat-3379/67897-913379/18452.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="LIVE EVENT",FIFA World Cup LIVE
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="LIVE EVENT",FIFA World Cup LIVE
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="LIVE EVENT",FIFA World Cup LIVE
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="LIVE EVENT",FIFA World Cup LIVE
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="LIVE EVENT",FIFA World Cup LIVE
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangladeshi",BTV HD
@@ -356,6 +359,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzV2mfuaWiI0HdxWZlS5_Q4i7ZOfZnpoy3Gw&s" group-title="Sports",T Sports HD
 http://103.151.61.12/T-Sports.kutta/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzV2mfuaWiI0HdxWZlS5_Q4i7ZOfZnpoy3Gw&s" group-title="Sports",T Sports HD BDX
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",A SportsHD
 https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8?e=1779178079&token=14dc3f04ef5f0057c16df8ae84e40649&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a
 
@@ -368,8 +374,8 @@ https:\\tvsen5.aynaott.com\willowhd\tracks-v1a1\mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-_dsc4qZOlUUatbEB93mCqEO3s-FYHRWN6w&s" group-title="Sports",Willow 2
 https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779315743&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7016d03a4e4161345526f20962305860
 
-#EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624647%27&EntityType=%27Item%27&EntityId=%27572422%27&Width=1920&Height=1080" group-title="Sports",Hub Sports 4
-http://premimum.online:80/live/jen12345/jen54321/196347.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/wHhztDDZrU.png", PTV Sports (FIFA)
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s" group-title="Sports",PTV Sports
 https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779106263&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4437b39cea1efdfe7672d60870c8ef8f
@@ -445,7 +451,6 @@ http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/280826.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA Plus English 🏆
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA Plus B 🏆
 https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
 
@@ -470,9 +475,6 @@ https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA Plus 🇺🇸 USA
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/o5BoWU_BEz.png", Fox Sports 2 - (FIFA)
-https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/1oSRQnyUqK.jpg", Tyc Sports 🇦🇷 Argentina
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
@@ -488,9 +490,6 @@ http://tv.zeuspro.xyz:8080/peterordonez/OKEtJocXkL/157580
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/1oSRQnyUqK.jpg", Tyc Sports E 🇦🇷 Argentina
 http://redworld.pro:8880/56974081590w/A8TsKszFcs6n/327918
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/eYP_0o2cnt.jpg", DSports 🇦🇷
-http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/eYP_0o2cnt.jpg", DSports B 🇦🇷
 https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 
@@ -499,9 +498,6 @@ http://147.135.114.221:8001/play/a00m/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/eYP_0o2cnt.jpg", DSports D 🇦🇷
 http://rlatinop.com:8880/Jhoselin102030xd1011/SQDyyTdV2z6x/526169
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/eYP_0o2cnt.jpg", DSports E 🇦🇷
-http://redworld.pro:8880/56974081590w/A8TsKszFcs6n/428666
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/eYP_0o2cnt.jpg", Vivo TV
 http://rlatinop.com:8880/Jhoselin102030xd1011/SQDyyTdV2z6x/527938
@@ -613,20 +609,11 @@ https://tvsen5.aynaott.com/espn/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/d4W6mvjalX.png", ASports
 https://tvsen6.aynaott.com/asports/index.m3u8
 
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/wHhztDDZrU.png", PTV Sports (FIFA)
-https://tvsen5.aynaott.com/PtvSports/index.m3u8
-
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/u7SqaFacbH.png", TSN 1
 https://tvsen7.aynaott.com/tsn1/index.m3u8
 
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/u7SqaFacbH.png", TSN 2
 https://tvsen7.aynaott.com/tsn2/index.m3u8
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/u7SqaFacbH.png", TSN 3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/3840px-Nick_logo_2009.svg.png" group-title="Kids",Nick
 http://202.70.146.135:8000/play/a04c/index.m3u8
@@ -712,200 +699,190 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPtOR18EGnxepZdsQ0AONjGcWiVnYpqdnUQ&s" group-title="Documentary",TLC HD
 http://103.180.212.191:3500/live/3458.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" group-title="FIFA World Cup",FIFA World Cup LIVE
+https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+
+#EXTINF:-1 tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2022/3/21/1647846719088_381.png"FIFA World Cup", CCTV 5 FIFA
+https://live12.xiazhix1.top/live/85042987.m3u8
 
 #EXTINF:-2 group-title="FIFA World Cup", FOXONE
-#EXTVLCOPT:network-caching=1000
 http://45.5.119.43:4000/play/a02v/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup", FOX CR
-#EXTVLCOPT:network-caching=1000
 http://8.243.126.131:8000/play/a0oq/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup", FOXONE
-#EXTVLCOPT:network-caching=1000
 http://8.243.126.131:8000/play/a0ih/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup", FOXONE
-#EXTVLCOPT:network-caching=1000
 http://45.228.234.62:8000/play/a05i/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup", FOXONE
-#EXTVLCOPT:network-caching=1000
 http://200.229.147.210:9999/play/a0as/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup", FOXONE
-#EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a03i/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup", FOXONE
-#EXTVLCOPT:network-caching=1000
 http://187.245.231.226:8000/play/a0og/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup", FOXONE
-#EXTVLCOPT:network-caching=1000
 http://181.119.108.27:7292/play/a02v/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup", FOXONE
-#EXTVLCOPT:network-caching=1000
 http://170.244.209.30:8000/play/a0y3/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup", FOXONE
-#EXTVLCOPT:network-caching=1000
 http://186.33.25.234:8125/play/a04p/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup", FOXONE
-#EXTVLCOPT:network-caching=1000
 http://181.119.111.25:4000/play/a0f1/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",DSPORTS HD
-#EXTVLCOPT:network-caching=1000
 http://74.208.30.121/a176/mono.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",DSPORTS HD
-#EXTVLCOPT:network-caching=1000
 https://futbol9865.ultratv13.workers.dev/deportivo111/94.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",Directv sport
-#EXTVLCOPT:network-caching=1000
 http://38.210.3.64:8090/play/a0je/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",Directv sport
-#EXTVLCOPT:network-caching=1000
 http://8.243.126.131:8000/play/a05a/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",Directv sport
-#EXTVLCOPT:network-caching=1000
 http://201.240.104.137:8000/play/a0aa/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",Directv sport
-#EXTVLCOPT:network-caching=1000
 http://200.60.124.20:29000/play/a081/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",Directv sport
-#EXTVLCOPT:network-caching=1000
 http://181.224.255.210:8001/play/a0s8/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",DSPORTS2 HD
-#EXTVLCOPT:network-caching=1000
 http://74.208.30.121/a177/mono.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",DSPORTS2 HD
-#EXTVLCOPT:network-caching=1000
 https://futbol9865.ultratv13.workers.dev/deportivo111/95.m3u8
-#EXTINF:-2 group-title="FIFA World Cup",dtv2
-#EXTVLCOPT:network-caching=1000
-https://gist.githubusercontent.com/rajarong/57c9bd40908c51fcf722bbe32a2bb140/raw/becaea9c137013aad035c447f99d1d110d88460a/dtv2
-#EXTVLCOPT:network-caching=1000
-http://200.59.188.3:8000/play/a0xe
+
 #EXTINF:-2 group-title="FIFA World Cup",DSPORTS+ HD
-#EXTVLCOPT:network-caching=1000
 http://74.208.30.121/a178/mono.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",DSPORTS+ HD
-#EXTVLCOPT:network-caching=1000
 https://futbol9865.ultratv13.workers.dev/deportivo111/96.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TUDN HD
-#EXTVLCOPT:network-caching=1000
 http://74.208.30.121/a192/mono.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TUDN HD
-#EXTVLCOPT:network-caching=1000
 https://futbol9865.ultratv13.workers.dev/deportivo111/68.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TUDN HD OP2
-#EXTVLCOPT:network-caching=1000
 https://futbol9865.ultratv13.workers.dev/deportivo111/106.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TUDN HD OP3
-#EXTVLCOPT:network-caching=1000
 https://futbol9865.ultratv13.workers.dev/deportivo111/107.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TUDN 
-#EXTVLCOPT:network-caching=1000
 http://45.5.119.43:4000/play/a05q/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",37) TUDN
-#EXTVLCOPT:network-caching=1000
 http://45.228.234.62:8000/play/a00a/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TUDN
-#EXTVLCOPT:network-caching=1000
 http://45.186.106.207:8000/play/a099/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TUDN
-#EXTVLCOPT:network-caching=1000
 http://45.186.105.214:8000/play/a05r/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TUDN
-#EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a096/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TUDN
-#EXTVLCOPT:network-caching=1000
 http://24.152.53.3:8090/play/a012/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TUDN
-#EXTVLCOPT:network-caching=1000
 http://187.245.231.226:8000/play/a0ut/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TUDN 4K
-#EXTVLCOPT:network-caching=1000
 http://177.10.184.60:8002/play/a013/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TUDN 4K
-#EXTVLCOPT:network-caching=1000
 http://190.83.9.222:8000/play/ca040/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TUDN
-#EXTVLCOPT:network-caching=1000
 http://190.83.9.222:8000/play/ca099/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TUD SD
-#EXTVLCOPT:network-caching=1000
-http://45.171.64.30:8800/play/a07e
-#EXTINF:-2 group-title="FIFA World Cup",TUD SD
-#EXTVLCOPT:network-caching=1000
 http://200.229.147.210:9999/play/a01v/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TD+ HD
-#EXTVLCOPT:network-caching=1000
 http://200.229.147.210:9999/play/a00g/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TD+ HD
-#EXTVLCOPT:network-caching=1000
 http://177.10.184.60:8002/play/a013/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TD+ HD
-#EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a00d/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TD+ HD
-#EXTVLCOPT:network-caching=1000
 http://200.115.96.66:4000/play/a02i/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TD+ HD
-#EXTVLCOPT:network-caching=1000
 http://170.244.209.30:8000/play/a00h/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",37) TUDN
-#EXTVLCOPT:network-caching=1000
 http://181.119.111.25:4000/play/a04f/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TD+2 HD
-#EXTVLCOPT:network-caching=1000
 http://200.229.147.210:9999/play/a00h/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TD+2 HD
-#EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a00e/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TD+2 HD
-#EXTVLCOPT:network-caching=1000
 http://200.115.96.66:4000/play/a02h/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",TD+2 HD
-#EXTVLCOPT:network-caching=1000
 http://170.244.209.30:8000/play/a00i/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",Deportes TVC - HND
-#EXTVLCOPT:network-caching=1000
 http://181.119.111.25:4000/play/a0ky/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",Deportes tvc
-#EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a04k/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",Deportes tvc
-#EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a05g/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",Deportes tvc
-#EXTVLCOPT:network-caching=1000
 http://200.115.96.66:4000/play/a005/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",Deportes tvc
-#EXTVLCOPT:network-caching=1000
 http://200.115.96.66:4000/play/a001/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",Deportes tvc
-#EXTVLCOPT:network-caching=1000
 http://200.115.96.66:4000/play/a0dn/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",Win Sports
-#EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0cc/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",Win Sports
-#EXTVLCOPT:network-caching=1000
 http://181.78.211.244:8005/play/a0am/index.m3u8
-#EXTINF:-2 group-title="FIFA World Cup",Win Sports
-#EXTVLCOPT:network-caching=1000
-http://181.78.21.46:8009/play/a02s
+
 #EXTINF:-2 group-title="FIFA World Cup",Win Sports+
-#EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a06v/index.m3u8
-#EXTINF:-2 group-title="FIFA World Cup",Win Sports+
-#EXTVLCOPT:network-caching=1000
-http://181.205.205.173:8888/play/a0ul/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup",Tigo Sports HD
-#EXTVLCOPT:network-caching=1000
 http://45.5.118.152:8000/play/a08x/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup", Tigo Sports HD
-#EXTVLCOPT:network-caching=1000
 http://45.228.234.62:8000/play/a00h/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup", Tigo Sports+ HD
-#EXTVLCOPT:network-caching=1000
 http://45.171.64.30:2000/play/a08e/index.m3u8
+
 #EXTINF:-2 group-title="FIFA World Cup", Tigo Sports HD lento
-#EXTVLCOPT:network-caching=1000
 http://45.5.119.43:4000/play/a05t/index.m3u8
 
 
