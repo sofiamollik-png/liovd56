@@ -140,11 +140,11 @@ https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla
 http://103.159.180.34:5001/live/625.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20240324143250" group-title="Indian Bangla",Sun Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OnL6QT5BNvRK_Wb5Qwtn8p0Js98RgtrYkw&s" group-title="Indian Bangla",Sun Bangla
 http://103.159.180.34:5001/live/1669.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2046593171568918528/LUVSkA8Z.jpg" group-title="Indian Bangla",Colors Bangla HD
-https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m-ErSMpMzKe9hSvK2-i-y3z7-1SA3Q5r_irXehULBv9R0=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Star Jalsha Movies
 http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
@@ -156,7 +156,7 @@ http://sabado04abrilasdfghjkl.mysynology.net:80/marzouk2bar/2RQ3NvqpgP/67254
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3_f350mZQuocm7Lx2eASxHJHG5s5ynrrD0cQaIMeUMpDSYyz29J5FCHqnl14AXsV19D71qDUdg=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Zee Bangla Sonar
-http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
+https://ottbanglaplatform.com/tv/toffee/live.php?id=zee_bangla_cinema&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9_ykbUvqkgB4Kb3Y2dhllHzuFIFnYISxGxg&s" group-title="Indian Bangla",Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -243,7 +243,7 @@ https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
 https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCXRkXwwAHhfGzLPxFRuz9IMBiaPTQA4z7w&s" group-title="Movies",Sony Max
-https://edge2.roarzone.net:8447/roarzone/edge3/sony_max_hd/index.m3u8?token=62f1a0fde1b99766c4886b41acf2b81c468a6a66-8dfae4ffffde2dd722fa8ddfda606cce-1779480933-1779470133
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYEN4LgVjotgVdmlLuNvbGMxW4_W2fIEPFHg&s" group-title="Movies",Sony Max HD
 http://103.99.249.139/sonymax/index.m3u8
@@ -367,6 +367,9 @@ https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8?e=1779178079&token=1
 
 #EXTINF:-1 tvg-logo="https://static-resources.redbull.tv/images/smarttv/rbtv/logos/logo.svg" group-title="Sports", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/074/162/460/non_2x/cricbuzz-logo-cb-logo-high-quality-free-vector.jpg"group-title="Sports" group-title="Sports", Cricbuzz HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" group-title="Sports",Willow
 https:\\tvsen5.aynaott.com\willowhd\tracks-v1a1\mono.ts.m3u8
@@ -702,35 +705,35 @@ https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2022/3/21/1647846719088_381.png"FIFA World Cup", CCTV 5 FIFA
 https://live12.xiazhix1.top/live/85042987.m3u8
 
-#EXTINF:-2 group-title="FIFA World Cup", FOXONE
-http://45.5.119.43:4000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
+https://sportsonline.ppvtv.top/stream/3cfb009d5f3c6d3411f4436741d61e69
 
-#EXTINF:-2 group-title="FIFA World Cup", FOX CR
-http://8.243.126.131:8000/play/a0oq/index.m3u8
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
+https://sportsonline.ppvtv.top/stream/183fccdae4f56640ed7a41af4bcba66a
 
-#EXTINF:-2 group-title="FIFA World Cup", FOXONE
-http://8.243.126.131:8000/play/a0ih/index.m3u8
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
+https://sportsonline.ppvtv.top/stream/63d3ba1e177c36ca8b178f6970595335
 
-#EXTINF:-2 group-title="FIFA World Cup", FOXONE
-http://45.228.234.62:8000/play/a05i/index.m3u8
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
+https://sportsonline.ppvtv.top/stream/6bfcf1db58a14d11b3dd835564e721e6
 
-#EXTINF:-2 group-title="FIFA World Cup", FOXONE
-http://200.229.147.210:9999/play/a0as/index.m3u8
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
+https://sportsonline.ppvtv.top/proxy?url=https%3A%2F%2F14xaf7b749uz.54434687.net%3A8443%2Fhls%2Fnessgjp115wr8-23495400.ts
 
-#EXTINF:-2 group-title="FIFA World Cup", FOXONE
-http://200.229.147.142:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
+https://sportsonline.ppvtv.top/stream/45c78c333b4a9a279b5fd97cbf66958e
 
-#EXTINF:-2 group-title="FIFA World Cup", FOXONE
-http://187.245.231.226:8000/play/a0og/index.m3u8
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
+https://sportsonline.ppvtv.top/stream/b53832ab519076162a89ab23268a1c00
 
-#EXTINF:-2 group-title="FIFA World Cup", FOXONE
-http://181.119.108.27:7292/play/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
+https://sportsonline.ppvtv.top/stream/c71f8c10f0fca2bb4dee08cb43d9bcba
 
-#EXTINF:-2 group-title="FIFA World Cup", FOXONE
-http://170.244.209.30:8000/play/a0y3/index.m3u8
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
+https://sportsonline.ppvtv.top/stream/bfc7c95e60d9f19fe51f14fda56c69cd
 
-#EXTINF:-2 group-title="FIFA World Cup", FOXONE
-http://186.33.25.234:8125/play/a04p/index.m3u8
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781297960-0-0-37ed55380743937d976f4941c7251077
 
 #EXTINF:-2 group-title="FIFA World Cup", FOXONE
 http://181.119.111.25:4000/play/a0f1/index.m3u8
