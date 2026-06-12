@@ -374,11 +374,8 @@ https:\\tvsen5.aynaott.com\willowhd\tracks-v1a1\mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Willow_Xtra_2023_stacked.svg/revision/latest?cb=20240927132403" group-title="Sports",Willow Extra
 http://27.124.71.27/Willow_Extra/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/wHhztDDZrU.png", PTV Sports (FIFA)
-https://tvsen5.aynaott.com/PtvSports/index.m3u8
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s" group-title="Sports",PTV Sports
-https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779106263&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4437b39cea1efdfe7672d60870c8ef8f
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/wHhztDDZrU.png", PTV Sports
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1ap8OAmKXlkBZ5VYiUstIstLiCYHmAtlcA&s" group-title="Sports",Star Sports 1 HD
 https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
