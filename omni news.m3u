@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="LIVE EVENT",FIFA World Cup LIVE
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="LIVE EVENT",FIFA World Cup LIVE 
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE FHD
+https://lb11.strmd.st/secure/IsFrZEsmvWwPOgEcYOxEyTcHPAbxTIBA/rtmp/stream/t_JYgOEQRPl2OygqfpoeCU0z73qy5Rr7ZKfjVCSV8Q9ITCUY8T62lYUoW1xGPN28iCc2XdkshscuUbY/1/high/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE FHD
+https://lb2.strmd.st/secure/ZRaNliFkjuRdJhYYXEgxRqaFXxbtGXoL/rtmp/stream/70g4Ftlms5XIggLyrGBJgg3T9GDtf1PASB33ChcR-l4uHv1rhpQ1DmaEn3OS_HCXDjdEunVO/1/high/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
@@ -699,6 +705,9 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPtOR18EGnxepZdsQ0AONjGcWiVnYpqdnUQ&s" group-title="Documentary",TLC HD
 http://103.180.212.191:3500/live/3458.m3u8
 
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE FHD
+https://lb9.strmd.st/secure/dTUOiinbyFEWnkyzgGHFSekOomOaXGjU/rtmp/stream/Dp9-J90_sDGrf2pVpBp85RYEBvRVPMBhHVUU3xp3l4ExY3XTM0nzZHbIH7pv6R2mF1dT6nJRXyo/1/high/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 
@@ -735,8 +744,14 @@ https://sportsonline.ppvtv.top/stream/bfc7c95e60d9f19fe51f14fda56c69cd
 #EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
 https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781297960-0-0-37ed55380743937d976f4941c7251077
 
-#EXTINF:-2 group-title="FIFA World Cup", FOXONE
-http://181.119.111.25:4000/play/a0f1/index.m3u8
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
+https://lb19.strmd.st/secure/gEEJpsXIVyoiWKudjkuKezjRxdtaHJIO/rtmp/stream/UOSp2QlcpRvc_gnNa9G4PEnSg4diaaHrVZ2yGRMWr4et9m5r76DoXVe7uqsDszTjHl4_pgI/1/high/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
+https://lb2.strmd.st/secure/ZRaNliFkjuRdJhYYXEgxRqaFXxbtGXoL/rtmp/stream/70g4Ftlms5XIggLyrGBJgg3T9GDtf1PASB33ChcR-l4uHv1rhpQ1DmaEn3OS_HCXDjdEunVO/1/low/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 #EXTINF:-2 group-title="FIFA World Cup",DSPORTS HD
 http://74.208.30.121/a176/mono.m3u8
