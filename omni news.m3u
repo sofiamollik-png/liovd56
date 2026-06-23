@@ -18,6 +18,9 @@ https://fifaworldcup.abirislam013.workers.dev/play?id=CRkVAmVIQEFfXXFaUVduBgIeUF
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 
 #EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE
@@ -25,6 +28,9 @@ http://proxpanel.cc/h1wqD6CY/byxHYgX/835130
 
 #EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://starhub.pro/live/farhat-3379/67897-913379/18452.ts
+
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="LIVE EVENT",FIFA World Cup LIVE
+https://stream.ultraedge.live/d-sports/d-sports.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://live05.msdht.app/live/24561735.m3u8
@@ -78,21 +84,22 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1280px-Mohona_tv_Logo.svg.png" group-title="Bangladeshi",Mohona TV HD
-https://tvsen6.aynaott.com/mohonatv/index.m3u8?e=1779358083&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b8edccdaa71d868192b0a8c13f5d27e3
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1280px-Ekushey_Television_Logo.svg.png" group-title="Bangladeshi",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1280px-Channel-i.svg.png" group-title="Bangladeshi",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Channel9_bd.svg" group-title="Bangladeshi",Channel 9 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaqXfIOYhjeDtiunfv9Y9SrbwDEbUSERimkQ&s" group-title="Bangladeshi",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/d/d9/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%28%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%A8%E0%A7%8B%29.png/250px-%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%28%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%A8%E0%A7%8B%29.png" group-title="Bangladeshi",Desh TV
 https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo8-mVP6uuYqlRZ6EKAO_-yD3TbkMaXnp7tA&s" group-title="Bangladeshi",MYTV HD
-https://tvsen6.aynaott.com/mytv/index.m3u8?e=1779106238&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=94e0a6e94c9c93e2a692f979ded4c7ce
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangladeshi",Maasranga TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
@@ -106,26 +113,29 @@ https://tvsen6.aynaott.com/boishakhitv/index.m3u8?e=1779106233&u=78be6644-0a65-4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Logo_of_Nagorik_TV.svg/250px-Logo_of_Nagorik_TV.svg.png" group-title="Bangladeshi",NAGORIK TV
 http://198.195.239.50:8095/nagorik/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaqXfIOYhjeDtiunfv9Y9SrbwDEbUSERimkQ&s" group-title="Bangladeshi",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangladeshi",Nexus TV HD
-https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1779358077&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7f307ad71977712009baef11f91a25ce
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo.png" group-title="Bangladeshi",MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsLxhngsCNz4zU0XTgTvBVrHpBwkXseJPQg&s" group-title="Bangladeshi",Asian TV
-https://mtlivestream.com/hls/asian/ytlive/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_UrApGTyyQ_EhIRaAPC-h8nfEz7m08GUbQ&s" group-title="Bangladeshi",SA TV
 https://tvsen6.aynaott.com/satv/index.m3u8?e=1779649544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=acb6871b0ba311e4cb09483eccc6d649
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Ananda_TV.svg/1280px-Logo_of_Ananda_TV.svg.png" group-title="Bangladeshi",Ananda TV
-https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1779649544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=23694e841244aca24745a95b4884ff80
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Global_Television_Logo_BD.svg/250px-Global_Television_Logo_BD.svg.png" group-title="Bangladeshi",Global TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Bangladeshi",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Channel_S_Bangladesh_Logo.png/250px-Channel_S_Bangladesh_Logo.png" group-title="Bangladeshi",Channel S TV
 https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
@@ -134,7 +144,7 @@ https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chu
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/FPl--HCi7e1-FEv8lTdrUN3Cmgf7jU4_er8_5Hy7qVbbG0fAdiFn1tMrACnAc-QgrEO5Vbl0=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Bangladeshi",Ekhon TV
-https://tvsen6.aynaott.com/ekhontv/index.m3u8?e=1779106247&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f099117f0f4d288b47989a8da0540f5b
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Channel_1_Logo_Bangladesh.png" group-title="Bangladeshi",Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
@@ -161,7 +171,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1dwjBKORbwmaWJ1fsHTY-QQtaTHJZkXFwD2V86s9q-PIFcpFLuSBnWh9TbYPbF4dDJGkOsCDQA=s160-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Star Jalsha
-https://tvsen3.aynaott.com/n64PH4YL/index.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png/revision/latest?cb=20210420232042" group-title="Bangladeshi",Star Jalsha HD
 https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
@@ -170,7 +180,7 @@ https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_bangla&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OnL6QT5BNvRK_Wb5Qwtn8p0Js98RgtrYkw&s" group-title="Indian Bangla",Sun Bangla
 http://103.159.180.34:5001/live/1669.m3u8
@@ -192,10 +202,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9_ykbUvqkgB4Kb3Y2dhllHzuFIFnYISxGxg&s" group-title="Indian Bangla",Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhiA9P3vRCZCh5vAeynpC5z7krztgeQ1n3A&s" group-title="Indian Bangla",Sony AATH HD
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhiA9P3vRCZCh5vAeynpC5z7krztgeQ1n3A&s" group-title="Indian Bangla",Sony AATH
-https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_480/chunks.m3u8
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonyaath&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2046593171568918528/LUVSkA8Z.jpg" group-title="Indian Bangla",Ruposhi Bangla
 https://cdn-4.pishow.tv/live/1039/1039_2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg/250px-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Indian Bangla",Akash AATH
@@ -395,6 +405,9 @@ http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/wHhztDDZrU.png" group-title="Sports",PTV Sports
 https://fifaworldcup.abirislam013.workers.dev/play?id=CRkVAmVIQEFWVnFaXExxAQAJT1hRSGdXVkVAHisdSg0tUlBbEkAXQz5WQB0AADBFCEoqCw
 
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Sports",PTV 4K
+http://starhub.pro/live/Anthony2/Anthony123/61674.ts
+
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="Sports",Unite8 Sports 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
@@ -420,16 +433,16 @@ http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
 http://103.157.248.140:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports",Sony Sports 1 HD
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_sports_1_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports 2 HD
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_sports_2_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png" group-title="Sports",Sony Sports 3 HD
 http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports",Sony Sports 5 HD
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_sports_5_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ten_Cricket.png?_=20250709151702" group-title="Sports",SONY TEN CRICKET
 https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/index.m3u8?token=39cefe40fa6027aba08afec6ae451014cb25f568-178ce4d0abf2744b08bd67195998ea70-1779662604-1779651804
@@ -630,9 +643,69 @@ http://znty.dyndns.org:5010/hls/eleven1.m3u8
 https://1.bb1.dpdns.org/hls/1/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
-https://lb19.strmd.st/secure/gEEJpsXIVyoiWKudjkuKezjRxdtaHJIO/rtmp/stream/UOSp2QlcpRvc_gnNa9G4PEnSg4diaaHrVZ2yGRMWr4et9m5r76DoXVe7uqsDszTjHl4_pgI/1/high/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
-https://lb2.strmd.st/secure/ZRaNliFkjuRdJhYYXEgxRqaFXxbtGXoL/rtmp/stream/70g4Ftlms5XIggLyrGBJgg3T9GDtf1PASB33ChcR-l4uHv1rhpQ1DmaEn3OS_HCXDjdEunVO/1/low/mono.m3u8
-#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="FIFA World Cup",FIFA World Cup LIVE
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="FIFA World Cup",World Cup TV 
+
+#EXTINF:-1 tvg-id="Fussball Tv 1" tvg-name="Fussball Tv 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",Fussball Tv 1 4K
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/742610.ts
+
+#EXTINF:-1 tvg-id="Fussball Tv 2" tvg-name="Fussball Tv 2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",Fussball Tv 2 4K
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/742611.ts
+
+#EXTINF:-1 tvg-id="Somoy" tvg-name="Somoy" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",Somoy
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Unite 8 Sports 1 HD" tvg-name="Unite 8 Sports 1 HD" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",Unite 8 Sports 1 HD
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+
+#EXTINF:-1 tvg-id="Unite 8 Sports 2 HD" tvg-name="Unite 8 Sports 2 HD" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",Unite 8 Sports 2 HD
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
+
+#EXTINF:-1 tvg-id="TVP Sports" tvg-name="TVP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",TVP Sports
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+
+#EXTINF:-1 tvg-id="Bein_Sports_1 720p" tvg-name="Bein Sports 1 720p" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",Bein Sports 1 720p
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1 UHD" tvg-name="beIN SPORTS 1 UHD" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",beIN SPORTS 1 UHD
+http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
+
+#EXTINF:-1 tvg-id="M6" tvg-name="M6" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",M6
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",WIN Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",FOX
+http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1" tvg-name="FS1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",FS1
+http://41.223.30.230/FOXSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-id="S Football" tvg-name="S Football" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",S Football
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+
+#EXTINF:-1 tvg-id="TSportsHD" tvg-name="T Sports HD" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",T Sports HD
+http://starhub.pro/live/Anthony2/Anthony123/113069.ts
+
+#EXTINF:-1 tvg-id="PTV4K" tvg-name="PTV 4K" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",PTV 4K
+http://starhub.pro/live/Anthony2/Anthony123/61674.ts
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",DAZN 1
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPN S1" tvg-name="ESPN S1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",ESPN S1
+https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN S2" tvg-name="ESPN S2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",ESPN S2
+http://186.33.40.97:8789/play/20
+
+#EXTINF:-1 tvg-id="D Sports" tvg-name="D Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",D Sports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+
+#EXTINF:-1 tvg-id="Tudn Sports" tvg-name="Tudn Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA World Cup",Tudn Sports
+https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
