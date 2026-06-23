@@ -3,10 +3,16 @@
 https://sm-monirul.top/tof/live/toffee4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://pull.niues.live/live/stream-9912108_lsd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://live05.msdht.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE
+https://hls.livekhelatv.website/mks/lktv/s/fifa-worldcup-eng/playlist/1080p_FHD/livekhela.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
