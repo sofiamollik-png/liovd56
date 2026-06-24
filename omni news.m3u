@@ -1,9 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJRqQBr2UWhiH7DLEUwjVDedusYslm9NngwPnnMREVhIln5pRaVTX9JRQ&s=10" group-title="LIVE EVENT",FIFA World Cup LIVE
+https://bioscope.sm-monirulislam-exp.workers.dev/proxy?url=https%3A%2F%2Ffifa.keralive.workers.dev%2Fout%2Fv1%2F4e21d5a122c549289dd6feab259266e8%2Findex_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://sm-monirul.top/tof/live/toffee4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93zN3zDq/6e1ee327b1ba.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
+https://cz-pli.hossainhridoy.workers.dev/proxy/https://cdn4.zohanayaan.com:1686/hls/laligauk.m3u8?md5=kwMXZTsfL3t4QR6Huk_eGQ&expires=1782297618
 
 #EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://pull.niues.live/live/stream-9912108_lsd.m3u8
