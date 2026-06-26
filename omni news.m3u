@@ -157,7 +157,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 ----------------- Indian Bangla --------------------
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1dwjBKORbwmaWJ1fsHTY-QQtaTHJZkXFwD2V86s9q-PIFcpFLuSBnWh9TbYPbF4dDJGkOsCDQA=s160-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Star Jalsha
-https://cz-pli.hossainhridoy.workers.dev/proxy/http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3527.ts?md5=4ghIgkZTiyBPdjwDzHNZag&expires=1782481217
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9lnIfR7rt3GafmUo8Ccd9_Y
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png/revision/latest?cb=20210420232042" group-title="Indian Bangla",Star Jalsha HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3527.ts
@@ -174,11 +174,8 @@ http://103.159.180.34:5001/live/1669.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2046593171568918528/LUVSkA8Z.jpg" group-title="Indian Bangla",Colors Bangla HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m-ErSMpMzKe9hSvK2-i-y3z7-1SA3Q5r_irXehULBv9R0=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Star Jalsha Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/250?cb=20240320100114" group-title="Indian Bangla",Jalsha Movies HD
-http://sabado04abrilasdfghjkl.mysynology.net:80/marzouk2bar/2RQ3NvqpgP/67254
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9p8Fih8BuJck_0zIrYzsvlXfq7TC8tR9dIq7u7-4Z5lh
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Indian Bangla",Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
@@ -196,7 +193,7 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonyaath&e=.m3u8
 https://cdn-4.pishow.tv/live/1039/1039_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg/250px-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Indian Bangla",Akash AATH
-https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9oDf_DCUiXWpd4QkGS3cvE5ydzST0ZofdjiylPY0lrFx
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Khushboo-Bangla.png" group-title="Indian Bangla",Khushboo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
@@ -273,7 +270,7 @@ https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
 https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCXRkXwwAHhfGzLPxFRuz9IMBiaPTQA4z7w&s" group-title="Movies",Sony Max
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max_hd&e=.m3u8
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9m59cAUDjsLTIQEI54UbfyTi6OrwuVXFWaODcQCnHDYk
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYEN4LgVjotgVdmlLuNvbGMxW4_W2fIEPFHg&s" group-title="Movies",Sony Max HD
 http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=373074&extension=ts&play_token=CuPocChLF4
@@ -583,13 +580,13 @@ http://103.180.212.191:3500/live/3435.m3u8
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Nat_Geo_Wild/Nat_Geo_Wild-Logo.wine.png" group-title="Documentary",NatGeo Wild HD
-http://premimum.online:80/live/jen12345/jen54321/7344.ts
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9pCEzhnri8lV8s04oHNwrsGG7JrMaEl29H13WdXhb_b-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Documentary",Animal Planet HD
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png" group-title="Documentary",Sony BBC Earth HD
-https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9jLH3fQpCGb6sqFo-EzkbVKDNSUaQIpZXtdob2V7J5A8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDYA1aJATsF0d1UpU0UtJWO2BmMx1tl5kFRg&s" group-title="Documentary",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
