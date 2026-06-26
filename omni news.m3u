@@ -12,28 +12,34 @@ https://trs1.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
+#EXTINF:-1 tvg-logo="https://www.thedailystar.net/sites/default/files/styles/big_1/public/2026-06/photo-collage.png%20-%202026-06-07T211447.915.png" group-title="LIVE EVENT",FIFA World Cup LIVE
+https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thedailystar.net/sites/default/files/styles/big_1/public/2026-06/photo-collage.png%20-%202026-06-07T211447.915.png" group-title="LIVE EVENT",FIFA World Cup LIVE
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTj8MDPZ/4d07ac373639.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
 
-#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://starhub.pro/live/farhat-3379/67897-913379/18452.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTj8MDPZ/4d07ac373639.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
+http://198.195.239.50:8095/Fifa-1/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://proxpanel.cc/h1wqD6CY/byxHYgX/835130
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xk2KYbgb/1b4a5e3ddb56.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="LIVE EVENT",FIFA World Cup LIVE
-https://stream.ultraedge.live/d-sports/d-sports.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xk2KYbgb/1b4a5e3ddb56.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
+https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
 
-#EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE
-https://live05.msdht.app/live/24561735.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53WYCqJ/Resized-Image-2026-06-25-09-53-31-8116-1.webp" group-title="LIVE EVENT",FIFA World Cup LIVE
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 
-#EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMCSH5mk/Resized-Image-2026-06-25-09-53-32-9709-2.webp" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.imageuploadzone.com/uploads/dev_6a2c6ef54e54a7.85269705/wmremove-transformed%201_1781296889_9826e0.jpeg" group-title="LIVE EVENT",FIFA World Cup LIVE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jr7WTrM/7c15687d1790.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="LIVE EVENT",FIFA World Cup LIVE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xk2KYbgb/1b4a5e3ddb56.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 
 #EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="LIVE EVENT",FIFA World Cup LIVE
@@ -562,10 +568,10 @@ https://edge2.roarzone.net:8447/roarzone/edge3/sonyyay/index.m3u8?token=2a4a4a92
 http://198.195.239.50:8095/DiscoveryKids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/288/60/png-clipart-bangladesh-bengali-discovery-channel-television-channel-bangla-television-blue.png" group-title="Documentary",Discovery HD
-http://103.159.180.34:5001/live/3428.m3u8
+http://103.180.212.191:3500/live/3428.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/288/60/png-clipart-bangladesh-bengali-discovery-channel-television-channel-bangla-television-blue.png" group-title="Documentary",Discovery Bangla
-http://103.180.212.191:3500/live/3428.m3u8
+http://103.180.212.191:3500/live/573.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo2ffBdGuqGr-IFVnGo1PYDFHty5JCe77rhQ&s" group-title="Documentary",Discovery Science
 https://stream.ottplus.bd/live/discovery_science_abr/live/discovery_science_480/chunks.m3u8
