@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
+https://tahmidx.cinemoja2.workers.dev/
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://sm-monirul.top/tof/live/toffee4/index.m3u8
 
@@ -47,9 +50,6 @@ http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangladeshi",BTV HD
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangladeshi",BTV NATIONAL HD
-http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9nk6BETiY9kW2f7dkoUYTB4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSy9vaz-72fDRbtQ-hD_0uPp6oV-Q1iPL0_A&s" group-title="Bangladeshi",BTV News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
