@@ -157,7 +157,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 ----------------- Indian Bangla --------------------
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1dwjBKORbwmaWJ1fsHTY-QQtaTHJZkXFwD2V86s9q-PIFcpFLuSBnWh9TbYPbF4dDJGkOsCDQA=s160-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Star Jalsha
-http://103.157.248.140:8000/play/a08n/index.m3u8
+https://cz-pli.hossainhridoy.workers.dev/proxy/http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3527.ts?md5=4ghIgkZTiyBPdjwDzHNZag&expires=1782481217
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png/revision/latest?cb=20210420232042" group-title="Indian Bangla",Star Jalsha HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3527.ts
