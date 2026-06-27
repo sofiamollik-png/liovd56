@@ -157,10 +157,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
 
------------------ Indian Bangla --------------------
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1dwjBKORbwmaWJ1fsHTY-QQtaTHJZkXFwD2V86s9q-PIFcpFLuSBnWh9TbYPbF4dDJGkOsCDQA=s160-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Star Jalsha
-http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9lnIfR7rt3GafmUo8Ccd9_Y
+https://s2.itcnbd.live/star-jalsha-hd/mono.m3u8?token=50ec6b06f33f88361e452e084ead4f8c2e07254c-d11c7cbbcb180ac0e0aa97ef1fe4b043-1782598206-1782587406&src=aHR0cDovLzEwLjQ3LjU3LjEwOjgwODIvU1RBUi5KQUxTSEEuSEQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P3Rva2VuPTUwZWM2YjA2ZjMzZjg4MzYxZTQ1MmUwODRlYWQ0ZjhjMmUwNzI1NGMtZDExYzdjYmJjYjE4MGFjMGUwYWE5N2VmMWZlNGIwNDMtMTc4MjU5ODIwNi0xNzgyNTg3NDA2
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png/revision/latest?cb=20210420232042" group-title="Indian Bangla",Star Jalsha HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3527.ts
@@ -178,7 +176,7 @@ http://103.159.180.34:5001/live/1669.m3u8
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/250?cb=20240320100114" group-title="Indian Bangla",Jalsha Movies HD
-http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9p8Fih8BuJck_0zIrYzsvlXfq7TC8tR9dIq7u7-4Z5lh
+https://s2.itcnbd.live/jalsha-movies-hd/mono.m3u8?token=328ee1696cd7afac3c81a388ff0b8eac5720a759-5063472bb2be401701304a917ac24452-1782598084-1782587284&src=aHR0cDovLzEwLjQ3LjU3LjEwOjgwODIvSkFMU0hBLk1PVklFUy5IRC90cmFja3MtdjFhMS9tb25vLm0zdTg_dG9rZW49MzI4ZWUxNjk2Y2Q3YWZhYzNjODFhMzg4ZmYwYjhlYWM1NzIwYTc1OS01MDYzNDcyYmIyYmU0MDE3MDEzMDRhOTE3YWMyNDQ1Mi0xNzgyNTk4MDg0LTE3ODI1ODcyODQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Indian Bangla",Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
