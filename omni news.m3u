@@ -10,7 +10,7 @@ https://sm-monirul.top/tof/live/toffee4/index.m3u8
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/h12HMFDr/29eda9a8b71a.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-https://trs1.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8
+https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
@@ -58,7 +58,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 https://tvsen6.aynaott.com/btvctg/index.m3u8?e=1779358080&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4e93f3cf53b83cea508727007804dc02
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ATN_Bangla_Logo_without_slogan.svg/1280px-ATN_Bangla_Logo_without_slogan.svg.png" group-title="Bangladeshi",ATN Bangla
-https://app.ncare.live/live-orgin/atnbanglauk-off.stream/live-orgin/atnbanglauk-off.stream/chunks.m3u8
+https://s2.itcnbd.live/atn-bangla/mono.m3u8?token=94b2ea11e8dc1abc52d4e3d25da5a8f191c3104f-80fcee9c8cd65494df11da0dbf25e679-1782598678-1782587878&src=aHR0cDovLzEwLjQ3LjU3LjEwOjgwODIvQVROLkJBTkdMQS5IRC90cmFja3MtdjFhMS9tb25vLm0zdTg_dG9rZW49OTRiMmVhMTFlOGRjMWFiYzUyZDRlM2QyNWRhNWE4ZjE5MWMzMTA0Zi04MGZjZWU5YzhjZDY1NDk0ZGYxMWRhMGRiZjI1ZTY3OS0xNzgyNTk4Njc4LTE3ODI1ODc4Nzg
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/ATN_News_Logo_without_slogan.svg/1280px-ATN_News_Logo_without_slogan.svg.png" group-title="Bangladeshi",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
@@ -70,7 +70,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1280px-Mohona_tv_Logo.svg.png" group-title="Bangladeshi",Mohona TV HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+https://server.itcnbd.live/proxy/mohona_tv/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fmohona_tv_576%2Fmohona_tv_576.m3u8%3Fbitrate%3D1000000%26channel%3Dmohona_tv_576%26gp_id%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1280px-Ekushey_Television_Logo.svg.png" group-title="Bangladeshi",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -97,7 +97,7 @@ https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/566.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Logo_of_Nagorik_TV.svg/250px-Logo_of_Nagorik_TV.svg.png" group-title="Bangladeshi",NAGORIK TV
-http://198.195.239.50:8095/nagorik/index.m3u8
+https://s2.itcnbd.live/nagorik/mono.m3u8?token=7473a98f89900470ef4e328f537e4b63a5f1a7be-732fa3fb93325306181ae9cd8e8b207c-1782598642-1782587842&src=aHR0cDovLzEwLjQ3LjU3LjEwOjgwODIvTkFHT1JJSy5UVi5IRC90cmFja3MtdjFhMS9tb25vLm0zdTg_dG9rZW49NzQ3M2E5OGY4OTkwMDQ3MGVmNGUzMjhmNTM3ZTRiNjNhNWYxYTdiZS03MzJmYTNmYjkzMzI1MzA2MTgxYWU5Y2Q4ZThiMjA3Yy0xNzgyNTk4NjQyLTE3ODI1ODc4NDI
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaqXfIOYhjeDtiunfv9Y9SrbwDEbUSERimkQ&s" group-title="Bangladeshi",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
@@ -167,7 +167,10 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3527.ts
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_bangla&e=.m3u8
+https://server.itcnbd.live/proxy/mohona_tv/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fmohona_tv_576%2Fmohona_tv_576.m3u8%3Fbitrate%3D1000000%26channel%3Dmohona_tv_576%26gp_id%3D
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3c-BHKdO1aE-iJwZqbrSxJeUUqIMMEA_mQ&s" group-title="Indian Bangla",Sun Bangla HD
+https://s2.itcnbd.live/sun-bangla-hd/mono.m3u8?token=2010b0126ba9f2d25f1ea9afec6d429d874ec589-de8b34f091ebd8d6fd38cc40d65fda89-1782598314-1782587514&src=aHR0cDovLzEwLjQ3LjU3LjEwOjgwODIvU1VOLkJBTkdMQS5IRC90cmFja3MtdjFhMS9tb25vLm0zdTg_dG9rZW49MjAxMGIwMTI2YmE5ZjJkMjVmMWVhOWFmZWM2ZDQyOWQ4NzRlYzU4OS1kZThiMzRmMDkxZWJkOGQ2ZmQzOGNjNDBkNjVmZGE4OS0xNzgyNTk4MzE0LTE3ODI1ODc1MTQ
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OnL6QT5BNvRK_Wb5Qwtn8p0Js98RgtrYkw&s" group-title="Indian Bangla",Sun Bangla
 http://103.159.180.34:5001/live/1669.m3u8
@@ -179,7 +182,7 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
 https://s2.itcnbd.live/jalsha-movies-hd/mono.m3u8?token=328ee1696cd7afac3c81a388ff0b8eac5720a759-5063472bb2be401701304a917ac24452-1782598084-1782587284&src=aHR0cDovLzEwLjQ3LjU3LjEwOjgwODIvSkFMU0hBLk1PVklFUy5IRC90cmFja3MtdjFhMS9tb25vLm0zdTg_dG9rZW49MzI4ZWUxNjk2Y2Q3YWZhYzNjODFhMzg4ZmYwYjhlYWM1NzIwYTc1OS01MDYzNDcyYmIyYmU0MDE3MDEzMDRhOTE3YWMyNDQ1Mi0xNzgyNTk4MDg0LTE3ODI1ODcyODQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Indian Bangla",Colors Bangla Cinema
-http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
+https://s2.itcnbd.live/colors-bangla-cinema/mono.m3u8?token=3e7552a5459ac180cd5d9ded608ea1cb5a26d0eb-aff5e4280daa9ac64755fd06b1d864e4-1782598763-1782587963&src=aHR0cDovLzEwLjQ3LjU3LjEwOjgwODIvQ09MT1JTLkJBTkdMQS5DSU5FTUEvdHJhY2tzLXYxYTEvbW9uby5tM3U4P3Rva2VuPTNlNzU1MmE1NDU5YWMxODBjZDVkOWRlZDYwOGVhMWNiNWEyNmQwZWItYWZmNWU0MjgwZGFhOWFjNjQ3NTVmZDA2YjFkODY0ZTQtMTc4MjU5ODc2My0xNzgyNTg3OTYz
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3_f350mZQuocm7Lx2eASxHJHG5s5ynrrD0cQaIMeUMpDSYyz29J5FCHqnl14AXsV19D71qDUdg=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
@@ -188,7 +191,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhiA9P3vRCZCh5vAeynpC5z7krztgeQ1n3A&s" group-title="Indian Bangla",Sony AATH HD
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonyaath&e=.m3u8
+https://s2.itcnbd.live/sony-aat/mono.m3u8?token=e9fb5d185feac43493bac6d344a70863982f33e1-942e10bf003f6e6bdb741b953d706691-1782598548-1782587748&src=aHR0cDovLzEwLjQ3LjU3LjEwOjgwODIvU09OWS5BQVQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P3Rva2VuPWU5ZmI1ZDE4NWZlYWM0MzQ5M2JhYzZkMzQ0YTcwODYzOTgyZjMzZTEtOTQyZTEwYmYwMDNmNmU2YmRiNzQxYjk1M2Q3MDY2OTEtMTc4MjU5ODU0OC0xNzgyNTg3NzQ4
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2046593171568918528/LUVSkA8Z.jpg" group-title="Indian Bangla",Ruposhi Bangla
 https://cdn-4.pishow.tv/live/1039/1039_2.m3u8
@@ -386,7 +389,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 http://198.195.239.50:8095/tsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzV2mfuaWiI0HdxWZlS5_Q4i7ZOfZnpoy3Gw&s" group-title="Sports",T Sports HD BDX
-https://trs1.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8
+https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",A SportsHD
 https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8?e=1779178079&token=14dc3f04ef5f0057c16df8ae84e40649&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a
