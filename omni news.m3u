@@ -13,7 +13,7 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8
 https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+http://198.195.239.50:8095/tsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thedailystar.net/sites/default/files/styles/big_1/public/2026-06/photo-collage.png%20-%202026-06-07T211447.915.png" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://198.195.239.50:8095/btv/tracks-v1a1/index.m3u8
@@ -167,7 +167,7 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3527.ts
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla
-https://server.itcnbd.live/proxy/mohona_tv/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fmohona_tv_576%2Fmohona_tv_576.m3u8%3Fbitrate%3D1000000%26channel%3Dmohona_tv_576%26gp_id%3D
+https://sm-monirul.top/toffee/play/zee_bangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3c-BHKdO1aE-iJwZqbrSxJeUUqIMMEA_mQ&s" group-title="Indian Bangla",Sun Bangla HD
 https://s2.itcnbd.live/sun-bangla-hd/mono.m3u8?token=2010b0126ba9f2d25f1ea9afec6d429d874ec589-de8b34f091ebd8d6fd38cc40d65fda89-1782598314-1782587514&src=aHR0cDovLzEwLjQ3LjU3LjEwOjgwODIvU1VOLkJBTkdMQS5IRC90cmFja3MtdjFhMS9tb25vLm0zdTg_dG9rZW49MjAxMGIwMTI2YmE5ZjJkMjVmMWVhOWFmZWM2ZDQyOWQ4NzRlYzU4OS1kZThiMzRmMDkxZWJkOGQ2ZmQzOGNjNDBkNjVmZGE4OS0xNzgyNTk4MzE0LTE3ODI1ODc1MTQ
@@ -222,8 +222,6 @@ https://tvsen6.aynaott.com/zee24/index.m3u8?e=1779649547&u=78be6644-0a65-48ec-81
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKbLB_JKByFlaj9CQxUkqDzOweei_G7InUxA&s" group-title="Indian Bangla",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Hindi Entertainment",STAR PLUS
 https://airtel.rkdyiptv.workers.dev/live/1430.m3u8
