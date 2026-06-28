@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-https://s1.itcnbd.live/united-sports-2/tracks-v1a1/mono.m3u8
+http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://sm-monirul.top/tof/live/toffee4/index.m3u8
@@ -16,7 +16,7 @@ https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 tvg-logo="https://www.thedailystar.net/sites/default/files/styles/big_1/public/2026-06/photo-collage.png%20-%202026-06-07T211447.915.png" group-title="LIVE EVENT",FIFA World Cup LIVE
-https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
+http://198.195.239.50:8095/btv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thedailystar.net/sites/default/files/styles/big_1/public/2026-06/photo-collage.png%20-%202026-06-07T211447.915.png" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
