@@ -179,7 +179,7 @@ http://103.159.180.34:5001/live/1669.m3u8
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/250?cb=20240320100114" group-title="Indian Bangla",Jalsha Movies HD
-https://s2.itcnbd.live/jalsha-movies-hd/mono.m3u8?token=328ee1696cd7afac3c81a388ff0b8eac5720a759-5063472bb2be401701304a917ac24452-1782598084-1782587284&src=aHR0cDovLzEwLjQ3LjU3LjEwOjgwODIvSkFMU0hBLk1PVklFUy5IRC90cmFja3MtdjFhMS9tb25vLm0zdTg_dG9rZW49MzI4ZWUxNjk2Y2Q3YWZhYzNjODFhMzg4ZmYwYjhlYWM1NzIwYTc1OS01MDYzNDcyYmIyYmU0MDE3MDEzMDRhOTE3YWMyNDQ1Mi0xNzgyNTk4MDg0LTE3ODI1ODcyODQ
+https://s2.itcnbd.live/jalsha-movies-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Indian Bangla",Colors Bangla Cinema
 https://s2.itcnbd.live/colors-bangla-cinema/mono.m3u8?token=3e7552a5459ac180cd5d9ded608ea1cb5a26d0eb-aff5e4280daa9ac64755fd06b1d864e4-1782598763-1782587963&src=aHR0cDovLzEwLjQ3LjU3LjEwOjgwODIvQ09MT1JTLkJBTkdMQS5DSU5FTUEvdHJhY2tzLXYxYTEvbW9uby5tM3U4P3Rva2VuPTNlNzU1MmE1NDU5YWMxODBjZDVkOWRlZDYwOGVhMWNiNWEyNmQwZWItYWZmNWU0MjgwZGFhOWFjNjQ3NTVmZDA2YjFkODY0ZTQtMTc4MjU5ODc2My0xNzgyNTg3OTYz
@@ -191,7 +191,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhiA9P3vRCZCh5vAeynpC5z7krztgeQ1n3A&s" group-title="Indian Bangla",Sony AATH HD
-https://s2.itcnbd.live/sony-aat/mono.m3u8?token=e9fb5d185feac43493bac6d344a70863982f33e1-942e10bf003f6e6bdb741b953d706691-1782598548-1782587748&src=aHR0cDovLzEwLjQ3LjU3LjEwOjgwODIvU09OWS5BQVQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P3Rva2VuPWU5ZmI1ZDE4NWZlYWM0MzQ5M2JhYzZkMzQ0YTcwODYzOTgyZjMzZTEtOTQyZTEwYmYwMDNmNmU2YmRiNzQxYjk1M2Q3MDY2OTEtMTc4MjU5ODU0OC0xNzgyNTg3NzQ4
+https://s2.itcnbd.live/sony-aat/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2046593171568918528/LUVSkA8Z.jpg" group-title="Indian Bangla",Ruposhi Bangla
 https://cdn-4.pishow.tv/live/1039/1039_2.m3u8
