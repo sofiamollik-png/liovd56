@@ -7,7 +7,7 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 https://sm-monirul.top/tof/live/toffee4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp" group-title="LIVE EVENT",FIFA World Cup LIVE
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8
+https://tv.motiur.xyz/api/proxy.php?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026-5%2F0%2Fmaster_2000.m3u8%3Fhdntl%3DExpires%3D1782691611~_GO%3DGenerated~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DAVXEwvcC8i3CYqhyhkfIvTlglYe1Pbgm-ys0LH3cGPR4lyaLd47xCH5YcKjibJfT_Db9j8sd_OxVH362TxtSwtw5bpsJ
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/h12HMFDr/29eda9a8b71a.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
@@ -70,7 +70,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1280px-Mohona_tv_Logo.svg.png" group-title="Bangladeshi",Mohona TV HD
-https://server.itcnbd.live/proxy/mohona_tv/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fmohona_tv_576%2Fmohona_tv_576.m3u8%3Fbitrate%3D1000000%26channel%3Dmohona_tv_576%26gp_id%3D
+://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1280px-Ekushey_Television_Logo.svg.png" group-title="Bangladeshi",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
