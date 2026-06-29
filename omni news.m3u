@@ -158,7 +158,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1dwjBKORbwmaWJ1fsHTY-QQtaTHJZkXFwD2V86s9q-PIFcpFLuSBnWh9TbYPbF4dDJGkOsCDQA=s160-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Star Jalsha
-https://s2.itcnbd.live/star-jalsha-hd/mono.m3u8?token=50ec6b06f33f88361e452e084ead4f8c2e07254c-d11c7cbbcb180ac0e0aa97ef1fe4b043-1782598206-1782587406&src=aHR0cDovLzEwLjQ3LjU3LjEwOjgwODIvU1RBUi5KQUxTSEEuSEQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P3Rva2VuPTUwZWM2YjA2ZjMzZjg4MzYxZTQ1MmUwODRlYWQ0ZjhjMmUwNzI1NGMtZDExYzdjYmJjYjE4MGFjMGUwYWE5N2VmMWZlNGIwNDMtMTc4MjU5ODIwNi0xNzgyNTg3NDA2
+http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8?token=eeaada9525f94e1ad69a2ecab3ce4e18e32e2966-ab0e7f5d5e47ac31007b7cd3f64b1811-1776169971-1776166371&remote=no_check_ip
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png/revision/latest?cb=20210420232042" group-title="Indian Bangla",Star Jalsha HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3527.ts
@@ -167,22 +167,25 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3527.ts
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla
-https://sm-monirul.top/toffee/play/zee_bangla.m3u8
+http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8?token=f0e935f7ded22ca5ec138a8a1bdd0783c143f2f0-72abea8effadde408717c21c70ba02fa-1776169971-1776166371&remote=no_check_ip
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3c-BHKdO1aE-iJwZqbrSxJeUUqIMMEA_mQ&s" group-title="Indian Bangla",Sun Bangla HD
-https://s2.itcnbd.live/sun-bangla-hd/mono.m3u8?token=2010b0126ba9f2d25f1ea9afec6d429d874ec589-de8b34f091ebd8d6fd38cc40d65fda89-1782598314-1782587514&src=aHR0cDovLzEwLjQ3LjU3LjEwOjgwODIvU1VOLkJBTkdMQS5IRC90cmFja3MtdjFhMS9tb25vLm0zdTg_dG9rZW49MjAxMGIwMTI2YmE5ZjJkMjVmMWVhOWFmZWM2ZDQyOWQ4NzRlYzU4OS1kZThiMzRmMDkxZWJkOGQ2ZmQzOGNjNDBkNjVmZGE4OS0xNzgyNTk4MzE0LTE3ODI1ODc1MTQ
+http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8?token=ddf83cdff5d2a3215579fa2d1303886e18ab6d5c-749917c00731c4d6f44b52a2cfc14557-1776169972-1776166372&remote=no_check_ip
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OnL6QT5BNvRK_Wb5Qwtn8p0Js98RgtrYkw&s" group-title="Indian Bangla",Sun Bangla
 http://103.159.180.34:5001/live/1669.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2046593171568918528/LUVSkA8Z.jpg" group-title="Indian Bangla",Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2046593171568918528/LUVSkA8Z.jpg" group-title="Indian Bangla",Colors Bangla
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2046593171568918528/LUVSkA8Z.jpg" group-title="Indian Bangla",Colors Bangla HD
+http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8?token=429a387b63ac8a32c732fefb835365ad92425ccc-92e5b67b31a4719886a661390e8c1554-1776169972-1776166372&remote=no_check_ip
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/250?cb=20240320100114" group-title="Indian Bangla",Jalsha Movies HD
-https://s2.itcnbd.live/jalsha-movies-hd/index.m3u8
+http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8?token=db2538fdd0d868b1f01d342ee7929f62a5083d97-7601b35e404354f1cb113317091539cf-1776169971-1776166371&remote=no_check_ip
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Indian Bangla",Colors Bangla Cinema
-https://s2.itcnbd.live/colors-bangla-cinema/mono.m3u8?token=3e7552a5459ac180cd5d9ded608ea1cb5a26d0eb-aff5e4280daa9ac64755fd06b1d864e4-1782598763-1782587963&src=aHR0cDovLzEwLjQ3LjU3LjEwOjgwODIvQ09MT1JTLkJBTkdMQS5DSU5FTUEvdHJhY2tzLXYxYTEvbW9uby5tM3U4P3Rva2VuPTNlNzU1MmE1NDU5YWMxODBjZDVkOWRlZDYwOGVhMWNiNWEyNmQwZWItYWZmNWU0MjgwZGFhOWFjNjQ3NTVmZDA2YjFkODY0ZTQtMTc4MjU5ODc2My0xNzgyNTg3OTYz
+http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8?token=8ca2733bb3561762a5d9763fd28feeb9d2d359f6-4d9200a87f58f150277d9239d8ed4039-1776169972-1776166372&remote=no_check_ip
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3_f350mZQuocm7Lx2eASxHJHG5s5ynrrD0cQaIMeUMpDSYyz29J5FCHqnl14AXsV19D71qDUdg=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
