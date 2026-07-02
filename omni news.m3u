@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_2.m3u8
+https://pico.kheladekho.xyz/hls/bdixstarter/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp" group-title="LIVE EVENT",FIFA World Cup LIVE
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1782924250~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclBqwZp0SAOB2OCxO_9fL9UrwMyo2g2XlvPGKtvjq6depqLoVLcp8PhNHVNqab5XP4nAno7LKWhZQMMRwu8XXzQO
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783102977~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclCnnN1PG78aLBVbamllNib5MA13mmD9YNe7jP0fPipq04qTkLzvdawumBgGHTn0ghGI36WibGA_kfLvSDo2Q38G
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://cz-pli2.hossainhridoy.workers.dev/proxy/https://cdn10.zohanayaan.com:1686/hls/deportesplus9.m3u8?md5=bBKYxn8dK9qePFQcEFOB1A&expires=1782847410
