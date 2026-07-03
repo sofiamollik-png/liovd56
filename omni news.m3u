@@ -19,10 +19,16 @@ https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782234982-0-0-245
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1500.m3u8?hdntl=Expires=1783187123~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclAIzzREnnqg_RJlTk6-lqq9GeeMscJe8BeqG0oLrNvdYuhvNsajhab36ZF1b6id2n4VETuSLqbD2tYL3wuMKaUA
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/h12HMFDr/29eda9a8b71a.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8?token=4fde3d8957e50f434586227e0235025478768f0e-ed9e7afca3040a69f8179bfff33845e0-1776169971-1776166371
+https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h12HMFDr/29eda9a8b71a.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
+http://103.114.11.37:8081/T-Sports-HD/video.m3u8?token=bJPpluZ30rPLH3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/index.m3u8
+http://103.114.11.37:8081/SOMOY-TV/video.m3u8?token=bJPpluZ30rPLH3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
+http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8?token=4fde3d8957e50f434586227e0235025478768f0e-ed9e7afca3040a69f8179bfff33845e0-1776169971-1776166371
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
 http://103.114.11.37:8081/T-Sports-HD/video.m3u8?token=bJPpluZ30rPLH3
