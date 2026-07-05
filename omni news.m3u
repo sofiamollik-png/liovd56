@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA World Cup 4K 
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA World Cup 4K 
+https://live05.koepgd.app/live/08552895.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA World Cup 4K 
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://pull.niues.live/live/stream-9912108_lhd.m3u
 
