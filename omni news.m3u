@@ -1,67 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA World Cup 4K 
-https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA World Cup 4K 
-https://live05.koepgd.app/live/08552895.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp" group-title="LIVE EVENT",FIFA World Cup 4K 
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783524853~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AWIR_5GJEgHsK98dDUGZgMk_zRsqeAV49JTlVZRQoW2soVIBwU6tKi0WVlH_gy9LcaiVWhZuZos5LTrft7aTAvrbx4UP
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA World Cup 4K 
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783524853~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AWIR_5GJEgHsK98dDUGZgMk_zRsqeAV49JTlVZRQoW2soVIBwU6tKi0WVlH_gy9LcaiVWhZuZos5LTrft7aTAvrbx4UP
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://fastshare1.com/live/25711345/late8airline/741567.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp" group-title="LIVE EVENT",FIFA World Cup LIVE
-https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OukERocGAoHOgzAHKymE5BfFkASFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUg6qMuvdly_ERHndj1A4UgTq5ugF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp" group-title="LIVE EVENT",FIFA World Cup LIVE
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783352720~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclBUUq9wTD-jaDHZTdKJmwjYa0sbQ187VZq_j3clvSFjAFcIaP__EUU1mh9pTuCtJP-SG9fE4lHfmY1rV4IgD9MD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h12HMFDr/29eda9a8b71a.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/h12HMFDr/29eda9a8b71a.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/index.m3u8
+http://103.165.93.31:8095/tsports/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/h12HMFDr/29eda9a8b71a.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://103.114.11.37:8081/T-Sports-HD/video.m3u8?token=bJPpluZ30rPLH3
+https://tv.hrdvy.dpdns.org/stream/hls/ch01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://103.114.11.37:8081/SOMOY-TV/video.m3u8?token=bJPpluZ30rPLH3
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8?token=4fde3d8957e50f434586227e0235025478768f0e-ed9e7afca3040a69f8179bfff33845e0-1776169971-1776166371
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://103.114.11.37:8081/T-Sports-HD/video.m3u8?token=bJPpluZ30rPLH3
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://198.195.239.50:8095/tsports/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thedailystar.net/sites/default/files/styles/big_1/public/2026-06/photo-collage.png%20-%202026-06-07T211447.915.png" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://180.94.28.28:8097//BTV/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thedailystar.net/sites/default/files/styles/big_1/public/2026-06/photo-collage.png%20-%202026-06-07T211447.915.png" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTj8MDPZ/4d07ac373639.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371&remote=no_check_ip
+http://103.165.93.31:8095/ptv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thedailystar.net/sites/default/files/styles/big_1/public/2026-06/photo-collage.png%20-%202026-06-07T211447.915.png" group-title="LIVE EVENT",FIFA World Cup LIVE
+http://103.151.60.162:2121/play/a013/25948916.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thedailystar.net/sites/default/files/styles/big_1/public/2026-06/photo-collage.png%20-%202026-06-07T211447.915.png" group-title="LIVE EVENT",FIFA World Cup LIVE
+http://103.165.93.31:8095/btv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTj8MDPZ/4d07ac373639.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://198.195.239.50:8095/Fifa-1/video.m3u8
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xk2KYbgb/1b4a5e3ddb56.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://212.102.34.8:9080/AndFlixHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTj8MDPZ/4d07ac373639.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xk2KYbgb/1b4a5e3ddb56.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53WYCqJ/Resized-Image-2026-06-25-09-53-31-8116-1.webp" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMCSH5mk/Resized-Image-2026-06-25-09-53-32-9709-2.webp" group-title="LIVE EVENT",FIFA World Cup LIVE
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xk2KYbgb/1b4a5e3ddb56.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://107.150.60.122/live/cctv5hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53WYCqJ/Resized-Image-2026-06-25-09-53-31-8116-1.webp" group-title="LIVE EVENT",FIFA World Cup LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jr7WTrM/7c15687d1790.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
@@ -73,7 +60,7 @@ http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangladeshi",BTV HD
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+http://103.151.60.162:2121/play/a013/25948916.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSy9vaz-72fDRbtQ-hD_0uPp6oV-Q1iPL0_A&s" group-title="Bangladeshi",BTV News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
@@ -182,7 +169,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1dwjBKORbwmaWJ1fsHTY-QQtaTHJZkXFwD2V86s9q-PIFcpFLuSBnWh9TbYPbF4dDJGkOsCDQA=s160-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Star Jalsha
-http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8?token=eeaada9525f94e1ad69a2ecab3ce4e18e32e2966-ab0e7f5d5e47ac31007b7cd3f64b1811-1776169971-1776166371&remote=no_check_ip
+https://xfireflix.my.id/mac.php?id=908682.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png/revision/latest?cb=20210420232042" group-title="Indian Bangla",Star Jalsha HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3527.ts
@@ -191,10 +178,10 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3527.ts
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla
-http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8?token=f0e935f7ded22ca5ec138a8a1bdd0783c143f2f0-72abea8effadde408717c21c70ba02fa-1776169971-1776166371&remote=no_check_ip
+http://103.159.180.34:5001/render.m3u8?auth=Lt3rDCXcTJLXqiZwk-YBwxOJnYPmDA1gsRPa8d1HJMvv9yuompCdtbrGRExnxFJxo6muBbUYqWyfZuwmNETcEAEu2Yvh6ajjOiGQxp0yGmi0N7sM8C1mZ_2QtZDMtANsOIqvrTRVZ8XdQbG9caYZbp4kwlYAIkVZeSXn5CLBhCBzFsLuyPcXcrkbF979BbBiwzA5i3wt-EZyGT5kHJVPhyNvVCKl2Ed4P5uloLmAWg8LPLRQ3ZGkCuFRrwOLq9vcOp9lDUcIAdxW4gpjCkOkfY8jXPKT0rFHIjoMcjfIdJInRilvJKA2NGMvszr3poGVRWeUVuugrRfRdSztZUQIjiI7ClmjR0LQfLMYZsrgto3rrrUNUjScV7PbTlWJNfzaO4j6KuErrB7HcaxN77Ymc-nSOxbVMcyvAhULaHsXKMe2RVfZR3ZsFzJWMjlz4C7o6hh-8Oygq7gjdquFU-7VEcu9WFIQzJ_OOae6X4ROdWfwD2NuVn6pjvb7mieJAKGd-tVN3tXPJGAFEzoPnWsPmBxLEiFxgk9uyLmSQir0R0ty0lXSR_RBsZHkC7aMBWBcx8sr7LEtBaYfKww_hnG4_A8=&channel_key_id=625&hdnea=st=1783456020~exp=1783542420~acl=/bpk-tv/ZeeBangla_MOB/Fallback/*~hmac=bba7e512257559e3bd86b1b66afafa3b0683050f0994e92361fc86ad469d746a
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3c-BHKdO1aE-iJwZqbrSxJeUUqIMMEA_mQ&s" group-title="Indian Bangla",Sun Bangla HD
-http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8?token=ddf83cdff5d2a3215579fa2d1303886e18ab6d5c-749917c00731c4d6f44b52a2cfc14557-1776169972-1776166372&remote=no_check_ip
+https://xfireflix.my.id/mac.php?id=908685.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OnL6QT5BNvRK_Wb5Qwtn8p0Js98RgtrYkw&s" group-title="Indian Bangla",Sun Bangla
 http://103.159.180.34:5001/live/1669.m3u8
@@ -203,13 +190,16 @@ http://103.159.180.34:5001/live/1669.m3u8
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png" group-title="Indian Bangla",Colors Bangla HD
-http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8?token=429a387b63ac8a32c732fefb835365ad92425ccc-92e5b67b31a4719886a661390e8c1554-1776169972-1776166372&remote=no_check_ip
+https://xfireflix.my.id/mac.php?id=908654.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m-ErSMpMzKe9hSvK2-i-y3z7-1SA3Q5r_irXehULBv9R0=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Jalsha Movies
+http://103.151.60.162:2121/play/a00x/76595328.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/250?cb=20240320100114" group-title="Indian Bangla",Jalsha Movies HD
-http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8?token=db2538fdd0d868b1f01d342ee7929f62a5083d97-7601b35e404354f1cb113317091539cf-1776169971-1776166371&remote=no_check_ip
+http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" group-title="Indian Bangla",Colors Bangla Cinema
-http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8?token=8ca2733bb3561762a5d9763fd28feeb9d2d359f6-4d9200a87f58f150277d9239d8ed4039-1776169972-1776166372&remote=no_check_ip
+http://66.102.126.10:8000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3_f350mZQuocm7Lx2eASxHJHG5s5ynrrD0cQaIMeUMpDSYyz29J5FCHqnl14AXsV19D71qDUdg=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
@@ -218,13 +208,16 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhiA9P3vRCZCh5vAeynpC5z7krztgeQ1n3A&s" group-title="Indian Bangla",Sony AATH HD
-https://sm-monirul.top/toffee/play/sonyaath.m3u8
+https://yowaimo.in/Sflex-ArtlPVT0719/SONY_8.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhiA9P3vRCZCh5vAeynpC5z7krztgeQ1n3A&s" group-title="Indian Bangla",Sony AATH HD
+http://live.balajibroadband.com:3500/live/697.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2046593171568918528/LUVSkA8Z.jpg" group-title="Indian Bangla",Ruposhi Bangla
 https://cdn-4.pishow.tv/live/1039/1039_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg/250px-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Indian Bangla",Akash AATH
-http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9oDf_DCUiXWpd4QkGS3cvE5ydzST0ZofdjiylPY0lrFx
+http://103.159.180.34:5001/live/698.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Khushboo-Bangla.png" group-title="Indian Bangla",Khushboo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
@@ -254,7 +247,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 http://180.94.28.28:8097//STAR-PLUS/index.fmp4.m3u8?token=54ec691e0faaa50f8c844bf9ef53f00028fff31b-9c4b112ad338d4e1a26fceeae11ff1e0-1776169972-1776166372&remote=no_check_ip
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_Dbxafh3tvuoa-9T55mAUIjs38x159OJTtJ-2-UbL6dRVkbJlu6YeyMazWpHyG8rPJtd" group-title="Hindi Entertainment",STAR PLUS HD
-http://103.157.248.140:8000/play/a005/index.m3u8
+http://41.205.93.154/STAR-PLUS/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQccPtKLT39vl0Iufyy5OO6XgKwgFD8iXNX2A&s" group-title="Hindi Entertainment",ZING
 http://103.159.180.34:5001/live/585.m3u8
@@ -263,7 +256,7 @@ http://103.159.180.34:5001/live/585.m3u8
 http://a1.media1.london:8080/live/Keith2025/Keith2025/5450854.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment",Colours HD
-http://202.70.146.135:8000/play/a00b/index.m3u8
+http://live.balajibroadband.com:3500/render.m3u8?auth=RWmiq192-r0hjEv41sec-3P9uFdNlag0X8LVZZd26Jp88rhBVRgjn8FgDHynKUl1PNw2n3okAluNWb5T3xCsEMexUVIrUFqxGxk0HSQ0xuRaB6GFrGwo5k4zwfmNLtCwnwpumfYJMZ4HTvh4SSHDm9vVRp0tlVE0npZxADApev2RHyRsAM_mvpaOrFcR5fEos187AnOn1G3ym8zUlCnrdugmGAmmsJProosZ3ZYfB2A376j-W1DeBX7lIrh-yu9Fn5dOXI8clvWHRbeevcCy1O1CdllTTQEXinI8TawohtTSMuXIylitvvwUHkXu6xK4sCrSS7SQjR71JCqzLV9tj6Ff-2vJuUFpvQ64RSQDswsjlydkHI2AdggonhzPi7CSnz10V9bRNDq5X7XVupg9CCBFDdRsro6BBfOU7VjZRcfYybLxVm7RrgAE4mTlrwO_VV9byhO1OVqrxSmys3HklCgdSGpQexqTipX1y_c1U8mr1AMkG85gTdAEdqTfvBYHis9y98pMdTe4DIYHCB-AuvbXZynCARzMt_gTXP0-ELRCtel1Z_oE-Ktc1vWy51B_5lvm0gNY_uyzpF301w==&channel_key_id=144&hdnea=st=1783453761~exp=1783540161~acl=/bpk-tv/ColorsHD_MOB/Fallback/*~hmac=b3c393ef99c1f3664100dc63fbf47b45faae1e12dffcb716995ec1884ad22c82
 
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Zee_TV_HD_2025.svg" group-title="Hindi Entertainment",ZEE TV HD
 https://airtel.rkdyiptv.workers.dev/live/1428.m3u8
