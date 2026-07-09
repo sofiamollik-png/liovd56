@@ -1,7 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp" group-title="LIVE EVENT",FIFA 4K 
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvpLnKMB/Resized-Image-2026-06-24-00-53-15-2655-1.webp" group-title="LIVE EVENT",FIFA World Cup 4K 
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783524853~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AWIR_5GJEgHsK98dDUGZgMk_zRsqeAV49JTlVZRQoW2soVIBwU6tKi0WVlH_gy9LcaiVWhZuZos5LTrft7aTAvrbx4UP
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1500.m3u8?hdntl=Expires=1783705208~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmE2YTBlMzktNjgxNi00ODNiLTg4ZDktYWZhZTAzN2IwMDZjIn0~Signature=AWIR_5F16xnmc-hWJpm2_FnNP9BolYg5nbYsktkQ7YtEatVNGTyD3hpeelPl1oFNdvnMw8zV-GJbMaHTwibD0gcIsQkP
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA World Cup 4K 
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
@@ -171,7 +174,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 https://xfireflix.my.id/mac.php?id=908682.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png/revision/latest?cb=20210420232042" group-title="Indian Bangla",Star Jalsha HD
-http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
+https://premium.ryvoxtb.workers.dev/stream/STAR-JALSHA/tracks-v1/index.fmp4.m3u8?expires=1783628213&token=035429f49a20fd8d0d672f7cf8e6aee0c62883339d0b9581e3e2fb9561e106fa
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla HD
 https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
@@ -195,7 +198,7 @@ https://xfireflix.my.id/mac.php?id=908654.m3u8
 http://103.151.60.162:2121/play/a00x/31646724.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/250?cb=20240320100114" group-title="Indian Bangla",Jalsha Movies HD
-http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
+https://premium.ryvoxtb.workers.dev/stream/JALSHA-MOVIES/tracks-a1/index.fmp4.m3u8?expires=1783628053&token=487fa76d023969c193c9b30b46d7504f4dc8976a498b32eec4a31640bc0310c9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" group-title="Indian Bangla",Colors Bangla Cinema
 http://66.102.126.10:8000/play/a015/index.m3u8
