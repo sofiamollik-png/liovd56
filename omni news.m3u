@@ -73,6 +73,9 @@ https://tvsen6.aynaott.com/btvctg/index.m3u8?e=1779358080&u=78be6644-0a65-48ec-8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ATN_Bangla_Logo_without_slogan.svg/1280px-ATN_Bangla_Logo_without_slogan.svg.png" group-title="Bangladeshi",ATN Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ATN_Bangla_Logo_without_slogan.svg/1280px-ATN_Bangla_Logo_without_slogan.svg.png" group-title="Bangladeshi",ATN Bangla
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/live-orgin/atnbanglauk-off.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/ATN_News_Logo_without_slogan.svg/1280px-ATN_News_Logo_without_slogan.svg.png" group-title="Bangladeshi",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
@@ -213,7 +216,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhiA9P3vRCZCh5vAeynpC5z7krztgeQ1n3A&s" group-title="Indian Bangla",Sony AATH HD
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_8.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhiA9P3vRCZCh5vAeynpC5z7krztgeQ1n3A&s" group-title="Indian Bangla",Sony AATH HD
 http://live.balajibroadband.com:3500/live/697.m3u8
@@ -399,7 +402,7 @@ http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8?token=665a0082a282ee8c3bca72d
 http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" group-title="Sports",Willow
-https:\\tvsen5.aynaott.com\willowhd\tracks-v1a1\mono.ts.m3u8
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Willow_Xtra_2023_stacked.svg/revision/latest?cb=20240927132403" group-title="Sports",Willow Extra
 http://27.124.71.27/Willow_Extra/index.m3u8
@@ -426,10 +429,10 @@ http://180.94.28.28:8097//star-Sports-Select-2/index.fmp4.m3u8?token=b0d646cff7f
 http://180.94.28.28:8097//Star-Sports-3/index.fmp4.m3u8?token=02a7a97c199f9688074f82699bdc3e4aa5e2a6c5-ad8d66b6ccc5ba553dfbfbeebed78a67-1776169972-1776166372&remote=no_check_ip
 
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Ten 1 HD.png" group-title="Sports",Sony Ten 1 HD
-http://180.94.28.28:8097//Sony-Ten-1/index.fmp4.m3u8?token=e36ea0e67c5b2dac30bdbfd4d631f1506cf21aea-e97915c1c35a4d2d06d20640504d1c58-1776169972-1776166372&remote=no_check_ip
+https://stream.ottplus.bd/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Ten 2 HD.png" group-title="Sports",Sony Ten 2 HD
-http://180.94.28.28:8097//Sony-Ten-2/index.fmp4.m3u8?token=326328f15ca0d37a1595076d33dee5cf91778a06-2dfa3fb07e401745f484536a2cab6a5c-1776169972-1776166372&remote=no_check_ip
+https://stream.ottplus.bd/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Ten 3 HD.png" group-title="Sports",Sony Ten 3 HD
 http://180.94.28.28:8097//Sony-Ten-3/index.fmp4.m3u8?token=526f36c79f8180dd8daca779fc642c13669b3238-cf703a1bd89dcf07e7cb0fa4b566af8d-1776169972-1776166372&remote=no_check_ip
