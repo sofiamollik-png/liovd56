@@ -267,7 +267,7 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273
 https://book4u.top/worker/index.php?path=api/d34d99294f/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/SONY_SAB_SD_Logo_2022.png" group-title="Hindi Entertainment",SONY SAB HD
-https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248
+https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Shemaroo_TV.svg/revision/latest/scale-to-width-down/275?cb=20200430025535" group-title="Hindi Entertainment",Shemaroo
 https://cdn-3.pishow.tv/live/230/master.m3u8
@@ -285,8 +285,7 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_tv&e=.m3u8
 https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCXRkXwwAHhfGzLPxFRuz9IMBiaPTQA4z7w&s" group-title="Movies",Sony Max
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://book4u.top/worker/index.php?path=api/6d7f4e0717/playlist.m3u8
+https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYEN4LgVjotgVdmlLuNvbGMxW4_W2fIEPFHg&s" group-title="Movies",Sony Max HD
 http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=373074&extension=ts&play_token=CuPocChLF4
@@ -457,13 +456,13 @@ https://madanitv.assadikb.workers.dev/live.php?id=1345&e=.m3u8
 https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fNsAz9GI4IR5xm7sAIwIYEIu_5zxJi806yXDbESC4OckA6hQ_hxcaVmBTiUJVQyEnt1Ph9hc9A=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",Sony Yay Bangla
-https://book4u.top/worker/index.php?path=api/010df4656f/playlist.m3u8
+https://stream.ottplus.bd/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRqUnbVALwCh2fdRZfYzDdkLfZxqb3BxlxaZHdssCQvg&s=10" group-title="Kids",Discovery Kids
 https://book4u.top/worker/index.php?path=api/aec911dc04/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/3840px-Nick_logo_2009.svg.png" group-title="Kids",Nick
-https://madanitv.assadikb.workers.dev/live.php?id=545&e=.m3u8
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Mvs-j6twviLZegHXTaZ5G601ysnLd4Z6Eg&s" group-title="Kids",Nickelodeon
 https://tvsen7.aynaott.com/nicklodean/index.m3u8?e=1779655091&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=638994c156ce845017873962a2fde4d4
