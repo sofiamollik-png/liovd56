@@ -67,8 +67,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1280px-Mohona_tv_Logo.svg.png" group-title="Bangladeshi",Mohona TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1280px-Mohona_tv_Logo.svg.png" group-title="Bangladeshi",Mohona TV HD
-https://ftp.assadikb.workers.dev/stream.m3u8?id=/mohona_tv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1280px-Ekushey_Television_Logo.svg.png" group-title="Bangladeshi",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
@@ -79,7 +77,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/d/d9/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%28%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%A8%E0%A7%8B%29.png/250px-%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%28%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%A8%E0%A7%8B%29.png" group-title="Bangladeshi",Desh TV
-https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo8-mVP6uuYqlRZ6EKAO_-yD3TbkMaXnp7tA&s" group-title="Bangladeshi",MYTV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
@@ -179,7 +177,7 @@ https://live.shamim-iptv.workers.dev/SUNBANGLAHD.m3u8
 http://103.159.180.34:5001/live/1669.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png" group-title="Indian Bangla",Colors Bangla HD
-https://xfireflix.my.id/mac.php?id=908654.m3u8
+https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png" group-title="Indian Bangla",Colors Bangla 4k
 http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=282063&extension=ts&play_token=ryQFMGenxJ
@@ -191,7 +189,7 @@ https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
 http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=155771&extension=ts&play_token=QIycCGPw7s
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" group-title="Indian Bangla",Colors Bangla Cinema
-https://madanitv.assadikb.workers.dev/live.php?id=1657&e=.m3u8
+https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3_f350mZQuocm7Lx2eASxHJHG5s5ynrrD0cQaIMeUMpDSYyz29J5FCHqnl14AXsV19D71qDUdg=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
@@ -362,7 +360,7 @@ http://103.175.73.12:8080/live/43/43_0.m3u8
 https://book4u.top/worker/index.php?path=api/a244056d3f/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReASMVUSxHm7weId4uWZ0Er3tSTaPzyrINPw&s" group-title="Movies",STAR Movies HD
-https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
+http://66.102.126.10:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnhcvPg0APaY4266leGeY3YZzXNlAd8q6UUg&s" group-title="Movies",STAR Movies Select HD
 http://66.102.126.10:8000/play/a020/index.m3u8
