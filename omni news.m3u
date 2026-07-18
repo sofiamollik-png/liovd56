@@ -249,7 +249,7 @@ https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8
 http://a1.media1.london:8080/live/Keith2025/Keith2025/5450854.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment",Colours HD
-https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
+http://202.70.146.135:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment",ZEE TV
 https://airtel.rkdyiptv.workers.dev/live/1428.m3u8
@@ -258,7 +258,7 @@ https://airtel.rkdyiptv.workers.dev/live/1428.m3u8
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_tv_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Hindi Entertainment",Sony HD
-http://englands.store/live/ZNH8U63H5CUQ666/2kpDmwe7AI/1416786.ts
+http://202.70.146.135:8000/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Hindi Entertainment",Sony HD
 https://book4u.top/worker/index.php?path=api/bff81131e7/playlist.m3u8
@@ -324,7 +324,7 @@ http://premimum.online:80/live/jen12345/jen54321/7065.ts
 http://103.175.73.12:8080/live/257/257_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg" group-title="Movies",Star Gold HD
-http://66.102.126.10:8000/play/a00f/index.m3u8
+http://202.70.146.135:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg" group-title="Movies",Star Gold 2
 http://103.253.18.58:8000/play/a00r
