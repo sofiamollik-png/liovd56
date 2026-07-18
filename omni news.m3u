@@ -7,7 +7,7 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/index.m3u8?edge-cach
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA 4K 
-http://206.212.244.63/63/index.m3u8
+https://live1.streambylivepulse.com/live/channel5/playlist.m3u8?wsSecret=f805d01587a0bbb0087d7427b94240d9&wsABSTime=1784449464
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA 4K 
 http://starhub.pro/live/farhat-3379/67897-913379/18452.ts
