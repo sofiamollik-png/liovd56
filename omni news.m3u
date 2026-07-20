@@ -3,52 +3,6 @@
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA 4K 
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/index.m3u8?edge-cache-token=Expires=1784413824~Starts=1784406624~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjMwY2RkYTItOGQ5NC00N2ZmLWIxNzctN2Y2MzlkYzk5OTZmIn0~Signature=evMA683_OgPUyN_EsdWbcNPgtzADwcehjhT-q9jqtIn_V9I0tsVwjvFl_iM22oO3_fcrxcJxt8ghES-g4ta-Ag
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA 4K 
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA 4K 
-https://live1.streambylivepulse.com/live/channel5/playlist.m3u8?wsSecret=f805d01587a0bbb0087d7427b94240d9&wsABSTime=1784449464
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA 4K 
-http://starhub.pro/live/farhat-3379/67897-913379/18452.ts
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA World Cup 
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA World Cup 
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h12HMFDr/29eda9a8b71a.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://103.165.93.31:8095/tsports/tracks-v1a1a2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h12HMFDr/29eda9a8b71a.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://103.165.93.31:8095/tsports/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dxv72dQ/1673ebbdc0c4.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RTj8MDPZ/4d07ac373639.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://103.165.93.31:8095/ptv/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thedailystar.net/sites/default/files/styles/big_1/public/2026-06/photo-collage.png%20-%202026-06-07T211447.915.png" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://103.165.93.31:8095/btv/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RTj8MDPZ/4d07ac373639.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xk2KYbgb/1b4a5e3ddb56.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://107.150.60.122/live/cctv5hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jr7WTrM/7c15687d1790.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xk2KYbgb/1b4a5e3ddb56.jpg" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-
-#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png" group-title="LIVE EVENT",FIFA World Cup LIVE
-http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangladeshi",BTV HD
 http://103.165.93.31:8095/btv/tracks-v1a1/index.m3u8
 
@@ -279,11 +233,11 @@ https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
 https://cdn-3.pishow.tv/live/230/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/480/274/png-clipart-television-channel-dangal-tv-television-show-zee-tv-televisi-oacute-n-purple-television-thumbnail.png" group-title="Hindi Entertainment",Dangal
-https://tvsen6.aynaott.com/Dangal/index.m3u8?e=1779315857&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cbca1ee1f0bc7845451a0bbfa7f60456
+https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjqn75k0UZN09m6lG3E9jcMU2wHuSoWwSzWQ&s" group-title="Hindi Entertainment",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-"
+
 #EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/hum-logo.png" group-title="Hindi Entertainment",Hum TV
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_tv&e=.m3u8
 
