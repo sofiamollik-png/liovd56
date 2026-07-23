@@ -194,7 +194,10 @@ http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=225713&ext
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_Dbxafh3tvuoa-9T55mAUIjs38x159OJTtJ-2-UbL6dRVkbJlu6YeyMazWpHyG8rPJtd" group-title="Hindi Entertainment",STAR PLUS HD
-http://41.205.93.154/STAR-PLUS/tracks-v1a1/index.m3u8
+http://uesztesm.ioiju.com/B35DKUNA/M7EAAYCS/97524
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_Dbxafh3tvuoa-9T55mAUIjs38x159OJTtJ-2-UbL6dRVkbJlu6YeyMazWpHyG8rPJtd" group-title="Hindi Entertainment",STAR PLUS HD
+http://main.light-ott.net/play/live.php?mac=00:1A:79:0B:A0:AE&stream=671571&extension=ts&play_token=JDqHB6BEQk
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQccPtKLT39vl0Iufyy5OO6XgKwgFD8iXNX2A&s" group-title="Hindi Entertainment",ZING
 http://103.159.180.34:5001/live/585.m3u8
@@ -206,7 +209,7 @@ https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8
 http://a1.media1.london:8080/live/Keith2025/Keith2025/5450854.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment",Colours HD
-http://202.70.146.135:8000/play/a00b/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=160&uid=15301&deviceMac=00:1A:79:04:55:C4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment",ZEE TV
 https://airtel.rkdyiptv.workers.dev/live/1428.m3u8
@@ -215,16 +218,16 @@ https://airtel.rkdyiptv.workers.dev/live/1428.m3u8
 https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_tv_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Hindi Entertainment",Sony HD
-http://202.70.146.135:8000/play/a005/index.m3u8
+https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Hindi Entertainment",Sony HD
-https://book4u.top/worker/index.php?path=api/bff81131e7/playlist.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:0B:A0:AE&stream=943926&extension=ts&play_token=SnwZyFnNRt
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Hindi Entertainment",Sony Pal
-https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273
+http://uesztesm.ioiju.com/B35DKUNA/M7EAAYCS/33612
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%26TV_2025.svg/1280px-%26TV_2025.svg.png" group-title="Hindi Entertainment",&tv HD
-https://book4u.top/worker/index.php?path=api/d34d99294f/playlist.m3u8
+https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/SONY_SAB_SD_Logo_2022.png" group-title="Hindi Entertainment",SONY SAB HD
 https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
@@ -245,7 +248,7 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_tv&e=.m3u8
 https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCXRkXwwAHhfGzLPxFRuz9IMBiaPTQA4z7w&s" group-title="Movies",Sony Max
-https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
+https://stream.ottplus.live/live/max_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYEN4LgVjotgVdmlLuNvbGMxW4_W2fIEPFHg&s" group-title="Movies",Sony Max HD
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
@@ -260,22 +263,22 @@ https://book4u.top/worker/index.php?path=api/61888f1b6c/playlist.m3u8
 http://103.180.212.191:3500/live/1393.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5e3IPwc6CuzACqksy-u5T0ITukPQl3_RHQPHaIjuYV00ka2PZ3BrniTng&s=10" group-title="Movies",And Pictures HD
-https://book4u.top/worker/index.php?path=api/2b822b89d5/playlist.m3u8
+https://stream.ottplus.live/live/and_picture_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Colors_Cineplex_Bollywood.jpg/revision/latest?cb=20210321050648" group-title="Movies",Colors Cineplex Bollywood
 http://103.180.212.191:3500/live/1763.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo0axUaCKMO8oFT01PCNOZlLQMEwSs-XLOrA&s" group-title="Movies",Zee Cinema HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD-video=2137600.m3u8
+https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ8DL1N8ktfDx-lTxpeo4EjSbIjpJ037uFyZElNzB8cg&s=10" group-title="Movies", Zee Action
-http://103.175.73.12:8080/live/270/270_0.m3u8
+https://stream.ottplus.live/live/zee_action_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/8utyj17y1gom/1qiXvoqLkP3LORqdJwslfl/703abdf4f1588963c02a05950ae18ba2/02_HeroBillboardSlim_Foreground_Mobile_TVChannelPage_zBollywood.png" group-title="Movies", Zee Bollywood
-https://book4u.top/worker/index.php?path=api/3547925ef0/playlist.m3u8
+https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Zee_Anmol_Cinema.png/revision/latest/scale-to-width-down/284?cb=20210826143243" group-title="Movies",Zee Anmol Cinema
-http://premimum.online:80/live/jen12345/jen54321/7065.ts
+https://stream.ottplus.live/live/zee_anmol_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDsfTgjfVp9GZa3FrQKv2BomfQM-_gd3lnmw&s" group-title="Movies",Zee Anmol Cinema 2
 http://103.175.73.12:8080/live/257/257_0.m3u8
