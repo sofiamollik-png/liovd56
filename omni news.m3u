@@ -446,19 +446,19 @@ http://103.229.254.25:7001/play/a0dl/index.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/19832.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="Kids",Disney HD
-http://premimum.online:80/live/jen12345/jen54321/19741.ts
+http://119.156.228.231:9983/stream/channelid/1324398660?ticket=EFDAF58D8A9426D7CB978A0697AB554578A987EA&profile=pass
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5HtG8tLHs-ztl1ZupEH7poiJLT3OF_qJ_6A&s" group-title="Kids",Disney jr
 https://tvsen7.aynaott.com/disney/index.m3u8?e=1779655091&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=84c27a667aa4fcb5f93e19860db61543
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMCoR3VuXQCF0y_pAqLnCcoVE6fOJKAiLpw&s" group-title="Kids",Hungama
-http://premimum.online:80/live/jen12345/jen54321/18456.ts
+https://yowaimo.in/Sflex-ArtlPVT0719/hungama.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" group-title="Kids",Super Hungama
 http://premimum.online:80/live/jen12345/jen54321/66162.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShMZeaYF85oUC9XA4R301n3aRI49VfH3p6YA&s" group-title="Kids",Cartoon Network
-https://book4u.top/worker/index.php?path=api/68b0f4e13e/playlist.m3u8
+http://119.156.228.231:9983/stream/channelid/1331773591?ticket=92E81E5F91F5275AD29D5B44009AF978D35442D3&profile=pass
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShMZeaYF85oUC9XA4R301n3aRI49VfH3p6YA&s" group-title="Kids",Cartoon Network
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
