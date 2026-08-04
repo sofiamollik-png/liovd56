@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",FIFA 4K 
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/index.m3u8?edge-cache-token=Expires=1784413824~Starts=1784406624~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjMwY2RkYTItOGQ5NC00N2ZmLWIxNzctN2Y2MzlkYzk5OTZmIn0~Signature=evMA683_OgPUyN_EsdWbcNPgtzADwcehjhT-q9jqtIn_V9I0tsVwjvFl_iM22oO3_fcrxcJxt8ghES-g4ta-Ag
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",Live Sports
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400504015263d040c06115a3c5d5d1d623d261778582f2568043e004e070b0a11277d0850075d.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangladeshi",BTV HD
 http://103.165.93.31:8095/btv/tracks-v1a1/index.m3u8
@@ -11,6 +11,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ATN_Bangla_Logo_without_slogan.svg/1280px-ATN_Bangla_Logo_without_slogan.svg.png" group-title="Bangladeshi",ATN Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ATN_Bangla_Logo_without_slogan.svg/1280px-ATN_Bangla_Logo_without_slogan.svg.png" group-title="Bangladeshi",ATN Bangla HD
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400504015263d040c06115a3c5d5d1d6660124b18611218672936084e070b0a11277d0850075d.m3u8
+
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ATN_Bangla_Logo_without_slogan.svg/1280px-ATN_Bangla_Logo_without_slogan.svg.png" group-title="Bangladeshi",ATN Bangla
 https://app.ncare.live/live-orgin/atnbanglauk-off.stream/live-orgin/atnbanglauk-off.stream/chunks.m3u8
@@ -338,7 +342,7 @@ https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzV2mfuaWiI0HdxWZlS5_Q4i7ZOfZnpoy3Gw&s" group-title="Sports",T Sports HD
-http://starhub.pro/live/farhat-3379/67897-913379/18452.ts
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400504015263d040c06115a3c5d5d1d623d261778582f2568043e004e070b0a11277d0850075d.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzV2mfuaWiI0HdxWZlS5_Q4i7ZOfZnpoy3Gw&s" group-title="Sports",T Sports 4K
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
@@ -418,17 +422,17 @@ http://40.160.24.55/TSN_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork2.png" group-title="Sports",TSN 5
 http://40.160.24.55/TSN_5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9t7Fklwumnpk8DabrDtG5-ihX6vuuxBtVIzPxwBvZsrSw1gUcMNwm9u4&s=10" group-title="Kids",Sonic Bangla
-https://madanitv.assadikb.workers.dev/live.php?id=1345&e=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReDdbYKcC_usgSeTAeBh3O94lRTKH6ynTWOiGAvT8VjGaA2ttkJ0F6Kc0&s=10" group-title="Kids",Pogo
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c0530370a2d1e0531040c06703a0b07171d5a3201450a.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/3840px-Nick_logo_2009.svg.png" group-title="Kids",Nick Bangla
-https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8
+https://go.skym3u.top/live/3b1f0d3d095a703c0c04084f0c040215353a07111d04103d535e56183004147700406f604a1e04170b4a5f476b624b0e41104c.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fNsAz9GI4IR5xm7sAIwIYEIu_5zxJi806yXDbESC4OckA6hQ_hxcaVmBTiUJVQyEnt1Ph9hc9A=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",Sony Yay Bangla
 https://stream.ottplus.bd/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRqUnbVALwCh2fdRZfYzDdkLfZxqb3BxlxaZHdssCQvg&s=10" group-title="Kids",Discovery Kids
-https://book4u.top/worker/index.php?path=api/aec911dc04/playlist.m3u8
+https://go.skym3u.top/live/3b1f0d3d404f707f16061f040f08401b2b27150f07165a335b4657193f020f281c113623061d1b041c1c311f3637163c130706705b5e56532b45147e464d.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/3840px-Nick_logo_2009.svg.png" group-title="Kids",Nick
 https://yowaimo.in/Sflex-ArtlPVT0719/NICK_HDSYMPLUS.m3u8
