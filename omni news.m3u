@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/ed4e765ac17318d4d2a76d4318f07254.jpg" group-title="LIVE EVENT",Live Sports
-https://aboxbdix.ryvox-tb-8ae.workers.dev/live/tsports.m3u8?token=46a1a26c91b259ee2be7d9b080f388b8&time=1785994404&link_index=0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2b278jsXhI8wu5wjxlOS05HnSD2h7_j-MhY5p8Jxowg&s=10" group-title="LIVE EVENT",Live Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangladeshi",BTV HD
 http://103.165.93.31:8095/btv/tracks-v1a1/index.m3u8
@@ -109,7 +109,7 @@ https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5
 https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f5a535b26051812470379360a0000001a5840196c265d.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMDmPoSjTX1px7zI80etxqUQELIYYs6RNgRA&s" group-title="Bangladeshi",Independent Television
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yFoFpW9JZXbCkMbrc7fc0NJP_1ZqM-aUgIbikDNW_jxudVKod0hU4sdXDjgJR4Y1N7Vz1BiXDPg=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Star News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
@@ -288,17 +288,14 @@ http://103.175.73.12:8080/live/257/257_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg" group-title="Movies",Star Gold HD
 http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=737323&extension=ts&play_token=j1EjFaGwQC
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg" group-title="Movies",Star Gold 2
-http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=372926&extension=ts&play_token=nuTUJLot2R
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Movies",Star Gold 2 HD
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_2_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlizOaCHy5SjR_KN-Q1UdgagdCDulKtepiQ&s" group-title="Movies",Star Gold Romance
-http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=1433164&extension=ts&play_token=CE3YzTP3l4
+https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_ROMANCE.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzsB0VDmhijXr_VxGF9MvI4wvlFEOcamZ5zh5_w4ZI5Q&s=10" group-title="Movies",Star Gold Select HD
-http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=737325&extension=ts&play_token=7jsKuiSEnt
+https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_SELECT_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6RJVTTWcRI9hpVmG3VmglxLv8e9sabphQA&s" group-title="Movies",GOLDMINES
 https://cdn-2.pishow.tv/live/1459/master.m3u8
@@ -349,7 +346,7 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/tsports.m3u8?token=46a1a26c91b259ee2be7d9b080f388b8&time=1785994404&link_index=0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzV2mfuaWiI0HdxWZlS5_Q4i7ZOfZnpoy3Gw&s" group-title="Sports",T Sports 4K
-https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/wHhztDDZrU.png" group-title="Sports",PTV Sports
 https://aboxbdix.ryvox-tb-8ae.workers.dev/live/ptv.m3u8?token=b3b1c8b67082bf26e58760e6a46491ca&time=1785974468&link_index=0
