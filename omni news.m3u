@@ -223,16 +223,22 @@ https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8
 http://a1.media1.london:8080/live/Keith2025/Keith2025/5450854.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment",Colours HD
-http://tv.cloudcdn.me/live.ts?channelId=160&uid=15301&deviceMac=00:1A:79:04:55:C4
+http://live.balajibroadband.com:3500/live/144.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment",ZEE TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment",ZEE TV 
+https://lstv-web.pages.dev/api/proxy?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fzee_tv_hd_576%2Fzee_tv_hd_576.m3u8%3Fbitrate%3D1000000%26channel%3Dzee_tv_hd_576%26gp_id%3D&headers=eyJVc2VyLUFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDk7IFJlZG1pIFMyIEJ1aWxkL1BLUTEuMTgxMjAzLjAwMSkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNS4wLjcwNDkuNzkgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJDb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4NjQxODkwMTpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1ncmFtXzlGWkZyMWpxcEU3QVo5QTNIN1drbTl4SVVWb09XWjNmdzdBY1RtQXU1OVZoMFlYSm8talZZMGV3ZGlkZWIyclRXdmJxbnRxZ1JubXlPV0NBZyJ9
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment",ZEE TV HD
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Hindi Entertainment",Sony HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png" group-title="Hindi Entertainment",ZEE Anmol
+https://lstv-web.pages.dev/api/proxy?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fzee_anmol_576%2Fzee_anmol_576.m3u8%3Fbitrate%3D1000000%26channel%3Dzee_anmol_576%26gp_id%3D&headers=eyJVc2VyLUFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDk7IFJlZG1pIFMyIEJ1aWxkL1BLUTEuMTgxMjAzLjAwMSkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNS4wLjcwNDkuNzkgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJDb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4NjQxODkwMTpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1ncmFtXzlGWkZyMWpxcEU3QVo5QTNIN1drbTl4SVVWb09XWjNmdzdBY1RtQXU1OVZoMFlYSm8talZZMGV3ZGlkZWIyclRXdmJxbnRxZ1JubXlPV0NBZyJ9
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Hindi Entertainment",Sony Entertainment
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Hindi Entertainment",Sony HD
-http://main.light-ott.net/play/live.php?mac=00:1A:79:0B:A0:AE&stream=943926&extension=ts&play_token=SnwZyFnNRt
+https://lstv-web.pages.dev/api/proxy?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fsony_entertainment_576%2Fsony_entertainment_576.m3u8%3Fbitrate%3D1000000%26channel%3Dsony_entertainment_576%26gp_id%3D&headers=eyJVc2VyLUFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDk7IFJlZG1pIFMyIEJ1aWxkL1BLUTEuMTgxMjAzLjAwMSkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNS4wLjcwNDkuNzkgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJDb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4NjQxODkwMTpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1ncmFtXzlGWkZyMWpxcEU3QVo5QTNIN1drbTl4SVVWb09XWjNmdzdBY1RtQXU1OVZoMFlYSm8talZZMGV3ZGlkZWIyclRXdmJxbnRxZ1JubXlPV0NBZyJ9
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Hindi Entertainment",Sony Pal
 http://main.light-ott.net/play/live.php?mac=00:1A:79:0B:A0:AE&stream=373069&extension=ts&play_token=3YDA5xB2Zc
@@ -241,7 +247,7 @@ http://main.light-ott.net/play/live.php?mac=00:1A:79:0B:A0:AE&stream=373069&exte
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/SONY_SAB_SD_Logo_2022.png" group-title="Hindi Entertainment",SONY SAB HD
-https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
+https://lstv-web.pages.dev/api/proxy?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fsonysab_hd_576%2Fsonysab_hd_576.m3u8%3Fbitrate%3D1000000%26channel%3Dsonysab_hd_576%26gp_id%3D&headers=eyJVc2VyLUFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDk7IFJlZG1pIFMyIEJ1aWxkL1BLUTEuMTgxMjAzLjAwMSkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNS4wLjcwNDkuNzkgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJDb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4NjQxODkwMTpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1ncmFtXzlGWkZyMWpxcEU3QVo5QTNIN1drbTl4SVVWb09XWjNmdzdBY1RtQXU1OVZoMFlYSm8talZZMGV3ZGlkZWIyclRXdmJxbnRxZ1JubXlPV0NBZyJ9
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Shemaroo_TV.svg/revision/latest/scale-to-width-down/275?cb=20200430025535" group-title="Hindi Entertainment",Shemaroo
 https://cdn-3.pishow.tv/live/230/master.m3u8
@@ -259,7 +265,7 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_tv&e=.m3u8
 https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCXRkXwwAHhfGzLPxFRuz9IMBiaPTQA4z7w&s" group-title="Movies",Sony Max
-https://stream.ottplus.live/live/max_hd_abr/index.m3u8
+https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYEN4LgVjotgVdmlLuNvbGMxW4_W2fIEPFHg&s" group-title="Movies",Sony Max HD
 http://main.light-ott.net/play/live.php?mac=00:1A:79:0B:A0:AE&stream=373074&extension=ts&play_token=TQU1nUD1Tb
@@ -280,16 +286,13 @@ https://stream.ottplus.live/live/and_picture_hd_abr/index.m3u8
 http://103.180.212.191:3500/live/1763.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo0axUaCKMO8oFT01PCNOZlLQMEwSs-XLOrA&s" group-title="Movies",Zee Cinema HD
-https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
+https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ8DL1N8ktfDx-lTxpeo4EjSbIjpJ037uFyZElNzB8cg&s=10" group-title="Movies", Zee Action
-https://stream.ottplus.live/live/zee_action_abr/index.m3u8
+https://lstv-web.pages.dev/api/proxy?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fzee_action_576%2Fzee_action_576.m3u8%3Fbitrate%3D1000000%26channel%3Dzee_action_576%26gp_id%3D&headers=eyJVc2VyLUFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDk7IFJlZG1pIFMyIEJ1aWxkL1BLUTEuMTgxMjAzLjAwMSkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNS4wLjcwNDkuNzkgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJDb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4NjQxODkwMTpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1ncmFtXzlGWkZyMWpxcEU3QVo5QTNIN1drbTl4SVVWb09XWjNmdzdBY1RtQXU1OVZoMFlYSm8talZZMGV3ZGlkZWIyclRXdmJxbnRxZ1JubXlPV0NBZyJ9
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/8utyj17y1gom/1qiXvoqLkP3LORqdJwslfl/703abdf4f1588963c02a05950ae18ba2/02_HeroBillboardSlim_Foreground_Mobile_TVChannelPage_zBollywood.png" group-title="Movies", Zee Bollywood
-https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Zee_Anmol_Cinema.png/revision/latest/scale-to-width-down/284?cb=20210826143243" group-title="Movies",Zee Anmol Cinema
-https://stream.ottplus.live/live/zee_anmol_abr/index.m3u8
+https://stream.ottplus.bd/live/zee_bollywood_abr/live/zee_bollywood_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDsfTgjfVp9GZa3FrQKv2BomfQM-_gd3lnmw&s" group-title="Movies",Zee Anmol Cinema 2
 http://103.175.73.12:8080/live/257/257_0.m3u8
