@@ -205,9 +205,6 @@ https://rangdhonu-proxy.tasinazad2009.workers.dev/?url=https%3A%2F%2Fs3.itcnbd.l
 http://103.151.60.188:12345/hls/tab_98nbdjr/index.m3u8?t=1786861419571
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment",Colours HD
-http://103.151.60.188:12345/hls/tab_98nbdjr/index.m3u8?t=1786861449636
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment",Colours HD
 http://live.balajibroadband.com:3500/live/144.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment",ZEE TV HD
