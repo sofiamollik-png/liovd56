@@ -351,6 +351,9 @@ https://iptv.aboxbdix-001.workers.dev/live/STAR-SPORTS-1/16ace38eee941ba08e66bd3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Sports",Star Sports 2 HD
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8_%E0%A7%A9#/media/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="Sports",Star Sports 3 HD
+http://66.102.126.10:8000/play/a00k/index.m3u8  
+
 #EXTINF:-1 tvg-logo="https://c.kmpr.in/assets/tv_channels_150/5751.jpg" group-title="Sports",Sony Ten 1 HD
 https://stream.ottplus.bd/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 
