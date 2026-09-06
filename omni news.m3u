@@ -199,7 +199,7 @@ https://iptv.aboxbdix-001.workers.dev/live/star-plus/fbe4a636d7cf9d20a2a27bf438d
 https://cors-proxy.niloy2work.workers.dev/?url=http%3A%2F%2Frgkkw.live%3A80%2Flive%2F1Aoen7elp5%2FIgMJ60tmAa%2F9370.ts&headers=e30%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment",Colours HD
-http://live.balajibroadband.com:3500/live/144.m3u8
+http://202.70.146.135:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment",ZEE TV HD
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
@@ -208,7 +208,7 @@ https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 https://lstv-web.pages.dev/api/proxy?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fzee_anmol_576%2Fzee_anmol_576.m3u8%3Fbitrate%3D1000000%26channel%3Dzee_anmol_576%26gp_id%3D&headers=eyJVc2VyLUFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDk7IFJlZG1pIFMyIEJ1aWxkL1BLUTEuMTgxMjAzLjAwMSkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNS4wLjcwNDkuNzkgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJDb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4NjQxODkwMTpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT1ncmFtXzlGWkZyMWpxcEU3QVo5QTNIN1drbTl4SVVWb09XWjNmdzdBY1RtQXU1OVZoMFlYSm8talZZMGV3ZGlkZWIyclRXdmJxbnRxZ1JubXlPV0NBZyJ9
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Hindi Entertainment",Sony Entertainment
-https://iptv.aboxbdix-001.workers.dev/live/nested?url=agaJWNbfQIf2iwylljpO-iARmYKA5Ae7Rbbkoap2rmsuIivJ7tpPUKyVRnkK1t5TPD_FxTCGkIZ8B3e6GPqoA5cHzzK4f_7M2sVXqVo4g6eq8Lf1muZ8AnpkcqlHsK0mDUcNFonga3v9lav64I1b_VPG8OcS0P6eqG-H9qa3EbVTEzWj2-Oh&token=51cc25ece8a68bc2aaab8bb34b012a5a&time=1788648485
+https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Hindi Entertainment",Sony HD
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
@@ -253,7 +253,7 @@ http://live.balajibroadband.com:3500/live/1393.m3u8
 https://stream.ottplus.live/live/and_picture_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Colors_Cineplex_Black.png/250px-Colors_Cineplex_Black.png" group-title="Movies",Colors Cineplex HD
-https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=t2p8m8MzIGziR9DDa-kGdA&expires=1788651487
+http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo0axUaCKMO8oFT01PCNOZlLQMEwSs-XLOrA&s" group-title="Movies",Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
@@ -354,6 +354,12 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8_%E0%A7%A9#/media/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="Sports",Star Sports 3 HD
 http://66.102.126.10:8000/play/a00k/index.m3u8  
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png" group-title="Sports",Star Sports SL 1
+https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="Sports",Star Sports SL 2
+https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://c.kmpr.in/assets/tv_channels_150/5751.jpg" group-title="Sports",Sony Ten 1 HD
 https://stream.ottplus.bd/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 
@@ -369,8 +375,20 @@ https://iptv.aboxbdix-001.workers.dev/live/nested?url=2YuMVRkLNhL5Hmxdg8cgL1HrJh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ten_Cricket.png?_=20250709151702" group-title="Sports",SONY TEN CRICKET
 https://iptv.aboxbdix-001.workers.dev/live/Ten_Cricket_HD/2eb4422597899087f05e026bf6edc885/1788651725/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-resources.redbull.tv/images/smarttv/rbtv/logos/logo.svg" group-title="Sports",Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png" group-title="Sports",Bein Sports 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/FzGdttZ1/20250120_193818.png",Bein Sports 2
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/B6TPgPPT/20250120_193903.png",Bein Sports 3
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/B6TPgPPT/20250120_193903.png",Bein Sports 4
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/B6TPgPPT/20250120_193903.png",Bein Sports 5
+https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Ls8VYlBaCZIctR68jvCG6Xy_0Mg_Tf-wzg&s" group-title="Sports",EUROSPORT HD
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
@@ -390,6 +408,9 @@ https://tvsen7.aynascope.net/tsn2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork2.png" group-title="Sports",TSN 3
 https://tvsen7.aynascope.net/tsn3/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static-resources.redbull.tv/images/smarttv/rbtv/logos/logo.svg" group-title="Sports",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title=" Kids",Duronto TV
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 
@@ -397,7 +418,7 @@ https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 
 #EXTINF:-1 group-title=" Kids" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo
-https://go.skym3u.top/live/3b1f0d3d404f707f08140108160a1a0071300a0e5d110270465f5450360e542f4a58323117070b4e020c181171230d134d0c1062425f55590c181d6b5648713d560755.m3u8
+https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title=" Kids",Sony Yay Bangla
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_yay.m3u8
@@ -453,7 +474,7 @@ https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg0
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/288/60/png-clipart-bangladesh-bengali-discovery-channel-television-channel-bangla-television-blue.png" group-title="Documentary",Discovery HD
-https://iptv.aboxbdix-001.workers.dev/live/nested?url=uq6BkIKdJ1eZe9oD7GaeNuNNWciiEk8ZEJkLQ0QZq83uW6Uda-cAQ7MwFzxkkKc8WBnfI-AP1RHwjVM0kg1t-rZSzZa5nvscsxh__lrn__Epw0ktkACYx0oKhn0bYIVlkAiQzpSnK7mxb7TAhGQe_ed3LcY6qDt7AbDEtizTJpz6qSo&token=a9da886f0887c23de7743f09acd54eb5&time=1788648983
+http://202.70.146.135:8000/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/288/60/png-clipart-bangladesh-bengali-discovery-channel-television-channel-bangla-television-blue.png" group-title="Documentary",Discovery Bangla
 http://elitenova.net/live/MAGTF8AV71/bUiJLEJKG5/510485.ts
@@ -477,7 +498,7 @@ http://27.124.71.27/Love_Nature/index.m3u8
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png" group-title="Documentary",Sony BBC Earth HD
-https://iptv.aboxbdix-001.workers.dev/live/nested?url=_GyDQZrGtJpPG65xbWbqdwlE9WWjwaW2lljj-wheKJzafGDSNNCitBnhx-4pJccDQxo8WnOvf_hVi9G91MvJeZjf-agfTSCO2ICkSkDk-cGvEQGIeDpcG8WN_q1TD0F-_OAMwXSGRl3aXIMaBswZR84Ves6HR6tfM11bgfKDcpEmhAkmhSj-osXY07A&token=aacfd9b91384ac4ed24180262096b974&time=1788649619
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDYA1aJATsF0d1UpU0UtJWO2BmMx1tl5kFRg&s" group-title="Documentary",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
