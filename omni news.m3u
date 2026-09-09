@@ -7,10 +7,10 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 https://starsportshindiii.pages.dev/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangladeshi",BTV HD
-https://iptv.aboxbdix-001.workers.dev/live/BTV/70007cb1f255178c4ba61fc04ee085b0/1788647559/0.m3u8
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSy9vaz-72fDRbtQ-hD_0uPp6oV-Q1iPL0_A&s" group-title="Bangladeshi",BTV News HD
-https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
+https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ATN_Bangla_Logo_without_slogan.svg/1280px-ATN_Bangla_Logo_without_slogan.svg.png" group-title="Bangladeshi",ATN Bangla HD
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
@@ -43,7 +43,7 @@ https://iptv.aboxbdix-001.workers.dev/live/channel-9/b4d6c7723e822d29c851e679abb
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo8-mVP6uuYqlRZ6EKAO_-yD3TbkMaXnp7tA&s" group-title="Bangladeshi",MYTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo8-mVP6uuYqlRZ6EKAO_-yD3TbkMaXnp7tA&s" group-title="Bangladeshi",MYTV HD
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
@@ -52,7 +52,7 @@ https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAZSWGOkjYLDWHCPdrR8st3j3u1yhDvPdw1A&s" group-title="Bangladeshi",BijoyTV
-https://iptv.aboxbdix-001.workers.dev/live/bijoy-tv/b94e957bc6ac0c3b25b8d89d1db1bc17/1788647338/0.m3u8
+https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/c/c7/20260131144943%21Boishakhi_TV_logo.svg" group-title="Bangladeshi",Boishakhi TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8
@@ -421,7 +421,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title=" Kids",Sony Yay Bangla
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_yay.m3u8
+https://stream.ottplus.live/live/sony_yay_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title=" Kids",Sonic Bangla
 http://live.balajibroadband.com:3500/live/1345.m3u8
@@ -442,7 +442,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
 https://tvsen7.aynaott.com/nicklodean/tracks-v1a1/mono.ts.m3u8?e=1784102584&token=81eb7a6fadc0212e5a961b40ee037c49&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title=" Kids",Disney Channel
-http://181.119.215.61:8000/play/a0g1/index.m3u8
+http://88.212.15.19/live/disney_channel_hun/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title=" Kids",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
