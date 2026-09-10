@@ -129,7 +129,7 @@ https://flussonic.defineatoz.com/StarjalshaHD/tracks-v1a1/mono.m3u8
 http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=155770&extension=ts&play_token=4N06crMxgY
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla HD
-https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
+https://cdn.devm3u.top/server1/zeebangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla 4k
 http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=155774&extension=ts&play_token=CFZOXuw2pP
@@ -171,7 +171,7 @@ https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 http://103.159.180.34:5001/live/698.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebmDBvoYxM2GaAGqLvjmfUCI09Z05bNjqnfaUykAbDQ&s" group-title="Indian Bangla",Rupashi Bangla
-https://cdn-4.pishow.tv/live/1039/master.m3u8
+https://cdn.devm3u.top/server1/ruposhi.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Khushboo-Bangla.png" group-title="Indian Bangla",Khushboo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
@@ -294,13 +294,13 @@ http://live.balajibroadband.com:3500/live/482.m3u8
 http://202.70.146.135:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6RJVTTWcRI9hpVmG3VmglxLv8e9sabphQA&s" group-title="Movies",GOLDMINES
-https://tvsen3.aynaott.com/VamXuQH8/tracks-v1a1/mono.ts.m3u8
+https://cdn.devm3u.top/server1/goldmines.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg/revision/latest?cb=20220401125831" group-title="Movies",GOLDMINES BOLLYWOOD
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqWfwrdCr1dknNkVOxnC0k1dJGZlOqK1gnEA&s" group-title="Movies",GOLDMINES MOVIES
-https://cdn-2.pishow.tv/live/1461/master.m3u8
+https://cdn.devm3u.top/server1/goldminesmovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaDw8yrFFjrLrCrl4OMl7jvyiG_9-LK4DYzQ&s" group-title="Movies",Goldmines 2
 http://103.175.73.12:8080/live/46/46_0.m3u8
@@ -342,7 +342,7 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzV2mfuaWiI0HdxWZlS5_Q4i7ZOfZnpoy3Gw&s" group-title="Sports",T Sports HD
-https://iptv.aboxbdix-001.workers.dev/live/tsports/ace13db5741d0919eb72065d3bfeaae1/1788651233/0.m3u8
+https://cdn.devm3u.top/server1/tsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzV2mfuaWiI0HdxWZlS5_Q4i7ZOfZnpoy3Gw&s" group-title="Sports",T Sports 2K
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
