@@ -201,7 +201,7 @@ https://iptv.aboxbdix-001.workers.dev/live/star-plus/fbe4a636d7cf9d20a2a27bf438d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment",Colours
 https://cors-proxy.niloy2work.workers.dev/?url=http%3A%2F%2Frgkkw.live%3A80%2Flive%2F1Aoen7elp5%2FIgMJ60tmAa%2F9370.ts&headers=e30%3D
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment",Colours HD
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180612/lfp/aa8xji7qu.webp" group-title="Hindi Entertainment",Colours HD
 http://202.70.146.135:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment",ZEE TV HD
