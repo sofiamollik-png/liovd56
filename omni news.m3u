@@ -257,6 +257,9 @@ http://live.balajibroadband.com:3500/live/3418.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgbbRBD3qJzlZHWeRSAcbfOmOIy63kMVqHQw&s" group-title="Movies",Sony Max 2
 https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgbbRBD3qJzlZHWeRSAcbfOmOIy63kMVqHQw&s" group-title="Movies",Sony Max 2 HD
+http://live.balajibroadband.com:3500/live/483.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony Wah
 http://live.balajibroadband.com:3500/live/1393.m3u8
 
@@ -285,7 +288,7 @@ http://66.102.126.10:8000/play/a00g/index.m3u8
 http://66.102.126.10:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Colors_Cineplex_Black.png/250px-Colors_Cineplex_Black.png" group-title="Movies",Colors Cineplex HD
-http://66.102.126.10:8000/play/a076/index.m3u8
+http://live.balajibroadband.com:3500/live/482.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Colors-Cineplex-Bollywood.png" group-title="Movies",Colors Cineplex Bollywood
 http://202.70.146.135:8000/play/a058/index.m3u8
@@ -362,11 +365,8 @@ https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" group-title="Sports",Willow
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1ap8OAmKXlkBZ5VYiUstIstLiCYHmAtlcA&s" group-title="Sports",Star Sports 1
-https://starsportshindiii.pages.dev/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1ap8OAmKXlkBZ5VYiUstIstLiCYHmAtlcA&s" group-title="Sports",Star Sports 1 HD
-https://iptv.aboxbdix-001.workers.dev/live/STAR-SPORTS-1/16ace38eee941ba08e66bd366625d6c1/1788651558/0.m3u8
+https://starsportshindiii.pages.dev/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Sports",Star Sports 2 HD
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
@@ -506,7 +506,7 @@ http://elitenova.net/live/MAGTF8AV71/bUiJLEJKG5/510485.ts
 https://iptv.aboxbdix-001.workers.dev/live/nested?url=KYZPqxplz7oy83S1bnZRClUXNNotFtvu0OvNeEDN9Fv-KtbDiida5heMCQCNAVbtSYp134VLgJcLGwyhp1KO8lw06fAF8AIeMzNzDtA1o3wUzlwIk6HD6V-MG3HAObv1iKE1EB3nqYFu2CRhhMmYdo_sLuxnS8D6rDjDXPFAm24iVpyIOkBQvZqx2Aez&token=80fcceec267857a1b17828b711284703&time=1788649085
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png" group-title="Documentary",Investigation Discovery
-https://iptv.aboxbdix-001.workers.dev/live/nested?url=iIm2CgNA7STRsoPl3qLo4hjZ5GFjtmuJM8tndjo4on5lKIFVn1GBc9hqVz_X0H1NfleUecNqhDDJBRv5SWguMqoucXvDhkvnunHrosS-fdbp2pQ2YMkbW28Wk9OQ8gLSp-x9qU1YBhm1hOs8ufKTBGV7Ry8i&token=ab5ca7e75081278aa1c71faabe2bf7ac&time=1788649114
+http://live.balajibroadband.com:3500/live/527.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6iBxYrgSU0ZgOUwWf_2NnY6sJ0YwNJ_XVA&s" group-title="Documentary",National Geographic HD
 https://go.skym3u.dev/live/57382/3b1f0d3d404f706d302920080f415a3e3b0f0d0e1a174b3c5d5d1d013e064d3d4436266d2d313708195c196c3759.m3u8?t=1067&s=c75&id=sa32.m3u
