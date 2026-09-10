@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="LIVE EVENT",Sony LIV
+http://live.balajibroadband.com:3500/live/155.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2b278jsXhI8wu5wjxlOS05HnSD2h7_j-MhY5p8Jxowg&s=10" group-title="LIVE EVENT",Live Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
@@ -198,6 +200,9 @@ http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_Dbxafh3tvuoa-9T55mAUIjs38x159OJTtJ-2-UbL6dRVkbJlu6YeyMazWpHyG8rPJtd" group-title="Hindi Entertainment",STAR PLUS
 https://iptv.aboxbdix-001.workers.dev/live/star-plus/fbe4a636d7cf9d20a2a27bf438d84fea/1788648239/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7r4XOK4DAWd1lDeBfEe76qCZp38-Olko6g7msXVbm&s=10" group-title="Hindi Entertainment",Colours SD
+http://live.balajibroadband.com:3500/live/144.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment",Colours
 https://cors-proxy.niloy2work.workers.dev/?url=http%3A%2F%2Frgkkw.live%3A80%2Flive%2F1Aoen7elp5%2FIgMJ60tmAa%2F9370.ts&headers=e30%3D
 
@@ -271,7 +276,7 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/967.ts
 https:\\cdn-uw2-prod.tsv2.amagi.tv\linear\amg00864-shemarooenterta-shemabollywood-ono\playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg" group-title="Movies",Star Gold HD
-http://66.102.126.10:8000/play/a00f/index.m3u8
+http://live.balajibroadband.com:3500/live/156.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20211215235613" group-title="Movies",Star Gold 2 HD
 http://66.102.126.10:8000/play/a00g/index.m3u8
@@ -352,10 +357,10 @@ https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/074/162/460/non_2x/cricbuzz-logo-cb-logo-high-quality-free-vector.jpg" group-title="Sports",Cricbuzz HD
-https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" group-title="Sports",Willow
-https://playztv-apps.pages.dev/willow/index.m3u8
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1ap8OAmKXlkBZ5VYiUstIstLiCYHmAtlcA&s" group-title="Sports",Star Sports 1
 https://starsportshindiii.pages.dev/index.m3u8
@@ -379,7 +384,7 @@ https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 https://stream.ottplus.bd/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkA5XvQ0SnVsLq1pYuNkLs_Zuic8sTRqhgbkgengh2lw&s=10" group-title="Sports",Sony Ten 2 HD
-https://stream.ottplus.bd/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
+https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="hhttps://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Ten 3 HD
 http://live.balajibroadband.com:3500/live/892.m3u8
@@ -389,6 +394,9 @@ https://iptv.aboxbdix-001.workers.dev/live/nested?url=2YuMVRkLNhL5Hmxdg8cgL1HrJh
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ten_Cricket.png?_=20250709151702" group-title="Sports",SONY TEN CRICKET
 https://iptv.aboxbdix-001.workers.dev/live/Ten_Cricket_HD/2eb4422597899087f05e026bf6edc885/1788651725/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://web.aynaott.com/live-tvs/cricket-gold" group-title="Sports",CRICKET GOLD
+https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png" group-title="Sports",Bein Sports 1
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
