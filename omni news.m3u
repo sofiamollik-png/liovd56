@@ -283,7 +283,7 @@ http://live.balajibroadband.com:3500/live/3418.m3u8
 https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=sonymax_2&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgbbRBD3qJzlZHWeRSAcbfOmOIy63kMVqHQw&s" group-title="Movies",Sony Max 2 HD
-http://live.balajibroadband.com:3500/live/483.m3u8
+https://tv4.udiqipuw544.workers.dev/cdn/live/sonymax_2/playlist.m3u8?hdnea=exp=1789162113~acl=/*~id=25291440668498682548586245500211~hmac=2eae2e41a22c9fd15b6c4e1a8b70bcf2702e90364826314e66c3430c891d6f8d
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony Wah
 http://live.balajibroadband.com:3500/live/1393.m3u8
@@ -342,7 +342,7 @@ http://103.229.254.25:7001/play/a0es/index.m3u8
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="Movies",Sony Pix HD
-https://tv8.akashgo.workers.dev/cdn/live/sonypix_hd/playlist.m3u8
+https://tv5.genatuz070.workers.dev/cdn/live/sonypix_hd/playlist.m3u8?hdnea=exp=1789162113~acl=/*~id=04417505980351412623200770994090~hmac=860ea79435a731ab720d86937154b1459fade3b41fc52398d2778a251490ef0c
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvr9HihzPXsHaU6ZXntzX7FqEhMqcU5C2SiopnrJ5q1A&s=10" group-title="Movies",Sony Movies HD
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
