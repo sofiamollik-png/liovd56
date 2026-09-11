@@ -354,7 +354,7 @@ http://103.185.24.134:3001/TSportsHD/index.m3u8
 http://66.102.126.10:8000/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/wHhztDDZrU.png" group-title="Sports",PTV Sports HD
-https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
+https://proxyz.iptvchannels.workers.dev/?url=https%3A%2F%2Fflussonic.defineatoz.com%2FPTV%2Ftracks-v1a1%2Fmono.m3u8
 
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/A Sports.png" group-title="Sports",A Sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
