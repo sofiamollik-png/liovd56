@@ -161,7 +161,7 @@ http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=282063&ext
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMoXKAey7AxRE7jaMmQ_Yu9hJLzMERbgZmXFJ5zbrhfw&s" group-title="Indian Bangla",Jalsha Movies HD
-https://xtream.kbhub.online/live/kblivetv/kblivetv/425.ts
+https://robitv.com/rn/http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMoXKAey7AxRE7jaMmQ_Yu9hJLzMERbgZmXFJ5zbrhfw&s" group-title="Indian Bangla",Jalsha Movies 4k
 http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=155771&extension=ts&play_token=QIycCGPw7s
@@ -226,7 +226,7 @@ http://202.70.146.135:8000/play/a009/index.m3u8
 https://cors-proxy.niloy2work.workers.dev/?url=http%3A%2F%2Frgkkw.live%3A80%2Flive%2F1Aoen7elp5%2FIgMJ60tmAa%2F9370.ts&headers=e30%3D
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180612/lfp/aa8xji7qu.webp" group-title="Hindi Entertainment",Colours HD
-http://202.70.146.135:8000/play/a00b/index.m3u8
+https://robitv.com/lps/http://202.70.146.135:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment",ZEE TV HD
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
@@ -375,7 +375,7 @@ https://cdn.devm3u.top/server1/tsports.m3u8
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/wHhztDDZrU.png" group-title="Sports",PTV Sports
-https://iptv.aboxbdix-001.workers.dev/ptv/tlcwtx_488dda2ed85e2cd4.m3u8
+https://robitv.com/lps/https://ml-pull-dvc-myco.io:2096/PTV_SPORTS_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/wHhztDDZrU.png" group-title="Sports",PTV Sports HD
 https://mz02.playerr03.com:7060/hls/ptvskpr.m3u8?md5=slLN3ZNn1Sh16i5_wJPqeg&expires=1789150852&ch=ptvskpr&s=27df3aa85700181946efdb254a1d418f
