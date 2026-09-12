@@ -89,6 +89,9 @@ https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chu
 #EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo.png" group-title="Bangladeshi",MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NY5-0XsNLoatLxmj0gDlTe5XSyHHxslkLLR6pnVgrsoYVazphxzu-ePiY8i2B-bN28ygG8SDww=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",MOVIE 24/7
+https://tv8.akashgo.workers.dev/cdn/live/toffee_movie/playlist.m3u8?hdnea=exp=1789230369~acl=/*~id=65471130720861904010894087215885~hmac=5f4e22a7b17449d4229e20ee9b6f305fe1c6fccecaaa287c733099a9cd55629c
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kSKQhT1scQbAXd-maoWH8Gyn84XWJE73CzCVr6lUPmc9g=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",G Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
@@ -144,9 +147,7 @@ http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=155770&ext
 https://cdn.devm3u.top/server1/zeebangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y88mJsQC/20240823_020415.png" group-title="Indian Bangla",Sun Bangla
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a
-https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3c-BHKdO1aE-iJwZqbrSxJeUUqIMMEA_mQ&s" group-title="Indian Bangla",Sun Bangla HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/3753.ts
@@ -491,13 +492,13 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title=" Kids",Sony Yay Bangla
-https://stream.ottplus.live/live/sony_yay_abr/index.m3u8
+https://tv5.genatuz070.workers.dev/cdn/live/sonyyay/playlist.m3u8?hdnea=exp=1789230369~acl=/*~id=11482350907623704689437064631340~hmac=634e88930ee83c20f21d4615f766e770429d18a3c1ad2bf243bde4e02586b13c
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title=" Kids",Sonic Bangla
-http://live.balajibroadband.com:3500/live/1345.m3u8
+https://cdn.devm3u.top/server1/sonic.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title=" Kids",Nick Bangla
-http://live.balajibroadband.com:3500/live/1341.m3u8
+https://cdn.devm3u.top/server1/nick.m3u8
 
 #EXTINF:-1 group-title=" Kids" tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png",Discovery Kids
 https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
@@ -556,10 +557,13 @@ https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
 https://tv8.akashgo.workers.dev/cdn/live/discovery_science/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png" group-title="Documentary",Investigation Discovery
-http://live.balajibroadband.com:3500/live/527.m3u8
+https://tv8.akashgo.workers.dev/cdn/live/discovary_investigation_hd/playlist.m3u8?hdnea=exp=1789230369~acl=/*~id=60401109566135650753718100739703~hmac=896abee234d3083eeb8e667a4b0de8e575f95dd8a31103e23c2e11c8e0cec1ca
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvPTkPjH/IJH47f-J.png" group-title="Documentary",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXyjEkj-YSaUPARq2GkY6Er9lrTkh3CNqs0NzR_EJ5kVbUMFwhBMEdJx38TT32AdbKrMp0UZoMBgjMYXW5F1sm0-wx2y4tgq62DWvTG68&s=10" group-title="Documentary",Discovery Turbo
+https://tv5.genatuz070.workers.dev/cdn/live/discovery_turbo/playlist.m3u8?hdnea=exp=1789230369~acl=/*~id=41510303412082075215001330780265~hmac=0f29156bfd39641d284e0704b84d0287ac7d3d3f2800bfabbd9fed43749cf377
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6iBxYrgSU0ZgOUwWf_2NnY6sJ0YwNJ_XVA&s" group-title="Documentary",National Geographic HD
 https://go.skym3u.dev/live/57382/3b1f0d3d404f706d302920080f415a3e3b0f0d0e1a174b3c5d5d1d013e064d3d4436266d2d313708195c196c3759.m3u8?t=1067&s=c75&id=sa32.m3u
