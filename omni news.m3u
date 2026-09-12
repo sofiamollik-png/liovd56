@@ -405,7 +405,7 @@ https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://c.kmpr.in/assets/tv_channels_150/5751.jpg" group-title="Sports",Sony Ten 1 HD
-https://stream.ottplus.bd/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkA5XvQ0SnVsLq1pYuNkLs_Zuic8sTRqhgbkgengh2lw&s=10" group-title="Sports",Sony Ten 2 HD
 https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
@@ -414,7 +414,7 @@ https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 http://live.balajibroadband.com:3500/live/892.m3u8
 
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/181x0-icon.png" group-title="Sports",Sony Ten 5 HD
-https://iptv.aboxbdix-001.workers.dev/live/nested?url=2YuMVRkLNhL5Hmxdg8cgL1HrJhmIKzPjIq41dpEJB2YP_Jk003TdXN6eru4fU5MqiD4PoNQd8SIaBX9zQDNarCOvKJ18zNinewlELuUhsoVnDF7Rlqwjz16gOREhQcNa3hf2pnHRETSMZloUqivR0t21nVtSs_UEwo_Ietr43epq&token=b36e14ece024d14a59410a67742e878a&time=1788651688
+https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ten_Cricket.png?_=20250709151702" group-title="Sports",SONY TEN CRICKET
 https://tv4.udiqipuw544.workers.dev/cdn/live/ten_cricket/playlist.m3u8
