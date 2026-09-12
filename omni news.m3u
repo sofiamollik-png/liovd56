@@ -183,8 +183,8 @@ https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaEqScj1lifXc6WaIGg4dM3vLInfEmIfuM7TmJDuKuew&s" group-title="Indian Bangla",Rupashi Bangla
 https://cdn.devm3u.top/server1/ruposhi.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc7BJRCy/20240823-020704.png" group-title="Indian Bangla",Bangla Plus
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc7BJRCy/20240823-020704.png" group-title="Indian Bangla",Bangla Plus HD
+https://robitv.com/lps/https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc7BJRCy/20240823-020704.png" group-title="Indian Bangla",Sananda Tv
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
@@ -198,14 +198,17 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/a58454f9cbf672bdc18410d9ed5fbed9.png" group-title="Indian Bangla",Amar Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaEqScj1lifXc6WaIGg4dM3vLInfEmIfuM7TmJDuKuew&s" group-title="Indian Bangla",Bangla Plus
+https://robitv.com/rn/http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Dd_Bangla.PNG/250px-Dd_Bangla.PNG" group-title="Indian Bangla",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/nigoO7BtQtL2RxAbCkpFQUjZ_omMyQRsCTHGYjQ0hO4jbIN9DDW4TfYFMpohI_efFpOm1MNiAQ=s160-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla",Aaj Tak Bangla
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/d6/RPlus_Gold_logo_with_slogan_%282013%29.png" group-title="Indian Bangla",R Plus Gold
-https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_kjb2bismRA3BWBahgT4Rh5vtmOA21mcKKy5ES4QKRw&s=10" group-title="Indian Bangla",Kolkata TV
+https://tvsen6.aynaott.com/kolkatatv/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScBXt6153ISU7HhAUMWhaS3UJ9buEEjX-etg&s" group-title="Indian Bangla",Republic Bangla
 https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
@@ -216,6 +219,21 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.vidgyor.com/live/midroll/assets/ZEE_24-GHANTA.png" group-title="Indian Bangla",Zee 24 Ghanta
 https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/d6/RPlus_Gold_logo_with_slogan_%282013%29.png" group-title="Indian Bangla",R Plus Gold
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcKno7tg3GjmTxeVO2k3Owm8s8fs-dR8UazYlgrk87w&s" group-title="Indian Bangla",Somoy Kolkata
+https://robitv.com/lps/https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/samaykolkata.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/d08a8b5a9a440ff586a8a419cf193f5f.png" group-title="Indian Bangla",Express News
+https://robitv.com/lps/https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/expressnews.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbKhQxzD6XxCkGh16MgZ7ysSyuy54vwARIYDTHfKDLQ&s" group-title="Indian Bangla",Ananda Barta
+https://robitv.com/lps/https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandabarta.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zSBhcgEWiwZ7n0LMQSwpxXYj9a08OpdEpSez7A3e7WGE1IMgHWzdSkwjW3Y4GPeOSsVnUy-wolQYqk4MM2Pt" group-title="Indian Bangla",News Live 24/7
+https://prideeast.thelegitpro.in/newslive/newslive/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/akegkk.png" group-title="Hindi Entertainment",STAR PLUS HD
 http://202.70.146.135:8000/play/a009/index.m3u8
 
@@ -223,7 +241,7 @@ http://202.70.146.135:8000/play/a009/index.m3u8
 http://202.70.146.135:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment",Colours
-https://cors-proxy.niloy2work.workers.dev/?url=http%3A%2F%2Frgkkw.live%3A80%2Flive%2F1Aoen7elp5%2FIgMJ60tmAa%2F9370.ts&headers=e30%3D
+https://robitv.com/rn/http://livetv.akr4m.com:8080/bdtv/restrem/60.m3u8
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180612/lfp/aa8xji7qu.webp" group-title="Hindi Entertainment",Colours HD
 https://robitv.com/lps/http://202.70.146.135:8000/play/a00b/index.m3u8
@@ -528,13 +546,10 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/288/60/png-clipart-bangladesh-bengali-discovery-channel-television-channel-bangla-television-blue.png" group-title="Documentary",Discovery HD
 http://202.70.146.135:8000/play/a05z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/288/60/png-clipart-bangladesh-bengali-discovery-channel-television-channel-bangla-television-blue.png" group-title="Documentary",Discovery Hindi
-https://robitv.com/lps/https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/288/60/png-clipart-bangladesh-bengali-discovery-channel-television-channel-bangla-television-blue.png" group-title="Documentary",Discovery Bangla
-http://elitenova.net/live/MAGTF8AV71/bUiJLEJKG5/510485.ts
+https://robitv.com/rn/http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo2ffBdGuqGr-IFVnGo1PYDFHty5JCe77rhQ&s" group-title="Documentary",Discovery Science
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo2ffBdGuqGr-IFVnGo1PYDFHty5JCe77rhQ&s" group-title="Documentary",Discovery Science HD
 https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo2ffBdGuqGr-IFVnGo1PYDFHty5JCe77rhQ&s" group-title="Documentary",Discovery Science
