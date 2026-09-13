@@ -432,10 +432,13 @@ https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="hhttps://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Ten 3 HD
 
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/181x0-icon.png" group-title="Sports",Sony Ten 5 HD
-https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
+https://tv5.genatuz070.workers.dev/cdn/live/sony_sports_5_hd/playlist.m3u8?hdnea=exp=1789286725~acl=/*~id=42164470118836661076502437796177~hmac=baacc2fca4119d52d0384598f1d27b422777381a0f42e72decc770f42da58ae6
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuazqQaQSv5RlfLSrIZ4Um-fZuY7D5bZPFvMQRaKTn9w&s=10" group-title="Sports",TEN Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuazqQaQSv5RlfLSrIZ4Um-fZuY7D5bZPFvMQRaKTn9w&s=10" group-title="Sports",Sony Ten Sports
 https://robitv.com/lps/https://ml-pull-dvc-myco.io:2096/TENSPORTS_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ten_Cricket.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Sports",Sony Ten Cricket
+https://tv4.udiqipuw544.workers.dev/cdn/live/ten_cricket/playlist.m3u8?hdnea=exp=1789286725~acl=/*~id=70671728117160832282149262373012~hmac=724a9fa0dc43710cdab979428faff616fec7f1c6a30ffbb1dbd91d27b421bdfe
 
 #EXTINF:-1 tvg-logo="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS38rUpgvbMqZgOepKw5BYJo_QXXD-HghST7jAEy3sQ8OPGqXno2zTuLwwc&s=10" group-title="Sports",PK Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/chunks.m3u8?lb_backend_hint=6
@@ -492,7 +495,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title=" Kids",Sony Yay Bangla
-https://tv5.genatuz070.workers.dev/cdn/live/sonyyay/playlist.m3u8?hdnea=exp=1789230369~acl=/*~id=11482350907623704689437064631340~hmac=634e88930ee83c20f21d4615f766e770429d18a3c1ad2bf243bde4e02586b13c
+https://tv4.udiqipuw544.workers.dev/cdn/live/sonyyay/playlist.m3u8?hdnea=exp=1789286725~acl=/*~id=69871320165453200861585494730194~hmac=1028a926787572d20bad49d83df92c101257328b67189e4303fbfe4401e5f960
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title=" Kids",Sonic Bangla
 https://cdn.devm3u.top/server1/sonic.m3u8
@@ -583,8 +586,11 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png" group-title="Documentary",Sony BBC Earth HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzH8WRqxrLdvIRCwp79thqHDARnBze84dvTmoPpnIkw0lLzaDw_ecHu-Kd&s=10" group-title="Documentary", BBC Earth HD
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkGqUKmpju0bOD-Yq5DvO3VRopZwxgLguE0BZK8WxfGw&s=10" group-title="Documentary",Sony BBC Earth HD
+https://tv8.akashgo.workers.dev/cdn/live/sonybbc_earth_hd/playlist.m3u8?hdnea=exp=1789286725~acl=/*~id=43509653816327838961056262400085~hmac=d047b96a475c82410b3f4d38f950b31f803e56a14f8c11750a816ca417cb4790
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/zb-6Z5GhUv-wAMcZy7Zb9GX2Gk64bpRSkT0ja8buO77MUXTfEn5csigISOuzhDq5UWUDdopJ_A=s900-c-k-c0x00ffffff-no-rj" group-title="Documentary",Wild Earth HD
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
