@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jwmJ53nB6_jEW7BMd5nW18_zv7f8J-wpvkX2RmBgiWDiuX4eAneLsetrdSwFFpLaUZxLa0yKx-EapsggM-6yfhL7aJMr6z0Uwin_gw=h200" group-title="LIVE EVENT",Tapmad Live 
-https://live.talkoraai.com/match/seg?t=cP2SLpiv4edNuQMQ1uRKgKHVhRAv-1lF2npgowFy8DPjouVddE_hUsbPEchKKTuptpda80HhHjMgU0GnBuxbLGP7iL6FX6DQlAHBYku13Yaix6HteTFh6QkgU8TVKYZXdcgPYCTT8YfmvIVMJxUbdrxGDyM7PWU7ohvtmbZCTqI3zQXL0igmjNXkolc-P_737DCbMVu6xsV-Pe0ss14LTViedpO2OovoMk1YVFt_JD80A04FY1zA9xzJeRgYKk8N5JRbRR5ztrHexPwc_ASVMkccSb4QWJEt7_prNJYZ
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3z8hpA6Gkbe-aJJH0p4pmX2IEBr022-hIbYP9oBX4mj5B__T3Y5TCaYjyLJfQ6Ro44rycdb7=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE EVENT",Prime Sports
+https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="LIVE EVENT",Sony LIV
 http://live.balajibroadband.com:3500/live/155.m3u8
@@ -144,7 +144,7 @@ https://iptv.aboxbdix-001.workers.dev/live/star-news/9f29a3828c77b339719ea951922
 https://flussonic.defineatoz.com/StarjalshaHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png/revision/latest?cb=20210420232042" group-title="Indian Bangla",Star Jalsha HD
-http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=155770&extension=ts&play_token=4N06crMxgY
+https://tvx.kbhub.online/Star-Jalsha.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla HD
 https://cdn.devm3u.top/server1/zeebangla.m3u8
@@ -166,9 +166,6 @@ https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMoXKAey7AxRE7jaMmQ_Yu9hJLzMERbgZmXFJ5zbrhfw&s" group-title="Indian Bangla",Jalsha Movies HD
 https://robitv.com/rn/http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMoXKAey7AxRE7jaMmQ_Yu9hJLzMERbgZmXFJ5zbrhfw&s" group-title="Indian Bangla",Jalsha Movies 4k
-http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=155771&extension=ts&play_token=QIycCGPw7s
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" group-title="Indian Bangla",Colors Bangla Cinema
 https://iptv.aboxbdix-001.workers.dev/Colors-Bangla-CM/tlc8s4_c562cfa3a3f9f3bc.m3u8
@@ -364,7 +361,7 @@ http://103.229.254.25:7001/play/a0es/index.m3u8
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="Movies",Sony Pix HD
-https://tv5.genatuz070.workers.dev/cdn/live/sonypix_hd/playlist.m3u8?hdnea=exp=1789162113~acl=/*~id=04417505980351412623200770994090~hmac=860ea79435a731ab720d86937154b1459fade3b41fc52398d2778a251490ef0c
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98846.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvr9HihzPXsHaU6ZXntzX7FqEhMqcU5C2SiopnrJ5q1A&s=10" group-title="Movies",Sony Movies HD
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
@@ -441,7 +438,7 @@ https://tv5.genatuz070.workers.dev/cdn/live/sony_sports_5_hd/playlist.m3u8?hdnea
 https://robitv.com/lps/https://ml-pull-dvc-myco.io:2096/TENSPORTS_HD/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ten_Cricket.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Sports",Sony Ten Cricket
-https://tv4.udiqipuw544.workers.dev/cdn/live/ten_cricket/playlist.m3u8?hdnea=exp=1789286725~acl=/*~id=70671728117160832282149262373012~hmac=724a9fa0dc43710cdab979428faff616fec7f1c6a30ffbb1dbd91d27b421bdfe
+https://cdn.devm3u.top/server1/tencricket.m3u8
 
 #EXTINF:-1 tvg-logo="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS38rUpgvbMqZgOepKw5BYJo_QXXD-HghST7jAEy3sQ8OPGqXno2zTuLwwc&s=10" group-title="Sports",PK Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/chunks.m3u8?lb_backend_hint=6
