@@ -141,12 +141,12 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://iptv.aboxbdix-001.workers.dev/live/star-news/9f29a3828c77b339719ea951922995a7/1788647815/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png/revision/latest?cb=20210420232042" group-title="Indian Bangla",Star Jalsha
-https://flussonic.defineatoz.com/StarjalshaHD/tracks-v1a1/mono.m3u8
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/198.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png/revision/latest?cb=20210420232042" group-title="Indian Bangla",Star Jalsha HD
 https://tvx.kbhub.online/Star-Jalsha.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian Bangla",Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjoNqi62iumuFAo4ybfB1DBw0MoJ5-2RlSb9tGnEt_Rg&s=10" group-title="Indian Bangla",Zee Bangla HD
 https://cdn.devm3u.top/server1/zeebangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y88mJsQC/20240823_020415.png" group-title="Indian Bangla",Sun Bangla
@@ -156,10 +156,9 @@ https://cdn.devm3u.top/server1/zeebangla.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/3753.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png" group-title="Indian Bangla",Colors Bangla
-https://iptv.aboxbdix-001.workers.dev/COLORS-BANGLA/tldexg_01fec54f3bf11a9a.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png" group-title="Indian Bangla",Colors Bangla HD
-http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=282063&extension=ts&play_token=ryQFMGenxJ
+https://cdn.devm3u.top/server1/colorsbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/250?cb=20240320100114" group-title="Indian Bangla",Jalsha Movies
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
