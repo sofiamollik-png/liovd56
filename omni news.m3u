@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThztxuZ7fSKWHCAo0joPbMAWyvThLFn9LwWtgbqBNNb5kCddqhFHpBTuFV&s=10" group-title="LIVE EVENT",Tapmad BD
+https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3z8hpA6Gkbe-aJJH0p4pmX2IEBr022-hIbYP9oBX4mj5B__T3Y5TCaYjyLJfQ6Ro44rycdb7=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE EVENT",Prime Sports
 https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u
 
