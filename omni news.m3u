@@ -7,10 +7,22 @@ https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u
 https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="LIVE EVENT",Sony LIV
-http://live.balajibroadband.com:3500/live/155.m3u8
+https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2b278jsXhI8wu5wjxlOS05HnSD2h7_j-MhY5p8Jxowg&s=10" group-title="LIVE EVENT",Live Sports
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21h60OobgjL.jpg" group-title="LIVE EVENT",CricHD
+https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u
+ 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21h60OobgjL.jpg" group-title="LIVE EVENT",CricHD S2
+https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21h60OobgjL.jpg" group-title="LIVE EVENT",Sport Live
+https://raw.githubusercontent.com/srhady/CricketLive/refs/heads/main/playlist.m3u
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6ZElRo-UD2Yxyr-U1SaIffpUrB0pDmGkU2q-Pke66CPMzr-TdV2m0qqLjPjEU9Dqwx4m_IUVrTTWdOUb7dSOKw" group-title="LIVE EVENT",Live Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PpVb5iOULEZrCexOi70qiuebX5zRjalvm1B4zyllNL41hcxWubv_6LpoMptuOjx3pKii9WBzTM3pfFgnlcLl=w240-h480-rw" group-title="LIVE EVENT",Willow Cricket Event Info
+https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2b278jsXhI8wu5wjxlOS05HnSD2h7_j-MhY5p8Jxowg&s=10" group-title="LIVE EVENT",Live Sports 2
 https://starsportshindiii.pages.dev/index.m3u8
