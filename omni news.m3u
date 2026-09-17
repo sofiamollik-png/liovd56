@@ -11,12 +11,6 @@ https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlis
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21h60OobgjL.jpg" group-title="LIVE EVENT",CricHD
 https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u
- 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21h60OobgjL.jpg" group-title="LIVE EVENT",CricHD S2
-https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21h60OobgjL.jpg" group-title="LIVE EVENT",Sport Live
-https://raw.githubusercontent.com/srhady/CricketLive/refs/heads/main/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6ZElRo-UD2Yxyr-U1SaIffpUrB0pDmGkU2q-Pke66CPMzr-TdV2m0qqLjPjEU9Dqwx4m_IUVrTTWdOUb7dSOKw" group-title="LIVE EVENT",Live Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
