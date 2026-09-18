@@ -22,13 +22,13 @@ https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sport
 https://starsportshindiii.pages.dev/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangladeshi",BTV HD
-https://btv.hridoytv-channel.workers.dev/btv.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReGzJehDLuqnyS8hf0NMHhKG6FczK178G8JMEZa8a5lw&s=10" group-title="Bangladeshi",BTV CTG
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSy9vaz-72fDRbtQ-hD_0uPp6oV-Q1iPL0_A&s" group-title="Bangladeshi",BTV News HD
-https://btv.hridoytv-channel.workers.dev/news.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/13.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ATN_Bangla_Logo_without_slogan.svg/1280px-ATN_Bangla_Logo_without_slogan.svg.png" group-title="Bangladeshi",ATN Bangla HD
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
