@@ -91,10 +91,10 @@ https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Ananda_TV.svg/1280px-Logo_of_Ananda_TV.svg.png" group-title="Bangladeshi",Ananda TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Global_Television_Logo_BD.svg/250px-Global_Television_Logo_BD.svg.png" group-title="Bangladeshi",Global TV HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/22.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Channel_S_Bangladesh_Logo.png/250px-Channel_S_Bangladesh_Logo.png" group-title="Bangladeshi",Channel S
 https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
@@ -103,13 +103,11 @@ https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chu
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NY5-0XsNLoatLxmj0gDlTe5XSyHHxslkLLR6pnVgrsoYVazphxzu-ePiY8i2B-bN28ygG8SDww=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",MOVIE 24/7
-https://tv8.akashgo.workers.dev/cdn/live/toffee_movie/playlist.m3u8?hdnea=exp=1789230369~acl=/*~id=65471130720861904010894087215885~hmac=5f4e22a7b17449d4229e20ee9b6f305fe1c6fccecaaa287c733099a9cd55629c
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kSKQhT1scQbAXd-maoWH8Gyn84XWJE73CzCVr6lUPmc9g=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",G Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEzYwJYErjyBVB4GXROa5Uf6KMjKFLfk076CG9MDG4oDf8VcF3eU_6I9Q&s=10" group-title="Bangladeshi",Rajdhani TV
-https://tv8.akashgo.workers.dev/cdn/live/rajdhani_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEzYwJYErjyBVB4GXROa5Uf6KMjKFLfk076CG9MDG4oDf8VcF3eU_6I9Q&s=10" group-title="Bangladeshi",SRK
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
@@ -121,13 +119,12 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/ATN_News_Logo_without_slogan.svg/1280px-ATN_News_Logo_without_slogan.svg.png" group-title="Bangladeshi",ATN News
-https://tvsen6.aynaott.com/da6WMXAk/tracks-v1a1/mono.ts.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/6.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/FPl--HCi7e1-FEv8lTdrUN3Cmgf7jU4_er8_5Hy7qVbbG0fAdiFn1tMrACnAc-QgrEO5Vbl0=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Bangladeshi",Ekhon TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Channel_1_Logo_Bangladesh.png" group-title="Bangladeshi",Channel 1
-https://tv.faisal.com.bd/api/proxy?token=bdTBL6XWSw6ArGrV1_VYWa43waEbTAn3ukNUsr9Fh09oEFuufWrWA-CYTPd1NJaZRUpQXqfD-y56MfqqbMl4M5-zpZEuYkyhJbeJD6Dx7mbHkxf1EW42NFjl2HYBSrw_BHw1CndbqAlMwGAIYfRzHGYm9uak1IhJoj5rn4WyWq3YdKpYk_NWaO1_bungLGOTPIyhMFNSeoviH3Rkz7gYxgOF6ryTjITFMY0t63jIBaJx7brqCvzzQX5WFJRbZv32fB6O6st6-AnK3SEt6Nyftq-WVdb_clSJ01tUrQQlf1uoumUMW8QAFUhTCelUhsx0Hs15J13xlIBOsPaV&is_playlist=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Bangladeshi",DBC NEWS
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/tracks-v1a1/mono.ts.m3u8?
@@ -145,10 +142,9 @@ https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/tracks-v1a1/mono.ts.m3u8?
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMDmPoSjTX1px7zI80etxqUQELIYYs6RNgRA&s" group-title="Bangladeshi",Independent Television
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/23.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yFoFpW9JZXbCkMbrc7fc0NJP_1ZqM-aUgIbikDNW_jxudVKod0hU4sdXDjgJR4Y1N7Vz1BiXDPg=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Star News HD
-https://iptv.aboxbdix-001.workers.dev/live/star-news/9f29a3828c77b339719ea951922995a7/1788647815/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png/revision/latest?cb=20210420232042" group-title="Indian Bangla",Star Jalsha
 http://livetv.akr4m.com:8080/bdtv/restrem/76.m3u8
