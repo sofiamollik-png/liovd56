@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThztxuZ7fSKWHCAo0joPbMAWyvThLFn9LwWtgbqBNNb5kCddqhFHpBTuFV&s=10" group-title="LIVE EVENT",Tapmad BD
-https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u
+https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3z8hpA6Gkbe-aJJH0p4pmX2IEBr022-hIbYP9oBX4mj5B__T3Y5TCaYjyLJfQ6Ro44rycdb7=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE EVENT",Prime Sports
 https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u
@@ -10,13 +10,13 @@ https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo
 https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21h60OobgjL.jpg" group-title="LIVE EVENT",CricHD
-https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u
+https         ://raw    .githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PpVb5iOULEZrCexOi70qiuebX5zRjalvm1B4zyllNL41hcxWubv_6LpoMptuOjx3pKii9WBzTM3pfFgnlcLl=w240-h480-rw" group-title="LIVE EVENT",Willow Cricket Event Info
+https       :/        /raw.       githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6ZElRo-UD2Yxyr-U1SaIffpUrB0pDmGkU2q-Pke66CPMzr-TdV2m0qqLjPjEU9Dqwx4m_IUVrTTWdOUb7dSOKw" group-title="LIVE EVENT",Live Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PpVb5iOULEZrCexOi70qiuebX5zRjalvm1B4zyllNL41hcxWubv_6LpoMptuOjx3pKii9WBzTM3pfFgnlcLl=w240-h480-rw" group-title="LIVE EVENT",Willow Cricket Event Info
-https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2b278jsXhI8wu5wjxlOS05HnSD2h7_j-MhY5p8Jxowg&s=10" group-title="LIVE EVENT",Live Sports 2
 https://starsportshindiii.pages.dev/index.m3u8
