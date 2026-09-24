@@ -108,6 +108,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEzYwJYErjyBVB4GXROa5Uf6KMjKFLfk076CG9MDG4oDf8VcF3eU_6I9Q&s=10" group-title="Bangladeshi",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEzYwJYErjyBVB4GXROa5Uf6KMjKFLfk076CG9MDG4oDf8VcF3eU_6I9Q&s=10" group-title="Bangladeshi",SRK
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
@@ -509,7 +510,7 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/68.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRju7Cz0yDr0JHmAmse94OCH6Xve6iTv_lgEGig-BQIyw&s=10" group-title="Kids",Duranto TV HD
-https://vpsbd.cloudbd.one/newr/DURANTA.TV.HD.m3u8
+https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="101" tvg-logo="https://play-lh.googleusercontent.com/_vdQmXMRJJuTxtImbtx0CzALq6KzSCkTvds1iEh86GsWEdEiLVK-XVSOKnjEUsiWEx3GDnhicCxNXps1FzOH" group-title=" Kids",Rongeen Tv
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
